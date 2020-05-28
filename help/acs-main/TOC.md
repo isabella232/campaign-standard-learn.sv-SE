@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 6aa25917e32ca40af73ef33fbfd51c2b14902b04
+source-git-commit: b6d8914043194c7589859d919c3a62c0035b5497
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '488'
 ht-degree: 0%
 
 ---
@@ -99,17 +99,6 @@ ht-degree: 0%
 + Utvecklar {#developing}
    + Anpassade resurser {#custom-resources-develop}
       + [Skapa anpassade resurser](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
-+ Integrera {#integrating}
-   + Microsoft Dynamics 365 Connector {#microsoft-dynamics365-connector}
-      + [Introduktion](/help/integrating/microsoft-dynamics-365-connector/introduction.md)
-      + [enkel inloggning (SSO)](/help/integrating/microsoft-dynamics-365-connector/single-sign-on.md)
-      + [Stöd för URL för speglingssida](/help/integrating/microsoft-dynamics-365-connector/mirror-page-url.md)
-      + [Konfigurera Microsoft Dynamics 365](/help/integrating/microsoft-dynamics-365-connector/configure-microsoft-dynamics-365.md)
-      + [Konfigurera Adobe IO](/help/integrating/microsoft-dynamics-365-connector/configure-adobe-io.md)
-      + [Konfigurera Unifi - introduktion](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-introduction.md)
-      + [Unifi-jobb - översikt](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-overview.md)
-      + [Unifi-jobb - ingress och utgång](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-jobs-ingress-egress.md)
-      + [Unifi - driftsättning och övervakning](/help/integrating/microsoft-dynamics-365-connector/configure-unifi-operalization-and-monitoring.md)
 + Administrerar {#administrating}
    + [Hantera behörigheter för användaråtkomst](/help/administrating/managing-user-access-rights.md)
    + Kontrollpanelen {#control-panel}
