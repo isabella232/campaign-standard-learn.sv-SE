@@ -5,7 +5,7 @@ products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 4ef870e79a3479004dae4c22816338e8fe4563dd
 workflow-type: tm+mt
-source-wordcount: '288'
+source-wordcount: '302'
 ht-degree: 0%
 
 ---
@@ -17,33 +17,31 @@ Adobe Campaign är en plattform för att utforma kundupplevelser i flera kanaler
 
 ## Nyheter
 
+* **[Kontrollpanelen Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+   *Lär dig hur du skapar och installerar ett nytt offentligt/privat GPG-nyckelpar på en viss instans och hur du importerar och installerar en offentlig nyckel till din Adobe Campaign-instans.*
+
 * **[Extern API-aktivitet](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
    *Lär dig hur du konfigurerar och kör ett arbetsflöde med aktiviteten Externt API.*
 
 * **[Profilersättning - Testa e-postmeddelanden med målprofiler](/help/communication-channels/email/profile-substitution.md)**   <br>
    *Lär dig hur du skickar ett korrektur för granskning med en exakt representation av meddelandet som profilen kommer att få.*
 
-* **[Kontrollpanelen - Google TXT-posthantering](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
-   *Lär dig hur du lägger till Google TXT-webbplatsverifieringspost i alla dina underdomäner som används för att skicka e-post till GMAIL-adresser via Kontrollpanelen för Campaign.*
-
-* **[Självstudiekurs: Komma igång med push-meddelanden för Android](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)**   <br>
-   *I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign och ta emot dessa meddelanden i din Android-app.*
 
 ## Personalval
 
 <table>
 <tr>
   <td>
-    <a href="./communication-channels/mobile/in-app/in-app-message-overview.md"> 
-      <img alt="Meddelanden i appen (självstudiekurs)" src="./assets/in_app_messaging.png"/>
+    <a href="./communication-channels/email/profile-substitution.md"> 
+      <img alt="Profilersättning - Testa e-postmeddelanden med målprofiler (video)" src="./assets/substitution_tab.png"/>
     </a>
     <div>
-      <a href="./communication-channels/mobile/in-app/in-app-message-overview.md">
-    <strong>Meddelanden i appen (självstudiekurs)</strong>
+      <a href="./communication-channels/email/profile-substitution.md">
+    <strong>Profilersättning - Testa e-postmeddelanden med målprofiler (video)</strong>
     </a>
     </div>
     <p>
-    <em>Meddelanden i appen är en kanal som gör att du kan visa ett meddelande när användaren är aktiv i ett mobilprogram.</em>
+    <em>Lär dig hur du skickar ett korrektur för granskning med en exakt representation av meddelandet som profilen kommer att få.</em>
     <p>
   </td>
    <td>
@@ -60,16 +58,16 @@ Adobe Campaign är en plattform för att utforma kundupplevelser i flera kanaler
     <p>
   </td>
   <td>
-    <a href="./designing-content/product-listings-in-transactional-email.md">
-      <img alt="Anpassa e-postmeddelanden med dynamiska innehållsblock (video)" src="./assets/acs_product_listings.png" />
+    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <img alt="Självstudiekurs: Komma igång med push-meddelanden för Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="./designing-content/product-listings-in-transactional-email.md">
-    <strong>Produktlistor (självstudiekurs)</strong>
+      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+    <strong>Självstudiekurs: Komma igång med push-meddelanden för Android</strong>
     </a>
     </div>
     <p>
-    <em>Skapa transaktionsmejl med en lista över produkter och erbjudanden. </em>
+    <em>I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign och ta emot dessa meddelanden i din Android-app. </em>
     <p>
   </td>
 </tr>
