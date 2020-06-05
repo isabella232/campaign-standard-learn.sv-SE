@@ -11,7 +11,7 @@ getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/us
 translation-type: tm+mt
 source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
 workflow-type: tm+mt
-source-wordcount: '489'
+source-wordcount: '509'
 ht-degree: 0%
 
 ---
@@ -49,7 +49,7 @@ ht-degree: 0%
       + [Skapa ett e-postmeddelande](/help/communication-channels/email/create-email-from-homepage.md)
       + [Skicka ett test, förbered och skicka ett e-postmeddelande](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Skapa flerspråkig e-post eller SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Konvertera befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Konvertera en befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B-testning](/help/communication-channels/email/a-b-testing.md)
       + [Testa e-postmeddelanden med målprofiler](/help/communication-channels/email/profile-substitution.md)
       + [Granska e-postleveranser och rapporter](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,8 +57,8 @@ ht-degree: 0%
    + Mobil {#mobile}
       + SMS{#sms}
          + [Skapa en SMS-leverans](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Skapa flerspråkiga e-post- och SMS-leveranser](/help/communication-channels/create-multilingual-deliveries.md)
-         + [Konvertera befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Skapa flerspråkig e-post eller SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
+         + [Konvertera en befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push-meddelanden {#push}
          + [Skapa ett push-meddelande](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Skapa ett flerspråkigt push-meddelande](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -111,6 +111,7 @@ ht-degree: 0%
       + [Lägger till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Hantera SSL-certifikat](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT-posthantering](/help/administrating/control-panel/google-txt-record-management.md)
+      + [Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [Felsökning](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Förstå Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
@@ -128,3 +129,5 @@ ht-degree: 0%
    + [Ändra anpassade resurser för sekretessförfrågningar](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Skapa och spåra sekretessförfrågningar manuellt](/help/privacy/create-and-track-privacy-requests.md)
    + [Utföra sekretessbegäranden](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign Deliverability Best Practice Guide](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
