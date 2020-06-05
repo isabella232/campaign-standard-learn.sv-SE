@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
-source-wordcount: '280'
+source-wordcount: '315'
 ht-degree: 0%
 
 ---
@@ -55,25 +55,34 @@ I följande video förklaras hur du lägger till en administratör i en Campaign
 ## Självstudiekurser på Kontrollpanelen
 
 * **Hantera SFTP-servrar**
-   <br>
+
    *Lär dig hur du övervakar serverkapaciteten, vitlistar IP-adresser och lägger till SSH-nycklar*
 
    * [Övervaka serverkapacitet, vitlista IP-adresser och lägga till SSH-nycklar](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
    * [Generera en SSH-nyckel](/help/administrating/control-panel/generate-ssh-key.md)
    * [Ansluta till en SFTP-server](/help/administrating/control-panel/connect-to-sftp-server.md)
-* **[Delegera underdomäner](/help/administrating/control-panel/subdomain-delegation.md)**   <br>
+* **[Delegera underdomäner](/help/administrating/control-panel/subdomain-delegation.md)**
+
    *Lär dig hur du delegerar en underdomän till Adobe Campaign fullständigt*
-* **[Lägger till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)**   <br>
+* **[Lägger till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)**
+
    *Lär dig hur du kan lägga till ett SSL-certifikat för att skydda dina underdomäner.*
-* **[Hantera SSL-certifikat](/help/administrating/control-panel/managing-ssl-certificates.md)**   <br>
+* **[Hantera SSL-certifikat](/help/administrating/control-panel/managing-ssl-certificates.md)**
+
    *Lär dig hur du kan visa SSL-certifikatstatusen för dina underdomäner, samt begära förnyelser.*
-* **[Google TXT-posthantering](/help/administrating/control-panel/google-txt-record-management.md)**   <br>
+* **[Google TXT-posthantering](/help/administrating/control-panel/google-txt-record-management.md)**
+
    *Lär dig hur du lägger till Google TXT-webbplatsverifieringspost i alla dina underdomäner som används för att skicka e-post till GMAIL-adresser via Kontrollpanelen för Campaign.*
 
-* **[Felsökning](/help/administrating/control-panel/trouble-shooting.md)**   <br>
+* **[Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
+   *Lär dig hur du skapar och installerar ett nytt offentligt/privat GPG-nyckelpar på en viss instans och hur du importerar och installerar en offentlig nyckel till din Adobe Campaign-instans.*
+
+* **[Felsökning](/help/administrating/control-panel/trouble-shooting.md)**
+
    *Förstå hur du felsöker Kontrollpanelen*
 
 ## Ytterligare resurser
 
-* [[!UICONTROL Control Panel Help Center]](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
+* [Hjälpcenter för kontrollpanelen](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
 
