@@ -111,7 +111,6 @@ ht-degree: 0%
       + [Lägger till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Hantera SSL-certifikat](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT-posthantering](/help/administrating/control-panel/google-txt-record-management.md)
-      + [Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [Felsökning](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Förstå Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
