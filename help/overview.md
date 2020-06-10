@@ -17,9 +17,6 @@ Adobe Campaign är en plattform för att utforma kundupplevelser i flera kanaler
 
 ## Nyheter
 
-* **[Kontrollpanelen Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
-   *Lär dig hur du skapar och installerar ett nytt offentligt/privat GPG-nyckelpar på en viss instans och hur du importerar och installerar en offentlig nyckel till din Adobe Campaign-instans.*
-
 * **[Extern API-aktivitet](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
    *Lär dig hur du konfigurerar och kör ett arbetsflöde med aktiviteten Externt API.*
 
