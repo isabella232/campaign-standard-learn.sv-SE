@@ -74,10 +74,6 @@ I följande video förklaras hur du lägger till en administratör i en Campaign
 
    *Lär dig hur du lägger till Google TXT-webbplatsverifieringspost i alla dina underdomäner som används för att skicka e-post till GMAIL-adresser via Kontrollpanelen för Campaign.*
 
-* **[Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
-
-   *Lär dig hur du skapar och installerar ett nytt offentligt/privat GPG-nyckelpar på en viss instans och hur du importerar och installerar en offentlig nyckel till din Adobe Campaign-instans.*
-
 * **[Felsökning](/help/administrating/control-panel/trouble-shooting.md)**
 
    *Förstå hur du felsöker Kontrollpanelen*
