@@ -1,16 +1,17 @@
 ---
 title: 'Kom igång med användargränssnittet '
-description: I den här videon får du en översikt över användargränssnittet i Adobe Campaign Standard och de viktigaste funktionerna.
+description: I den här videon får du en översikt över Adobe Campaign Standardens användargränssnitt och de viktigaste funktionerna.
 feature: User Interface
-topics: null
+topics: Getting started
 kt: 3882
+thumbnail: null
 doc-type: feature video
 activity: understand
-team: WWFRE
+team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 381e1873293b8e7ab9331529acc0a3a1d42b7486
 workflow-type: tm+mt
-source-wordcount: '64'
+source-wordcount: '81'
 ht-degree: 0%
 
 ---
@@ -18,12 +19,11 @@ ht-degree: 0%
 
 # Kom igång med användargränssnittet
 
-I den här videon får du en översikt över Adobe Campaign Standard.
-
-Du kommer att:
-
-* Förstå de viktigaste funktionerna i Adobe Campaign Standard
-* Navigera i systemet
-* Förstå menyerna på startsidan
+I den här videon får du en översikt över Adobe Campaign Standardens användargränssnitt och en beskrivning av hur du navigerar till viktiga funktioner.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18469?quality=12)
+
+## Ytterligare resurser
+
+* [Om gränssnittet](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/about-the-interface.html)
+* [Gränssnittsbeskrivning](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/discovering-the-interface/interface-description.html)
