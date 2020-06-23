@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign Standard - självstudiekurser
+user-guide-title: Självstudiekurser för Adobe Campaign Standard
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
@@ -9,15 +9,15 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: a75ff01a4b3e4550ead4612407e101bef8df3aba
+source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
 workflow-type: tm+mt
-source-wordcount: '509'
+source-wordcount: '495'
 ht-degree: 0%
 
 ---
 
 
-# Adobe Campaign Standard - självstudiekurser {#tutorials}
+# Självstudiekurser för Adobe Campaign Standard {#tutorials}
 
 + [Översikt](/help/overview.md)
 + Komma igång {#getting-started}
@@ -49,7 +49,7 @@ ht-degree: 0%
       + [Skapa ett e-postmeddelande](/help/communication-channels/email/create-email-from-homepage.md)
       + [Skicka ett test, förbered och skicka ett e-postmeddelande](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Skapa flerspråkig e-post eller SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Konvertera en befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Konvertera befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B-testning](/help/communication-channels/email/a-b-testing.md)
       + [Testa e-postmeddelanden med målprofiler](/help/communication-channels/email/profile-substitution.md)
       + [Granska e-postleveranser och rapporter](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,8 +57,8 @@ ht-degree: 0%
    + Mobil {#mobile}
       + SMS{#sms}
          + [Skapa en SMS-leverans](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Skapa flerspråkig e-post eller SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
-         + [Konvertera en befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Skapa flerspråkiga e-post- och SMS-leveranser](/help/communication-channels/create-multilingual-deliveries.md)
+         + [Konvertera befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push-meddelanden {#push}
          + [Skapa ett push-meddelande](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Skapa ett flerspråkigt push-meddelande](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -67,7 +67,7 @@ ht-degree: 0%
          + [Introduktion till meddelanden i appen](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Konfigurera händelser](/help/communication-channels/mobile/in-app/configure-events.md)
          + [Skicka ett meddelande i appen](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
-         + [Målanvändare baserat på deras Campaign-profil](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
+         + [Target-användare baserat på deras Campaign-profil](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [Skapa en leverans i appen i ett arbetsflöde](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Rapportera om leverans i appen](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [Konfigurera ett mobilprogram med Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
@@ -104,13 +104,14 @@ ht-degree: 0%
    + [Hantera behörigheter för användaråtkomst](/help/administrating/managing-user-access-rights.md)
    + Kontrollpanelen {#control-panel}
       + [Översikt över kontrollpanelen](/help/administrating/control-panel/control-panel-overview.md)
-      + [Övervaka serverkapacitet, vitlista IP-adresser och lägga till SSH-nycklar](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+      + [Övervaka serverkapacitet, tillåt listning av IP-adresser och lägga till SSH-nycklar](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Generera en SSH-nyckel](/help/administrating/control-panel/generate-ssh-key.md)
       + [Ansluta till en SFTP-server](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Delegera underdomäner](/help/administrating/control-panel/subdomain-delegation.md)
       + [Lägger till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Hantera SSL-certifikat](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT-posthantering](/help/administrating/control-panel/google-txt-record-management.md)
+      + [Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
       + [Felsökning](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Förstå Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
@@ -128,5 +129,3 @@ ht-degree: 0%
    + [Ändra anpassade resurser för sekretessförfrågningar](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Skapa och spåra sekretessförfrågningar manuellt](/help/privacy/create-and-track-privacy-requests.md)
    + [Utföra sekretessbegäranden](/help/privacy/execute-privacy-requests.md)
-+ [Adobe Campaign Deliverability Best Practice Guide](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-
