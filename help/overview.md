@@ -1,9 +1,9 @@
 ---
-title: Självstudiekurser om Adobe Campaign Standard - översikt
-description: Adobe Campaign är en plattform för att utforma kundupplevelser i flera kanaler och erbjuder en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om alla funktioner i Adobe Campaign Standard.
+title: Självstudiekurser för Adobe Campaign Standard - översikt
+description: Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera kanaler och utgör en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign Standardens många funktioner.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 4ef870e79a3479004dae4c22816338e8fe4563dd
+source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -13,9 +13,12 @@ ht-degree: 0%
 
 # Översikt
 
-Adobe Campaign är en plattform för att utforma kundupplevelser i flera kanaler och erbjuder en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om alla funktioner i Adobe Campaign Standard.
+Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera kanaler och utgör en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign Standardens många funktioner.
 
 ## Nyheter
+
+* **[Kontrollpanelen Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+   *Lär dig hur du skapar och installerar ett nytt offentligt/privat GPG-nyckelpar på en viss instans och hur du importerar och installerar en offentlig nyckel till din Adobe Campaign-instans.*
 
 * **[Extern API-aktivitet](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
    *Lär dig hur du konfigurerar och kör ett arbetsflöde med aktiviteten Externt API.*
