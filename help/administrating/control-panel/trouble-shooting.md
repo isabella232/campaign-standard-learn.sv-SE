@@ -1,6 +1,6 @@
 ---
 title: Problem med att skjuta kontrollpanelen
-description: På Kontrollpanelen kan du övervaka och hantera din SFTP-lagring per instans och vitlista med IP-adresser.
+description: På Kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och tillåta IP-adresser i listor.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -8,9 +8,9 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '336'
 ht-degree: 0%
 
 ---
@@ -62,8 +62,8 @@ Administratören måste lägga till användaren i produktprofilen `Campaign-xxx-
 
 Anslutning till SFTP-servrar kräver:
 
-* [!UICONTROL Whitelisting] IP-adressen som du ansluter till SFTP-servern från
-* Privat/offentlig nyckel som måste registreras med Adobe Campaign
+* [!UICONTROL allow listing] IP-adressen som du ansluter till SFTP-servern från
+* Privat/offentligt nyckelpar som måste registreras i Adobe Campaign
 * Om du ansluter till SFTP-servern direkt behöver du också SFTP-klientprogramvara
 
 ### Användbar dokumentation
