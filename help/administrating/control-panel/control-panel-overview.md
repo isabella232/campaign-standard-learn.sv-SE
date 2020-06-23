@@ -1,6 +1,6 @@
 ---
 title: Kontrollpanelen
-description: På Kontrollpanelen kan du övervaka och hantera din SFTP-lagring per instans och vitlista med IP-adresser.
+description: På Kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och tillåta IP-adresser i listor.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
 workflow-type: tm+mt
-source-wordcount: '315'
+source-wordcount: '361'
 ht-degree: 0%
 
 ---
@@ -18,11 +18,15 @@ ht-degree: 0%
 
 # [!UICONTROL Control Panel] {#control-panel}
 
-Adobe Campaign- [!UICONTROL Control Panel] administratörer kan övervaka viktiga resurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans eller vitlista-IP-adresser.
+>[!NOTE]
+>
+>Termerna&quot;[!UICONTROL whitelist]&quot; och&quot;[!UICONTROL blacklist]&quot; har ersatts med&quot;[!UICONTROL allow list]&quot; och&quot;[!UICONTROL block list]&quot;i dokumentationen för Adobe Campaign. Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, alternativnamn, intern kod samt självstudievideor. De kommer att ersättas i kommande versioner av Kontrollpanelen.
+
+Med [!UICONTROL Control Panel] den kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans eller [!UICONTROL allow list] IP-adresser.
 
 ## Åtkomst [!UICONTROL Control Panel]
 
-Gå till Experience Cloud Home för att få åtkomst till Kontrollpanelen: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Gå till startsidan för Kontrollpanelen: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -56,14 +60,14 @@ I följande video förklaras hur du lägger till en administratör i en Campaign
 
 * **Hantera SFTP-servrar**
 
-   *Lär dig hur du övervakar serverkapaciteten, vitlistar IP-adresser och lägger till SSH-nycklar*
+   *Lär dig hur du övervakar serverkapaciteten, tillåter IP-adresser i listor och lägger till SSH-nycklar*
 
-   * [Övervaka serverkapacitet, vitlista IP-adresser och lägga till SSH-nycklar](/help/administrating/control-panel/monitoring-server-capacity-whitelisting-adding-ssh-key.md)
+   * [Övervaka serverkapacitet, tillåt listning av IP-adresser och lägga till SSH-nycklar](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Generera en SSH-nyckel](/help/administrating/control-panel/generate-ssh-key.md)
    * [Ansluta till en SFTP-server](/help/administrating/control-panel/connect-to-sftp-server.md)
 * **[Delegera underdomäner](/help/administrating/control-panel/subdomain-delegation.md)**
 
-   *Lär dig hur du delegerar en underdomän till Adobe Campaign fullständigt*
+   *Lär dig hur du delegerar en underdomän till Adobe Campaign fullt ut*
 * **[Lägger till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *Lär dig hur du kan lägga till ett SSL-certifikat för att skydda dina underdomäner.*
@@ -73,6 +77,10 @@ I följande video förklaras hur du lägger till en administratör i en Campaign
 * **[Google TXT-posthantering](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Lär dig hur du lägger till Google TXT-webbplatsverifieringspost i alla dina underdomäner som används för att skicka e-post till GMAIL-adresser via Kontrollpanelen för Campaign.*
+
+* **[Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
+   *Lär dig hur du skapar och installerar ett nytt offentligt/privat GPG-nyckelpar på en viss instans och hur du importerar och installerar en offentlig nyckel till din Adobe Campaign-instans.*
 
 * **[Felsökning](/help/administrating/control-panel/trouble-shooting.md)**
 
