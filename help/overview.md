@@ -3,7 +3,7 @@ title: Självstudiekurser för Adobe Campaign Standard - översikt
 description: Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera kanaler och utgör en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign Standardens många funktioner.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 3f3fec14bcd2777146a08a269c298f9b8ca17acd
+source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
 workflow-type: tm+mt
 source-wordcount: '302'
 ht-degree: 0%
@@ -17,15 +17,17 @@ Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera 
 
 ## Nyheter
 
-* **[Kontrollpanelen Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**   <br>
+* **[Kontrollpanelen - Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+
    *Lär dig hur du skapar och installerar ett nytt offentligt/privat GPG-nyckelpar på en viss instans och hur du importerar och installerar en offentlig nyckel till din Adobe Campaign-instans.*
 
-* **[Extern API-aktivitet](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**   <br>
+* **[Extern API-aktivitet](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+
    *Lär dig hur du konfigurerar och kör ett arbetsflöde med aktiviteten Externt API.*
 
-* **[Profilersättning - Testa e-postmeddelanden med målprofiler](/help/communication-channels/email/profile-substitution.md)**   <br>
-   *Lär dig hur du skickar ett korrektur för granskning med en exakt representation av meddelandet som profilen kommer att få.*
+* **[Profilersättning - Testa e-postmeddelanden med målprofiler](/help/communication-channels/email/profile-substitution.md)**
 
+   *Lär dig hur du skickar ett korrektur för granskning med en exakt representation av meddelandet som profilen kommer att få.*
 
 ## Personalval
 
