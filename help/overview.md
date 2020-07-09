@@ -3,9 +3,9 @@ title: Självstudiekurser för Adobe Campaign Standard - översikt
 description: Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera kanaler och utgör en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign Standardens många funktioner.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: dc7295c80b8c4ef3d641baf885d50ee55d4f5197
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '302'
+source-wordcount: '308'
 ht-degree: 0%
 
 ---
@@ -17,9 +17,9 @@ Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera 
 
 ## Nyheter
 
-* **[Kontrollpanelen - Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **[GPG-nyckelhantering](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Lär dig hur du skapar och installerar ett nytt offentligt/privat GPG-nyckelpar på en viss instans och hur du importerar och installerar en offentlig nyckel till din Adobe Campaign-instans.*
+   *Lär dig hur du skapar och installerar ett nyckelpar för offentlig/privat nyckel på en angiven Campaign-instans för kryptering av utgående data, samt importerar och installerar en offentlig nyckel på en Campaign-instans för dekryptering av inkommande data.*
 
 * **[Extern API-aktivitet](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
