@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 837aeb12ed95929b291c25097a9e91e34fa5d4a6
+source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '495'
+source-wordcount: '514'
 ht-degree: 0%
 
 ---
@@ -111,7 +111,11 @@ ht-degree: 0%
       + [Lägger till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Hantera SSL-certifikat](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Google TXT-posthantering](/help/administrating/control-panel/google-txt-record-management.md)
-      + [Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)
+      + GPG-nyckelhantering {#gpg-key-management}
+         + [Nyckelhantering med GPG - översikt](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
+         + [Generera och installera GPG-nycklar för datakryptering](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+         + [Kryptera data med en GPG-nyckel](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+         + [Dekrypterar data](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
       + [Felsökning](/help/administrating/control-panel/trouble-shooting.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Förstå Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
