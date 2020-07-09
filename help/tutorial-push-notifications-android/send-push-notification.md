@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: afe1ae6c8d73b7b776e0eec327fa16db76c23ce1
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 2%
@@ -18,9 +18,9 @@ ht-degree: 2%
 
 # Del 6 - Skicka [!UICONTROL Push Notification] för att testa ditt arbete
 
-Nu måste vi skapa och skicka ett [!UICONTROL Push Notification] formulär med Adobe Campaign. . Följ de här stegen för att skapa ett enkelt push-meddelande för testning.
+Nu måste vi skapa och skicka en [!UICONTROL Push Notification] med Adobe Campaign. . Följ de här stegen för att skapa ett enkelt push-meddelande för testning.
 
-* Logga in på din instans av Adobe Campaign Standard
+* Logga in på din Adobe Campaign Standard-instans
 * Klicka på **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * Markera **[!UICONTROL Send push to app subscribers(mobileApp)]** och klicka på Nästa
 * Välj lämplig mobilapp i **[!UICONTROL Associate a Mobile App to a delivery]** listrutan och klicka på **[!UICONTROL Next]**
