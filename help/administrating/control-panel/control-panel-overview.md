@@ -1,6 +1,6 @@
 ---
 title: Kontrollpanelen
-description: På Kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och tillåta IP-adresser i listor.
+description: På Kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och IP-adresser för tillåtelselista.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 4bbe44e592085428d0eaa588aa5e773c925ce3bb
+source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
-source-wordcount: '361'
+source-wordcount: '386'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ I följande video förklaras hur du lägger till en administratör i en Campaign
 
 * **Hantera SFTP-servrar**
 
-   *Lär dig hur du övervakar serverkapaciteten, tillåter IP-adresser i listor och lägger till SSH-nycklar*
+   *Lär dig hur du övervakar serverkapaciteten, IP-adresser i tillåtelselista och lägger till SSH-nycklar:*
 
    * [Övervaka serverkapacitet, tillåt listning av IP-adresser och lägga till SSH-nycklar](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
    * [Generera en SSH-nyckel](/help/administrating/control-panel/generate-ssh-key.md)
@@ -78,9 +78,13 @@ I följande video förklaras hur du lägger till en administratör i en Campaign
 
    *Lär dig hur du lägger till Google TXT-webbplatsverifieringspost i alla dina underdomäner som används för att skicka e-post till GMAIL-adresser via Kontrollpanelen för Campaign.*
 
-* **[Generera och installera GPG-nycklar](/help/administrating/control-panel/generating-and-installing-gpg-keys.md)**
+* **GPG-nyckelhantering**
 
-   *Lär dig hur du skapar och installerar ett nytt offentligt/privat GPG-nyckelpar på en viss instans och hur du importerar och installerar en offentlig nyckel till din Adobe Campaign-instans.*
+   *Lär dig hur du skapar och installerar ett nyckelpar för offentlig/privat nyckel på en angiven Campaign-instans för kryptering av utgående data, samt importerar och installerar en offentlig nyckel på en Campaign-instans för dekryptering av inkommande data:*
+
+   * [Generera och installera GPG-nycklar för datakryptering](./gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   * [Kryptera data med en GPG-nyckel](./gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   * [Dekrypterar data](./gpg-key-management/decrypting-data.md)
 
 * **[Felsökning](/help/administrating/control-panel/trouble-shooting.md)**
 
