@@ -9,9 +9,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tu
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '514'
+source-wordcount: '503'
 ht-degree: 0%
 
 ---
@@ -57,7 +57,6 @@ ht-degree: 0%
    + Mobil {#mobile}
       + SMS{#sms}
          + [Skapa en SMS-leverans](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Skapa flerspråkiga e-post- och SMS-leveranser](/help/communication-channels/create-multilingual-deliveries.md)
          + [Konvertera befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push-meddelanden {#push}
          + [Skapa ett push-meddelande](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
@@ -87,7 +86,6 @@ ht-degree: 0%
    + [Konfigurera produktlistor i transaktionsmeddelanden](/help/designing-content/product-listings-in-transactional-email.md)
 + Hantera processer och data {#managing-processes-and-data}
    + [Skapa ett arbetsflöde](/help/managing-processes-and-data/create-workflow.md)
-   + [Importera profiler med ett arbetsflöde](/help/managing-processes-and-data/importing-profiles.md)
    + Körningsaktiviteter {#execution-activities}
       + [Extern signalaktivitet](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Datahanteringsaktiviteter {#data-management-activities}
