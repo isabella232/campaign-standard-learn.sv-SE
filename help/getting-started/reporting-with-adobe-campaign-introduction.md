@@ -1,6 +1,6 @@
 ---
 title: Introduktion till rapportering
-description: I den här videon får du en översikt över rapporteringsfunktionerna i Adobe Campaign Standard
+description: I den här videon får du en översikt över rapporteringsfunktionerna för Adobe Campaign Standard
 feature: Dynamic Reports
 topics: null
 kt: 3974
@@ -8,7 +8,7 @@ doc-type: value video
 activity: understand
 team: PMM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '54'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Introduktion till rapportering
 
-I den här videon får du en översikt över rapporteringsfunktionerna i Adobe Campaign Standard
+I den här videon får du en översikt över rapporteringsfunktionerna för Adobe Campaign Standard
 
 >[!VIDEO](https://video.tv.adobe.com/v/29461?quality=12)
 
