@@ -1,6 +1,6 @@
 ---
 title: Konfigurera händelser
-description: 'När du konfigurerar ett meddelande i appen i ACS-händelser (Adobe Campaign Standard) definierar du vilken användarinitierad åtgärd som ska utlösa meddelandet som ska visas. '
+description: 'När du konfigurerar ett meddelande i appen i Adobe Campaign Standard-händelser (ACS) definierar du vilken användarinitierad åtgärd som ska utlösa meddelandet som ska visas. '
 feature: In-App
 topics: Mobile
 kt: 2548
@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '220'
 ht-degree: 0%
 
 ---
@@ -59,7 +59,7 @@ Följande tre kategorier stöds beroende på vad som finns i din mobilapp:
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] kräver en Adobe Analytics-licens. När du har konfigurerat [tillägget](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) [!DNL Analytics] och lagt till [Analytics i appen](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)blir dessa händelser tillgängliga i ACS- [!UICONTROL In-App] konfigurationen.
+>[!UICONTROL Analytics events] kräver en licens för Adobe Analytics. När du har konfigurerat [[!DNL Analytics] ](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) tillägget och lagt till [Analytics i appen](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)blir dessa händelser tillgängliga i ACS- [!UICONTROL In-App] konfigurationen.
 
 ## Ytterligare resurser
 
