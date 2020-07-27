@@ -1,6 +1,6 @@
 ---
 title: Problem med att skjuta kontrollpanelen
-description: På Kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och tillåta IP-adresser i listor.
+description: På Kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och IP-adresser för tillåtelselista.
 feature: Control Panel
 topics: null
 kt: 2938
@@ -10,8 +10,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
 workflow-type: tm+mt
-source-wordcount: '336'
-ht-degree: 0%
+source-wordcount: '330'
+ht-degree: 1%
 
 ---
 
@@ -55,8 +55,8 @@ Administratören måste lägga till användaren i produktprofilen `Campaign-xxx-
 
 ### Användbar dokumentation
 
-* [Upptäck [!UICONTROL-kontrollpanelen]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
-* [Hantera behörigheter för [!UICONTROL-kontrollpanelen]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
+* [Upptäck [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-overview.html)
+* [Hantera behörigheter för [!UICONTROL Control Panel]](https://helpx.adobe.com/campaign/kb/control-panel-access.html)
 
 ## Upprättar anslutning till SFTP-server (klient eller API)
 
