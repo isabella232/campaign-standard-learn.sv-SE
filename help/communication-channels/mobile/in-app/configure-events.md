@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -59,7 +59,7 @@ Följande tre kategorier stöds beroende på vad som finns i din mobilapp:
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] kräver en licens för Adobe Analytics. När du har konfigurerat [[!DNL Analytics] ](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) tillägget och lagt till [Analytics i appen](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)blir dessa händelser tillgängliga i ACS- [!UICONTROL In-App] konfigurationen.
+>[!UICONTROL Analytics events] kräver en Adobe Analytics-licens. När du har konfigurerat [[!DNL Analytics] ](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) tillägget och lagt till [Analytics i appen](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)blir dessa händelser tillgängliga i ACS- [!UICONTROL In-App] konfigurationen.
 
 ## Ytterligare resurser
 
