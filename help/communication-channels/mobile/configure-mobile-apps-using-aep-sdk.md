@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -25,6 +25,7 @@ I videofilmerna nedan visas de steg som krävs för att konfigurera en mobilapp 
 >[!VIDEO](https://video.tv.adobe.com/v/26224?quality=12)
 
 >[!NOTE]
+>
 >I [Konfigurera programmet i finns detaljerad dokumentation [!UICONTROL Launch]](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html#ConfiguringyourapplicationinLaunch) och kodmallar som används i videon.
 
 ## Ytterligare resurser
