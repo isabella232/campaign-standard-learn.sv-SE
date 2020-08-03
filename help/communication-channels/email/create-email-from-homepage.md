@@ -1,6 +1,6 @@
 ---
 title: Skapa en e-postleverans
-description: 'Du kan skapa ett e-postmeddelande från en kampanj, från hemsidan för Adobe Campaign eller i listan över marknadsföringsaktiviteter. Du kan också skapa e-postmeddelanden som skickas en gång eller som upprepas i ett arbetsflöde. I den här videon förklaras hur du skapar en e-postleverans från hemsidan. '
+description: 'Du kan skapa ett e-postmeddelande från en kampanj, från Adobe Campaign hemsida eller i listan över marknadsföringsaktiviteter. Du kan också skapa e-postmeddelanden som skickas en gång eller som upprepas i ett arbetsflöde. I den här videon förklaras hur du skapar en e-postleverans från hemsidan. '
 feature: Email
 topics: null
 kt: 1807
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # Skapa en e-postleverans {#create-an-email-delivery}
 
-Du kan skapa en fristående e-postleverans från en kampanj, från hemsidan för Adobe Campaign eller i [!UICONTROL Marketing Activity] listan. Du kan också skapa och skicka enstaka och återkommande e-postmeddelanden från ett arbetsflöde.
+Du kan skapa en fristående e-postleverans från en kampanj, från Adobe Campaign hemsida eller i [!UICONTROL Marketing Activity] listan. Du kan också skapa och skicka enstaka och återkommande e-postmeddelanden från ett arbetsflöde.
 
 I den här videon förklaras hur du skapar en fristående e-postleverans från hemsidan.
 
