@@ -94,10 +94,11 @@ Nu är det ett bra tillfälle att testa appen innan du går vidare.
 
 ### Kontrollera prenumeranter på mobilprogram
 
-Logga in på din instans av Adobe Campaign Standard.
+Logga in på din Adobe Campaign Standard-instans.
 Navigera **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Öppna rätt mobilapplikation. Tab to the [!UICONTROL Mobile Application Subscribers] tab. Du borde se en [!UICONTROL registration token ]lista.
 
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
 >[ANMÄRKNING]
+>
 >Om du inte ser någon registreringstoken på [!UICONTROL Mobile Application Subscribers] fliken STOP här innan du fortsätter.
