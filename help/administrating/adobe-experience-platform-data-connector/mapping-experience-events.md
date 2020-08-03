@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '76'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande.
+>
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
 Lär dig mappa [!UICONTROL Experience Events] i Adobe Experience Platform (AEP).
