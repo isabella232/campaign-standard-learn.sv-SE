@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -21,6 +21,7 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande.
+>
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
 Lär dig hur du mappar startdata och testprofiler med Adobe Experience Platform.
