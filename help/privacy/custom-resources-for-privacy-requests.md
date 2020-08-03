@@ -1,6 +1,6 @@
 ---
 title: Ändra anpassade resurser när du konfigurerar Adobe Campaign Standard (ACS) för sekretessförfrågningar
-description: När du konfigurerar Adobe Campaign Standard (ACS) för att hantera sekretessförfrågningar måste du se till att anpassade data som är länkade till en profil tas bort när profilen tas bort. I den här videon förklaras hur du ändrar anpassade resurser för att uppfylla det här kravet.
+description: När du konfigurerar Adobe Campaign Standard (ACS) för att hantera sekretessförfrågningar måste du se till att alla anpassade data som är länkade till en profil tas bort när profilen tas bort. I den här videon förklaras hur du ändrar anpassade resurser för att uppfylla det här kravet.
 feature: GDPR, CCPA
 topic: null
 kt: 1243
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -25,7 +25,8 @@ När du konfigurerar Adobe Campaign Standard för att hantera sekretessförfråg
 >[!NOTE]
 >
 >**Avanmäl dig till försäljning av personuppgifter (CCPA)**
->Från och med 19.4 finns det ett CCPA-avanmälningsfält som är klart i Campaign-gränssnittet och API:t. För att 19.3 ska kunna utnyttja denna information måste du skapa fältet >i Adobe Campaign Standard. Mer information finns i den [detaljerade dokumentationen](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) .
+>
+>Från och med 19.4 finns det ett CCPA-avanmälningsfält som är klart i Campaign-gränssnittet och API:t. För att 19.3 ska kunna utnyttja informationen måste du skapa det här >fältet i Adobe Campaign Standard. Mer information finns i den [detaljerade dokumentationen](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) .
 >
 > Du kan kontrollera versionen genom att klicka på ? i det övre högra hörnet av gränssnittet och väljer Om.
 
