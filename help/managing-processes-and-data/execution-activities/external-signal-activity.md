@@ -27,13 +27,11 @@ Detta inkluderar även en ny **testaktivitet** där du kan köra tester på den 
 I följande video förklaras de konfigurationssteg som krävs för att:
 
 1. **Ta emot externa parametrar** från ett externt system, som ett innehållshanteringssystem (CRM):
-
    * Deklarera parametrarna i den externa signalaktiviteten
    * Konfigurera API-anropet för att definiera parametrarna och utlösa arbetsflödet för extern signalaktivitet. Mer information om hur du konfigurerar ett API-anrop finns i [Utlösa en signalaktivitet](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
 
 1. **Anpassa ett arbetsflöde med externa parametrar** (händelsevariabler):
-
-   När arbetsflödet har utlösts hämtas parametrarna in i arbetsflödets händelsevariabler och kan användas i arbetsflödet. Se [dokumentationen](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) för alla aktiviteter som kan anpassas med händelsevariabler:
+När arbetsflödet har utlösts hämtas parametrarna in i arbetsflödets händelsevariabler och kan användas i arbetsflödet. Se [dokumentationen](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) för alla aktiviteter som kan anpassas med händelsevariabler:
 
    * Konfigurera testaktiviteten (nytt i 19.2)
    * Konfigurera aktiviteten Läs målgrupp och E-postleverans
