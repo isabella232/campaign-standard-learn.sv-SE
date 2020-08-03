@@ -1,6 +1,6 @@
 ---
 title: Konfigurera produktlistor i transaktionsmeddelanden
-description: I videorna beskrivs de steg som krävs för att konfigurera produktlistor i transaktionsmeddelanden i Adobe Campaign Standard (ACS).
+description: I videoklippen beskrivs de steg som krävs för att konfigurera produktlistor i transaktionsmeddelanden i Adobe Campaign Standard (ACS).
 feature: Transactional Emails
 topics: Content Creation
 kt: 1728
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
 workflow-type: tm+mt
 source-wordcount: '175'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
