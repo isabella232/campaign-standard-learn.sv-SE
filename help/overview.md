@@ -1,12 +1,12 @@
 ---
-title: Självstudiekurser för Adobe Campaign Standard - översikt
+title: Adobe Campaign Standard Tutorials - översikt
 description: Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera kanaler och utgör en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign Standardens många funktioner.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
-ht-degree: 0%
+source-wordcount: '280'
+ht-degree: 4%
 
 ---
 
@@ -24,10 +24,6 @@ Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera 
 * **[Extern API-aktivitet](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *Lär dig hur du konfigurerar och kör ett arbetsflöde med aktiviteten Externt API.*
-
-* **[Profilersättning - Testa e-postmeddelanden med målprofiler](/help/communication-channels/email/profile-substitution.md)**
-
-   *Lär dig hur du skickar ett korrektur för granskning med en exakt representation av meddelandet som profilen kommer att få.*
 
 ## Personalval
 
@@ -77,4 +73,4 @@ Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera 
 
 ## Ytterligare resurser
 
-* [Dokumentation](https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html)
+* [Dokumentation](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html)
