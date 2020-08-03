@@ -1,6 +1,6 @@
 ---
 title: Komma igång med push-meddelanden med Android-app
-description: Med Adobe Campaign kan ni skicka personaliserade och segmenterade push-meddelanden till iOS- och Android-mobilenheter. Dessa meddelanden tas emot i mobilprogram som du konfigurerar i Adobe Campaign genom att utnyttja Experience Cloud Mobile SDK V4 eller Experience Platform SDK. I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign och ta emot dessa meddelanden i din Android-app.
+description: Med Adobe Campaign kan du skicka personaliserade och segmenterade push-meddelanden till iOS- och Android-mobilenheter. Dessa meddelanden tas emot i mobilappar som du konfigurerar i Adobe Campaign genom att använda Experience Cloud Mobile SDK V4 eller Experience Platform SDK. I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign och ta emot dessa meddelanden i din Android-app.
 feature: Push
 topics: Mobile
 kt: 3846
@@ -17,8 +17,8 @@ ht-degree: 0%
 
 # Komma igång med push-meddelanden med Android-app
 
-Med Adobe Campaign kan ni skicka personaliserade och segmenterade push-meddelanden till iOS- och Android-mobilenheter.
-Dessa meddelanden tas emot i mobilprogram som du konfigurerar i Adobe Campaign genom att utnyttja Experience Cloud Mobile SDK V4 eller Experience Platform SDK.
+Med Adobe Campaign kan du skicka personaliserade och segmenterade push-meddelanden till iOS- och Android-mobilenheter.
+Dessa meddelanden tas emot i mobilappar som du konfigurerar i Adobe Campaign genom att använda Experience Cloud Mobile SDK V4 eller Experience Platform SDK.
 I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign och ta emot dessa meddelanden i din Android-app.
 
 ## Förutsättningar
@@ -27,7 +27,7 @@ I den här självstudiekursen får du hjälp med att skicka push-meddelanden fr�
    * [Videosjälvstudiekurs](https://video.tv.adobe.com/v/26224?quality=12&captions=swe)
    * [Dokumentation](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
-* Kontrollera att motsvarande egenskaps status i Adobe Campaign Standard är konfigurerad.
+* Kontrollera att den motsvarande egenskapens status i Adobe Campaign Standarden är inställd på konfigurerad.
 * [Har ett aktivt Google Firebase-konto](https://firebase.google.com)
 * [Den senaste versionen av Android Studio är installerad](https://developer.android.com/studio)
 
