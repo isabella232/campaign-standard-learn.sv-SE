@@ -1,6 +1,6 @@
 ---
 title: Skapa rapportbaserade anpassade profilattribut
-description: Adobe Campaigns dynamiska rapporter är utformade för att vara en flexibel frihandsmiljö där ni kan utforska data genom att ta med anpassade profilattribut. Det gör att du kan kombinera mått, mätvärden och tidsintervall i vilken kombination som helst, med obegränsade uppdelningar och jämförelser. I den här videon förklaras hur du skapar en rapport baserad på anpassade profilattribut.
+description: Adobe Campaign Dynamic Reports är utformade för att vara en flexibel frihandsmiljö där du kan utforska data genom att ta med anpassade profilattribut. Det gör att du kan kombinera mått, mätvärden och tidsintervall i vilken kombination som helst, med obegränsade uppdelningar och jämförelser. I den här videon förklaras hur du skapar en rapport baserad på anpassade profilattribut.
 feature: Dynamic Reporting
 kt: 1444
 doc-type: feature video
@@ -10,14 +10,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # Skapa en rapport baserad på anpassade profilattribut
 
-Adobe Campaigns [!UICONTROL Dynamic Reports] är utformad för att vara en flexibel frihandsmiljö där du kan utforska data genom att inkludera anpassade profilattribut. Det gör att du kan kombinera mått, mätvärden och tidsintervall i vilken kombination som helst, med obegränsade uppdelningar och jämförelser.
+Adobe Campaign är [!UICONTROL Dynamic Reports] en flexibel frihandsmiljö där du kan utforska data genom att ta med anpassade profilattribut. Det gör att du kan kombinera mått, mätvärden och tidsintervall i vilken kombination som helst, med obegränsade uppdelningar och jämförelser.
 
 I den här videon förklaras hur du skapar en rapport baserad på anpassade profilattribut.
 
