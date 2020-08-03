@@ -1,6 +1,6 @@
 ---
 title: Delegera underdomäner
-description: 'Med Adobe Campaign-kontrollpanelen kan du delegera en underdomän till Adobe Campaign helt och hållet. Gör så här:'
+description: 'Med kontrollpanelen Adobe Campaign kan du delegera en underdomän till Adobe Campaign helt. Gör så här:'
 feature: Control Panel
 topics: null
 kt: 4115
@@ -11,18 +11,18 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 0%
+ht-degree: 11%
 
 ---
 
 
 # Delegera underdomäner
 
-Med Adobe Campaign [!UICONTROL Control Panel] kan ni delegera en underdomän till Adobe Campaign helt och hållet.
+Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
 
 >[!NOTE]
-> Deldomänsdelegering från [!UICONTROL Control Panel] kommer att vara tillgänglig som betaversion i slutet av januari, med förbehåll för
-> regelbundna uppdateringar och ändringar utan föregående meddelande.
+>
+>Deldomänsdelegering från [!UICONTROL Control Panel] kommer att vara tillgänglig som betaversion i slutet av januari, med reservation för ändringar och uppdateringar ofta utan föregående meddelande.
 
 ## Åtkomst [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
@@ -43,4 +43,4 @@ I videon nedan visas hur du delegerar underdomäner.
 ## Ytterligare resurser
 
 * [Lägger till SSL-certifierat](/help/administrating/control-panel/adding-ssl-certificates.md)
-* [Underdomäner och certifikat](https://docs.adobe.com/content/help/en/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Underdomäner och certifikat](https://docs.adobe.com/content/help/sv-SE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
