@@ -1,6 +1,6 @@
 ---
 title: Skapa och skicka e-postmeddelanden via ett arbetsflöde
-description: 'Du kan skapa ett e-postmeddelande från en kampanj, från hemsidan för Adobe Campaign eller i listan över marknadsföringsaktiviteter. Du kan också skapa e-postmeddelanden som skickas en gång eller som upprepas i ett arbetsflöde. I den här videon förklaras hur du skapar en e-postleverans från hemsidan. '
+description: 'Du kan skapa ett e-postmeddelande från en kampanj, från Adobe Campaign hemsida eller i listan över marknadsföringsaktiviteter. Du kan också skapa e-postmeddelanden som skickas en gång eller som upprepas i ett arbetsflöde. I den här videon förklaras hur du skapar en e-postleverans från hemsidan. '
 feature: Email
 topics: null
 kt: 4319
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # Skapa och skicka e-postmeddelanden via ett arbetsflöde
 
-Du kan skapa ett e-postmeddelande från en kampanj, från hemsidan för Adobe Campaign eller i listan över marknadsföringsaktiviteter. Du kan också skapa e-postmeddelanden som skickas en gång eller som upprepas i ett arbetsflöde.
+Du kan skapa ett e-postmeddelande från en kampanj, från Adobe Campaign hemsida eller i listan över marknadsföringsaktiviteter. Du kan också skapa e-postmeddelanden som skickas en gång eller som upprepas i ett arbetsflöde.
 
 I den här videon förklaras hur du skapar och skickar e-postmeddelanden via ett arbetsflöde.
 
