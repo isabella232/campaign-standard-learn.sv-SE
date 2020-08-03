@@ -1,23 +1,23 @@
 ---
 product: adobe campaign standard
-user-guide-title: Självstudiekurser för Adobe Campaign Standard
+user-guide-title: Adobe Campaign Standard Tutorials
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: Självstudiekurser
+tutorials-title: Tutorials
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Dokumentation
-getting-started-url: https://docs.adobe.com/content/help/en/campaign-standard/using/campaign-standard-home.html
+getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
-source-wordcount: '503'
-ht-degree: 0%
+source-wordcount: '529'
+ht-degree: 2%
 
 ---
 
 
-# Självstudiekurser för Adobe Campaign Standard {#tutorials}
+# Adobe Campaign Standard Tutorials {#tutorials}
 
 + [Översikt](/help/overview.md)
 + Komma igång {#getting-started}
@@ -49,7 +49,7 @@ ht-degree: 0%
       + [Skapa ett e-postmeddelande](/help/communication-channels/email/create-email-from-homepage.md)
       + [Skicka ett test, förbered och skicka ett e-postmeddelande](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Skapa flerspråkig e-post eller SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Konvertera befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Konvertera en befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B-testning](/help/communication-channels/email/a-b-testing.md)
       + [Testa e-postmeddelanden med målprofiler](/help/communication-channels/email/profile-substitution.md)
       + [Granska e-postleveranser och rapporter](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,7 +57,8 @@ ht-degree: 0%
    + Mobil {#mobile}
       + SMS{#sms}
          + [Skapa en SMS-leverans](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Konvertera befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Skapa flerspråkig e-post eller SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
+         + [Konvertera en befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push-meddelanden {#push}
          + [Skapa ett push-meddelande](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Skapa ett flerspråkigt push-meddelande](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -86,6 +87,7 @@ ht-degree: 0%
    + [Konfigurera produktlistor i transaktionsmeddelanden](/help/designing-content/product-listings-in-transactional-email.md)
 + Hantera processer och data {#managing-processes-and-data}
    + [Skapa ett arbetsflöde](/help/managing-processes-and-data/create-workflow.md)
+   + [Importera profiler med ett arbetsflöde](/help/managing-processes-and-data/importing-profiles.md)
    + Körningsaktiviteter {#execution-activities}
       + [Extern signalaktivitet](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Datahanteringsaktiviteter {#data-management-activities}
@@ -108,7 +110,7 @@ ht-degree: 0%
       + [Delegera underdomäner](/help/administrating/control-panel/subdomain-delegation.md)
       + [Lägger till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)
       + [Hantera SSL-certifikat](/help/administrating/control-panel/managing-ssl-certificates.md)
-      + [Google TXT-posthantering](/help/administrating/control-panel/google-txt-record-management.md)
+      + [Hantera Google TXT-poster](/help/administrating/control-panel/google-txt-record-management.md)
       + GPG-nyckelhantering {#gpg-key-management}
          + [Nyckelhantering med GPG - översikt](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
          + [Generera och installera GPG-nycklar för datakryptering](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
@@ -131,3 +133,5 @@ ht-degree: 0%
    + [Ändra anpassade resurser för sekretessförfrågningar](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Skapa och spåra sekretessförfrågningar manuellt](/help/privacy/create-and-track-privacy-requests.md)
    + [Utföra sekretessbegäranden](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign Deliverability Best Practice Guide](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
