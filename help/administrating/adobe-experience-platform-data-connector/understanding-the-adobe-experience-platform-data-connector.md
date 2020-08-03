@@ -1,6 +1,6 @@
 ---
 title: Förstå Adobe Experience Platform Data Connector
-description: Adobe Experience Platform Data Connector hjälper befintliga kunder att göra sina data tillgängliga på Adobe Experience Platform genom att mappa XTK-data (data som importerats i Campaign) till Experience Data Model-data (XDM) på Adobe Experience Platform.
+description: Adobe Experience Platform Data Connector hjälper befintliga kunder att göra sina data tillgängliga på Adobe Experience Platform genom att mappa XTK-data (data som hämtas i Campaign) till Experience Data Model-data (XDM) på Adobe Experience Platform.
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2826
@@ -21,11 +21,12 @@ ht-degree: 0%
 >[!NOTE]
 >
 >Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande.
+>
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
 ## Översikt
 
-Adobe Experience Platform [!UICONTROL Data Connector] hjälper befintliga kunder att göra sina data tillgängliga på Adobe Experience Platform genom att mappa XTK-data (data som importerats i Adobe Campaign) till [!DNL Experience Data Model] (XDM)-data på Adobe Experience Platform.
+Adobe Experience Platform [!UICONTROL Data Connector] hjälper befintliga kunder att göra sina data tillgängliga på Adobe Experience Platform genom att mappa XTK-data (data som hämtas i Adobe Campaign) till [!DNL Experience Data Model] (XDM)-data på Adobe Experience Platform.
 
 Observera att kopplingen är enkelriktad och skickar data från Adobe Campaign Standard till Adobe Experience Platform. Data skickas aldrig från Adobe Experience Platform till Adobe Campaign Standard.
 
@@ -38,7 +39,8 @@ Adobe Experience Platform [!UICONTROL Data Connector] är avsett för datateknik
 >[!NOTE]
 >
 >Det går inte att överföra direkt från [!UICONTROL subscription events] programmet. Om du vill överföra [!UICONTROL subscription events]kan du skapa motsvarande XDM och datauppsättning på Adobe Experience Platform och sedan konfigurera en anpassad datamappning för dessa data.
->Befintlig [!UICONTROL experience events] information kan inte hämtas till Adobe Experience Platform, men pågående generering [!UICONTROL experience events] kommer att strömmas till Adobe Experience Platform.
+>
+>Befintlig information [!UICONTROL experience events] kan inte hämtas till Adobe Experience Platform, men pågående generering [!UICONTROL experience events] kommer att strömmas till Adobe Experience Platform.
 
 ## Viktiga steg för datamappning
 
