@@ -1,6 +1,6 @@
 ---
 title: Hantera tjänster och prenumerationer
-description: Med Adobe Campaign kan ni skapa och hantera nyhetsbrev och flerkanalskommunikation via en uppsättning tjänster. Den här videon visar hur du skapar en tjänst och hanterar dess prenumerationer i Adobe Campaign Standard (ACS).
+description: Med Adobe Campaign kan ni skapa och hantera nyhetsbrev och kommunikation över flera kanaler via en uppsättning tjänster. I den här videon visas hur du skapar en tjänst och hanterar dess prenumerationer i Adobe Campaign Standard (ACS).
 feature: Subscriptions and Services
 topics: null
 kt: 1815
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: 556bff4c94e16d3a94561dee1ccb311bc003b631
 workflow-type: tm+mt
 source-wordcount: '181'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # Hantera tjänster och prenumerationer{#managing-services-and-subscriptions}
 
-Med Adobe Campaign kan ni skapa och hantera nyhetsbrev och flerkanalskommunikation via en uppsättning tjänster. Meddelanden kan bara skickas till profiler som prenumererar på tjänsten (anmälan). Dessa profiler identifieras med ett dedikerat filter när ett meddelande skapas.
+Med Adobe Campaign kan ni skapa och hantera nyhetsbrev och kommunikation över flera kanaler via en uppsättning tjänster. Meddelanden kan bara skickas till profiler som prenumererar på tjänsten (anmälan). Dessa profiler identifieras med ett dedikerat filter när ett meddelande skapas.
 
 Prenumerationsfunktioner kan konfigureras för att ge kunderna möjlighet att prenumerera på dessa tjänster, särskilt via e-post och landningssidor.
 
