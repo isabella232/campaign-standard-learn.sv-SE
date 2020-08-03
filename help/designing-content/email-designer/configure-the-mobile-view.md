@@ -1,6 +1,6 @@
 ---
 title: Konfigurera mobilvyn i e-postdesignern
-description: I den här videon förklaras hur du kan finjustera den responsiva designen för ett e-postmeddelande i Adobe Campaign Standard (ACS) genom att redigera alla formatalternativ separat för mobildisplayer.
+description: I den här videon förklaras hur du finjusterar den responsiva designen för ett e-postmeddelande i Adobe Campaign Standard (ACS) genom att redigera alla formatalternativ separat för mobildisplayer.
 feature: Email Designer
 topics: null
 kt: 2423
