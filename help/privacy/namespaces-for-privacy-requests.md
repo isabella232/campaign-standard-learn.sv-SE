@@ -1,6 +1,6 @@
 ---
 title: Skapa namnutrymmen för sekretessförfrågningar i Adobe Campaign Standard (ACS)
-description: En förutsättning för att kunna skapa förfrågningar om sekretessåtkomst och radering, enligt kraven i GDPR eller CCPA, är definitionen av det namnutrymme som ska användas för att identifiera den registrerade i Adobe Campaign-databasen. I den här videon förklaras hur du skapar namnutrymmen för sekretessförfrågningar.
+description: En förutsättning för att kunna skapa förfrågningar om integritetsåtkomst och -borttagning, enligt kraven i GDPR eller CCPA, är definitionen av det namnutrymme som ska användas för att identifiera den registrerade i Adobe Campaign-databasen. I den här videon förklaras hur du skapar namnutrymmen för sekretessförfrågningar.
 feature: GDPR, CCPA
 topic: null
 kt: 1460
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '123'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
 
 # Skapa namnutrymmen för sekretessförfrågningar
 
-En förutsättning för att kunna skapa förfrågningar om sekretessåtkomst och radering, enligt kraven i GDPR eller CCPA, är definitionen av det namnutrymme som ska användas för att identifiera den registrerade i Adobe Campaign-databasen.
+En förutsättning för att kunna skapa förfrågningar om integritetsåtkomst och -borttagning, enligt kraven i GDPR eller CCPA, är definitionen av det namnutrymme som ska användas för att identifiera den registrerade i Adobe Campaign-databasen.
 
 I den här videon förklaras hur du skapar namnutrymmen för sekretessförfrågningar.
 
