@@ -1,6 +1,6 @@
 ---
 title: Översikt över e-postdesignern
-description: I den här videon förklaras de allmänna funktionerna i e-postdesignern och hur du utformar ett e-postmeddelande från grunden.Den här sidan visar alla tillgängliga funktionsvideor för e-postdesignern för Adobe Campaign
+description: I den här videon förklaras de allmänna funktionerna i e-postdesignern och hur du utformar ett e-postmeddelande från grunden.På den här sidan visas alla tillgängliga funktionsvideor för e-postdesignern i Adobe Campaign
 feature: Email Designer
 topics: Content Creation
 kt: 2391
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Det [!UICONTROL Email Designer] gör att det går snabbt och enkelt att skapa individuellt anpassade e-postmeddelanden utan att behöva skriva en enda kodrad, vilket gör det enklare att skala e-postgenereringen. Du kan skapa e-postinnehåll och mallar för e-postinnehåll. Det är kompatibelt med enkla e-postmeddelanden, transaktionsmeddelanden, A/B-testmeddelanden, flerspråkiga e-postmeddelanden och återkommande e-postmeddelanden.
 
-I den här videon får du en översikt över funktionaliteten och användningen av Adobe Campaign Standard [!UICONTROL Email Designer].
+I den här videon får du en översikt över Adobe Campaign Standardens funktioner och användning [!UICONTROL Email Designer].
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
@@ -30,7 +30,7 @@ I den här videon förklaras de allmänna funktionerna i [!UICONTROL Email Desig
 
 >[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
 
-## Självstudiekurser
+## Tutorials
 
 Följande detaljerade självstudiekurser finns:
 
