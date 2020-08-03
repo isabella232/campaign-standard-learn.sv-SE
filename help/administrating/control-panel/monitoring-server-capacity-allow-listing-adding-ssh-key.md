@@ -1,6 +1,6 @@
 ---
 title: Övervaka serverkapacitet, tillåt listning av IP-adresser och lägga till SSH-nycklar
-description: På Kontrollpanelen kan du övervaka och hantera din SFTP-lagring per instans och lägga till IP-adresser för att tillåta listor.
+description: På Kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och lägga till IP-adresser i tillåtelselista.
 feature: Control Panel
 topics: null
 kt: 3266
