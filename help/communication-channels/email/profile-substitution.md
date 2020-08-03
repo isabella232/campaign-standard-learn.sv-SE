@@ -4,7 +4,7 @@ description: I den här videon förklaras hur du kan testa dina e-postmeddelande
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368.jpg
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM
@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: f04ac773029bf15ff445bf1c506a4234cf5060bb
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -29,7 +29,7 @@ Mer information finns i den detaljerade [produktdokumentationen](https://docs.ad
 
 >[!IMPORTANT]
 >
->Med den här funktionen kan du skicka profilpersonuppgifter till externa e-postadresser. Kom ihåg att när du kör sekretessförfrågningar (GDPR &amp; CCPA) i Campaign Standard kommer denna begäran inte att verkställas externt.
+>Med den här funktionen kan du skicka profilpersonuppgifter till externa e-postadresser. Kom ihåg att när du kör sekretessförfrågningar (GDPR &amp; CCPA) i Campaign Standard kommer den förfrågningen inte att verkställas externt.
 
 ## Ytterligare resurser
 
