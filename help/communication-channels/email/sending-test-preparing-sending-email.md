@@ -1,6 +1,6 @@
 ---
 title: Skicka ett test, förbered och skicka ett e-postmeddelande
-description: 'I den här videon förklaras hur du skickar ett testmeddelande, förbereder och sedan skickar ett e-postmeddelande i Adobe Campaign Standard (ACS). '
+description: 'I den här videon förklaras hur du skickar ett testmeddelande via e-post, förbereder och sedan skickar du ett e-postmeddelande i Adobe Campaign Standard (ACS). '
 feature: Email
 topics: null
 kt: 1812
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
 
 # Skicka ett test, förbered och skicka ett e-postmeddelande
 
-I den här videon förklaras hur du skickar ett testmeddelande, förbereder och sedan skickar ett e-postmeddelande i Adobe Campaign Standard (ACS).
+I den här videon förklaras hur du skickar ett testmeddelande via e-post, förbereder och sedan skickar du ett e-postmeddelande i Adobe Campaign Standard (ACS).
 
 >[!VIDEO](https://video.tv.adobe.com/v/24013/)
 
