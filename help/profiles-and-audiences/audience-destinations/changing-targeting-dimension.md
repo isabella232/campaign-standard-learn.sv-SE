@@ -1,6 +1,6 @@
 ---
 title: Ändra målinriktningsdimensionen
-description: I den här videon förklaras hur du ändrar målgruppsdimensionen för en leverans för en plattformsmålgrupp utanför den primära profiltabellen i Adobe Campaign Standard.
+description: I den här videon förklaras hur du ändrar målinriktningsdimensionen för en leverans till en Platform-publik utanför den primära profiltabellen i Adobe Campaign Standard.
 feature: Audience Destinations
 topics: ACOP
 kt: 3739
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -20,7 +20,8 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] bygger på Adobe Experience Platform och kräver en specifik konfiguration.
+>Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] baseras på Adobe Experience Platform och kräver en specifik konfiguration.
+>
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
 I den här videon förklaras hur du ändrar målinriktningsdimensionen för en leverans [!UICONTROL Platform Audience] utanför den primära profiltabellen i Adobe Campaign Standard.
