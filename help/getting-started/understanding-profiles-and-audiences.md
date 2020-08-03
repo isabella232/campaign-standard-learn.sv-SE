@@ -1,5 +1,5 @@
 ---
-title: Förstå profiler och målgrupper i Adobe Campaign Standard
+title: Förstå profiler och målgrupper inom Adobe Campaign Standard
 description: I den här videon förklaras konceptet med profiler och målgrupper samt hur du skapar profiler och målgrupper i Adobe Campaign Standard.
 feature: Profiles and Audiences
 topics: null
@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '62'
-ht-degree: 0%
+ht-degree: 3%
 
 ---
 
 
-# Förstå profiler och målgrupper i Adobe Campaign Standard
+# Förstå profiler och målgrupper inom Adobe Campaign Standard
 
 I den här videon förklaras konceptet och hur du skapar profiler och målgrupper.
 
