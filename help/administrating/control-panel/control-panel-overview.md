@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
 source-wordcount: '386'
-ht-degree: 0%
+ht-degree: 2%
 
 ---
 
@@ -56,7 +56,7 @@ I följande video förklaras hur du lägger till en administratör i en Campaign
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 *Så här lägger du till en administratör i produktprofilen&quot;[!UICONTROL Administrators]&quot; för att kunna använda[!UICONTROL Control Panel](01:03 min)*
 
-## Självstudiekurser på Kontrollpanelen
+## Tutorials på kontrollpanelen
 
 * **Hantera SFTP-servrar**
 
@@ -74,7 +74,7 @@ I följande video förklaras hur du lägger till en administratör i en Campaign
 * **[Hantera SSL-certifikat](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
    *Lär dig hur du kan visa SSL-certifikatstatusen för dina underdomäner, samt begära förnyelser.*
-* **[Google TXT-posthantering](/help/administrating/control-panel/google-txt-record-management.md)**
+* **[Hantera Google TXT-poster](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Lär dig hur du lägger till Google TXT-webbplatsverifieringspost i alla dina underdomäner som används för att skicka e-post till GMAIL-adresser via Kontrollpanelen för Campaign.*
 
