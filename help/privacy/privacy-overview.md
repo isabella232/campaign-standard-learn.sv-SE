@@ -1,5 +1,5 @@
 ---
-title: Sekretessförfrågningar med Adobe Campaign Standard (ACS) - översikt
+title: Sekretessförfrågningar med Adobe Campaign Standarden (ACS) - översikt
 description: I självstudiekursen beskrivs hur du skapar sekretessförfrågningar via gränssnittet för Adobe Campaign Standard (ACS).
 feature: GDPR, CCAP
 topic: Privacy
@@ -16,21 +16,21 @@ ht-degree: 0%
 ---
 
 
-# Sekretessförfrågningar med Adobe Campaign Standard User Interface
+# Sekretessförfrågningar med Adobe Campaign Standardens användargränssnitt
 
-Adobe Campaign erbjuder personuppgiftsansvariga tre metoder för att utföra sekretessåtkomst och ta bort förfrågningar om PII-data i enlighet med sekretessbestämmelser som GDPR (General Data Protection Regulation) och CCPA (California Consumer Privacy Act):
+Adobe Campaign erbjuder personuppgiftsansvariga tre metoder för att utföra förfrågningar om sekretessåtkomst och radering av PII-data i enlighet med sekretessbestämmelser som GDPR (General Data Protection Regulation) och CCPA (California Consumer Privacy Act):
 
-* **Via integreringen av integritetspolicyn Core Service:** Sekretessförfrågningar som skickas från [!UICONTROL Privacy Service] till alla Experience Cloud-lösningar hanteras automatiskt av Campaign via ett dedikerat arbetsflöde. Läs mer i [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html) om hur du skapar sekretessförfrågningar från Privacy Core-tjänsten
+* **Via integreringen av integritetspolicyn Core Service:** Sekretessförfrågningar som skickas från [!UICONTROL Privacy Service] till alla Experience Cloud-lösningar hanteras automatiskt av Campaign via ett dedikerat arbetsflöde. Läs mer i [Adobe Experience Platform Privacy Servicen](https://adobe.io/apis/cloudplatform/gdpr.html) om hur du skapar sekretessförfrågningar från tjänsten Privacy Core
 
-* **Via API:** Adobe Campaign tillhandahåller ett API som möjliggör automatisk behandling av sekretessförfrågningar med REST
+* **Via API:** Adobe Campaign tillhandahåller ett API som tillåter automatisk behandling av sekretessförfrågningar med REST
 
-* **Via gränssnittet i Adobe Campaign:** för varje sekretessförfrågan skapar den personuppgiftsansvarige en ny sekretessförfrågan i Adobe Campaign
+* **Via Adobe Campaign-gränssnittet:** för varje sekretessförfrågan skapar den personuppgiftsansvarige en ny sekretessförfrågan i Adobe Campaign
 
 >[!NOTE]
 >
 > **ÄNDRINGAR I ACS 19.4:**
 > 
-> Integreringen [av](https://adobe.io/apis/cloudplatform/gdpr.html) Integritetstjänsten är den metod du bör använda för alla begäranden om åtkomst och borttagning. Från och med 19.4 är användningen av Campaign-API:t och gränssnittet för begäran om åtkomst och borttagning föråldrad. Mer information om borttagna och borttagna funktioner i Campaign Standard finns på [den här sidan](https://helpx.adobe.com/campaign/kb/acs-deprecated-and-removed-features.html).
+> Integreringen [av](https://adobe.io/apis/cloudplatform/gdpr.html) Privacy Service är den metod du bör använda för alla begäranden om åtkomst och borttagning. Från och med 19.4 är användningen av Campaign-API:t och gränssnittet för begäran om åtkomst och borttagning föråldrad. Mer information om borttagna och borttagna funktioner för Campaign Standard finns på [den här sidan](https://helpx.adobe.com/campaign/kb/acs-deprecated-and-removed-features.html).
 >
 >**Avanmäl dig till försäljning av personuppgifter (CCPA)**
 >
@@ -38,7 +38,7 @@ Adobe Campaign erbjuder personuppgiftsansvariga tre metoder för att utföra sek
 >
 > Du kan kontrollera versionen genom att klicka på ? i det övre högra hörnet av gränssnittet och väljer Om.
 
-## Videokurser
+## Video Tutorials
 
 ### Krav för sekretessförfrågningar
 
@@ -54,5 +54,5 @@ Adobe Campaign erbjuder personuppgiftsansvariga tre metoder för att utföra sek
 
 * [Allmänna riktlinjer för integritetsskydd för Campaign](https://helpx.adobe.com/campaign/kb/campaign-privacy-overview.html)
 * [CCPA för ACS](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa)
-* [Integritetstjänst för Adobe Experience Platform](https://adobe.io/apis/cloudplatform/gdpr.html)
+* [Adobe Experience Platform Privacy Service](https://adobe.io/apis/cloudplatform/gdpr.html)
 * [Adobe Campaign Standard REST API-dokumentation](https://final-docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#privacy-management)
