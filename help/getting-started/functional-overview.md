@@ -1,6 +1,6 @@
 ---
 title: Funktionell översikt
-description: I den här videon får du en översikt över funktionerna i Adobe Campaign Standard (ACS).
+description: I den här videon får du en översikt över funktionerna för Adobe Campaign Standard (ACS).
 feature: Profiles and Audiences
 topics: Getting Started
 kt: 3971
@@ -18,6 +18,6 @@ ht-degree: 0%
 
 # Funktionell översikt
 
-I den här videon får du en översikt över funktionerna i Adobe Campaign Standard.
+I den här videon får du en översikt över Adobe Campaign Standardens funktioner.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29430?quality=12)
