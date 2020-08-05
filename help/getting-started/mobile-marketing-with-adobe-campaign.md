@@ -1,6 +1,6 @@
 ---
 title: Mobil marknadsföring med Adobe Campaign
-description: I den här videon förklaras vilka Adobe Campaign Standarder som kan stödja er strategi för mobilmarknadsföring.
+description: I den här videon förklaras vilka Adobe Campaign Standard-funktioner som kan stödja er strategi för mobilmarknadsföring.
 feature: Mobile
 topics: null
 kt: 3976
@@ -18,7 +18,7 @@ ht-degree: 3%
 
 # Mobilmarknadsföring med Adobe Campaign
 
-I den här videon förklaras vilka Adobe Campaign Standarder som kan stödja er strategi för mobilmarknadsföring.
+I den här videon förklaras vilka Adobe Campaign Standard-funktioner som kan stödja er strategi för mobilmarknadsföring.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
 
