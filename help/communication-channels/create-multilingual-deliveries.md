@@ -18,7 +18,7 @@ ht-degree: 1%
 
 # Skapa flerspråkig e-post eller SMS-leverans
 
-Med Adobe Campaign kan ni förenkla de operativa komplexiteterna med att skicka flerspråkiga kampanjer. Både e-postleveranser och SMS-leveranser kan konfigureras som flerspråkiga, vilket gör att du kan skicka e-postmeddelanden eller SMS utifrån det språk som används i profilen.
+Med Adobe Campaign kan ni förenkla hanteringen av flerspråkiga kampanjer. Både e-postleveranser och SMS-leveranser kan konfigureras som flerspråkiga, vilket gör att du kan skicka e-postmeddelanden eller SMS utifrån det språk som används i profilen.
 
 I den här videon förklaras hur du skapar en flerspråkig leverans baserad på en mall i exemplet med ett e-postnyhetsbrev. Den metod som visas i videoklippen gäller både e-post och SMS-leveranser.
 
