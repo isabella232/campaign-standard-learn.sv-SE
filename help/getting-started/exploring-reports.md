@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 3%
+ht-degree: 16%
 
 ---
 
 
 # Utforska rapporter
 
-I den här videon får du en översikt över Adobe Campaign Standardens rapporteringsfunktioner.
+I den här videon får du en översikt över rapportfunktionerna i Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
 
