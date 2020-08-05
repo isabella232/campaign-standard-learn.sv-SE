@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 1%
+ht-degree: 8%
 
 ---
 
 
 # Konfigurera ett mobilprogram med [!UICONTROL Adobe Experience Platform SDK] {#configure-a-mobile-application-using-adobe-experience-platform-sdk}
 
-Om du vill skicka meddelanden i appen eller [!UICONTROL push notifications] använda Mobile SDK V5 måste mobilappen konfigureras i [!UICONTROL Adobe Experience Platform Launch] Adobe Campaign.
+Om du vill skicka meddelanden i appen eller [!UICONTROL push notifications] använda Mobile SDK V5 måste mobilappen konfigureras i [!UICONTROL Adobe Experience Platform Launch] och konfigureras i Adobe Campaign.
 
 I videofilmerna nedan visas de steg som krävs för att konfigurera en mobilapp i Experience Platform Launch:
 
@@ -31,4 +31,4 @@ I videofilmerna nedan visas de steg som krävs för att konfigurera en mobilapp 
 ## Ytterligare resurser
 
 * [Konfigurera en mobil egenskap (Adobe Launch-dokumentation)](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Konfigurera ett mobilprogram med Adobe Experience Platform SDK (dokumentation)](https://helpx.adobe.com/campaign/kb/configuring-app-sdk.html)
+* [Konfigurera ett mobilprogram med Adobe Experience Platform SDK (dokumentation)](https://helpx.adobe.com/se/campaign/kb/configuring-app-sdk.html)
