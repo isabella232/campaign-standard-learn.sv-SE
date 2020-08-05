@@ -1,6 +1,6 @@
 ---
 title: Konfigurera produktlistor i transaktionsmeddelanden
-description: I videoklippen beskrivs de steg som krävs för att konfigurera produktlistor i transaktionsmeddelanden i Adobe Campaign Standard (ACS).
+description: Videorna beskriver stegen som krävs för att konfigurera produktlistor i transaktionsmeddelanden i Adobe Campaign Standard (ACS).
 feature: Transactional Emails
 topics: Content Creation
 kt: 1728
@@ -22,7 +22,7 @@ Du kan konfigurera ett omdirigerat e-postmeddelande med en lista över produkter
 
 I följande videofilmer beskrivs de steg som krävs för att konfigurera [!UICONTROL product listings] i [!UICONTROL transactional emails].
 
->[ANMÄRKNING]
+>[OBS!]
 >
 >Den här funktionen kallas för närvarande för Slinga i videoklippen.
 
