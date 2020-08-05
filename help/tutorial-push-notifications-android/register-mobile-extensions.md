@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Steg 3 - Registrera tillägg i din mobilapp
 
-I den här delen ska vi lägga till koden för att registrera tilläggen Användarprofil, Identitet, Livscykel och Signal. Dessa tillägg ingår i [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Vi måste även registrera Adobe Campaign Standarden som tillägg enligt koden nedan.
+I den här delen ska vi lägga till koden för att registrera tilläggen Användarprofil, Identitet, Livscykel och Signal. Dessa tillägg ingår i [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Vi måste också registrera Adobe Campaign Standard-tillägget enligt koden nedan.
 
 Öppna projektet i [!DNL Android] studion. Ta bort hela koden i MainApp **förutom den första raden som är din paketprogramsats**.
 
