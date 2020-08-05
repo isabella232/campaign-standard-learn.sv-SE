@@ -13,18 +13,18 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '204'
-ht-degree: 0%
+ht-degree: 14%
 
 ---
 
 
 # Skapa en [!UICONTROL In-App] leverans i ett arbetsflöde
 
-Leveransaktiviteten i appen används vanligtvis för att automatisera sändning av ett [!UICONTROL In-App] meddelande till en målgrupp som beräknas i samma arbetsflöde.
+The In-App delivery activity is generally used to automate sending an [!UICONTROL In-App] message to a target audience calculated in the same workflow.
 
 Mottagarna definieras uppströms aktiviteten i samma arbetsflöde, via målinriktade aktiviteter som frågor, skärningar osv.
 
-Meddelandeförberedelsen utlöses enligt arbetsflödets körningsparametrar. I meddelandekontrollpanelen kan du välja att begära en manuell bekräftelse för att skicka meddelandet (krävs som standard). Du kan starta arbetsflödet manuellt eller placera en schemaläggningsaktivitet i arbetsflödet för att automatisera körningen.
+Förberedelsen av meddelande utlöses enligt arbetsflödets körningsparametrar. I meddelandekontrollpanelen kan du välja att begära en manuell bekräftelse för att skicka meddelandet (krävs som standard). Du kan starta arbetsflödet manuellt eller placera en schemaläggningsaktivitet i arbetsflödet för att automatisera körningen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12)
 
