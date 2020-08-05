@@ -1,6 +1,6 @@
 ---
 title: Målgrupper - översikt
-description: Utnyttja Adobe Experience Platform (AEP) målgrupper inom Adobe Campaign Standard (ACS)
+description: Utnyttja Adobe Experience Platform-målgrupper (AEP) i Adobe Campaign Standard (ACS)
 feature: Audience Destinations
 topics: ACOP
 kt: 2755
@@ -18,24 +18,24 @@ ht-degree: 1%
 
 # [!UICONTROL Audience Destinations] (BETA) - Översikt
 
-## Utnyttja Adobe Experience Platform inom Adobe Campaign Standard
+## Utnyttja Adobe Experience Platform målgrupper i Adobe Campaign Standard
 
 >[!NOTE]
 >
->Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] baseras på Adobe Experience Platform och kräver en specifik konfiguration.
+>Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] är baserat på Adobe Experience Platform och kräver en specifik konfiguration.
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
 
 Den här självstudiekursen förklarar hur ni kan utnyttja centraliserade och konsoliderade profildata från Adobe Experience Platform för marknadsföringskampanjer i Adobe Campaign Standard.
 
-Med modulen [!UICONTROL Audiences] i Adobe Campaign Standarden kan du skapa segment med hjälp av data från [Adobe Experience Platform - datatjänster](https://www.adobe.io/apis/experienceplatform/home/services.html) som finns i kundprofilen [i](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)realtid.
+Med modulen [!UICONTROL Audiences] i Adobe Campaign Standard kan du skapa segment med hjälp av data från [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) som finns i kundprofilen [i](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)realtid.
 
 I följande videofilmer lär du dig mer om de olika stegen:
 
 1. [Skapa en ny målgrupp med verktyget för enhetlig segmentering](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 2. [Aktivera AEP-målgrupper i ett marknadsföringsarbetsflöde](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-3. [Ändra målinriktningsdimensionen för en leverans till en Platform-publik](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+3. [Ändra målinriktningsdimensionen för en leverans för en plattformspublik](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
 ## Ytterligare resurser
 
