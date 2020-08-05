@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Lägg till tjänst för att skicka meddelande
 
-I den här delen kommer vi att sprida meddelandet från Adobe Campaign med hjälp [!DNL Android Notification Manager]. [!DNL Notification manager] används för att meddela användaren om händelser som inträffar.
+I den här delen kommer vi att sprida det meddelande vi fått från Adobe Campaign med [!DNL Android Notification Manager]. [!DNL Notification manager] används för att meddela användaren om händelser som inträffar.
 Så här säger du till användaren att något har hänt i bakgrunden:
 
 * Starta [!DNL Android Studio]
