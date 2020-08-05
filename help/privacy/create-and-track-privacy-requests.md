@@ -1,6 +1,6 @@
 ---
-title: Skapa och spåra sekretessförfrågningar manuellt via användargränssnittet i Adobe Campaign
-description: Med Adobe Campaign kan du skapa åtkomst- och borttagningsförfrågningar för PII-data i enlighet med sekretessbestämmelser som GDPR och CCPA. I den här videon visas hur du skapar sekretessförfrågningar manuellt och spårar hur de utvecklas i Adobe Campaign Standardens användargränssnitt.
+title: Skapa och spåra sekretessförfrågningar manuellt via Adobe Campaign användargränssnitt
+description: Med Adobe Campaign kan du skapa åtkomst- och borttagningsförfrågningar för PII-data i enlighet med sekretessrutiner som GDPR och CCPA. I den här videon visas hur du skapar sekretessförfrågningar manuellt och spårar deras utveckling i Adobe Campaign Standard användargränssnitt.
 feature: GDPR, CCPA
 topic: null
 kt: 1242
@@ -18,9 +18,9 @@ ht-degree: 1%
 
 # Skapa och spåra sekretessförfrågningar manuellt
 
-Med Adobe Campaign kan du skapa åtkomst- och borttagningsförfrågningar för PII-data i enlighet med sekretessbestämmelser som GDPR och CCPA.
+Med Adobe Campaign kan du skapa åtkomst- och borttagningsförfrågningar för PII-data i enlighet med sekretessrutiner som GDPR och CCPA.
 
-I den här videon visas hur du skapar sekretessförfrågningar manuellt och spårar hur de utvecklas i Adobe Campaign Standardens användargränssnitt.
+I den här videon visas hur du skapar sekretessförfrågningar manuellt och spårar deras utveckling i Adobe Campaign Standard användargränssnitt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
