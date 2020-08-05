@@ -1,6 +1,6 @@
 ---
 title: Ändra målinriktningsdimensionen
-description: I den här videon förklaras hur du ändrar målinriktningsdimensionen för en leverans till en Platform-publik utanför den primära profiltabellen i Adobe Campaign Standard.
+description: I den här videon förklaras hur du ändrar målinriktningsdimensionen för en leverans för en Platform Audience utanför den primära profiltabellen i Adobe Campaign Standard.
 feature: Audience Destinations
 topics: ACOP
 kt: 3739
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 1%
+ht-degree: 4%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 1%
 
 >[!NOTE]
 >
->Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] baseras på Adobe Experience Platform och kräver en specifik konfiguration.
+>Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] är baserat på Adobe Experience Platform och kräver en specifik konfiguration.
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
@@ -32,11 +32,11 @@ I den här videon förklaras hur du ändrar målinriktningsdimensionen för en l
 
 Dokumentation:
 
-* [Om tjänsten Målgrupper](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Om tjänsten Målgruppsdestinationer](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
 * [Skapa en målmappning](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/application-settings/target-mappings-in-campaign.html)
 * [Så här skapar du en leveransmall](https://docs.adobe.com/content/help/en/campaign-standard/using/getting-started/marketing-plans/marketing-activity-templates.html)
 
 Videoresurser:
 
 * [Skapa en ny målgrupp med verktyget för enhetlig segmentering](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Aktivera målgrupper i Adobe Experience Platform i ett marknadsföringsarbetsflöde](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+* [Aktivera Adobe Experience Platform-målgrupper i ett marknadsföringsarbetsflöde](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
