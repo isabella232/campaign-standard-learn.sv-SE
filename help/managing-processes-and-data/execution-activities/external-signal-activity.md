@@ -1,6 +1,6 @@
 ---
 title: Extern signalaktivitet - Anropa ett arbetsflöde med parametrar
-description: Den externa signalaktiviteten används för att organisera och samordna olika processer som ingår i samma kundresa till olika arbetsflöden. Det gör att man kan starta ett arbetsflöde från ett annat, vilket ger stöd för mer komplexa kundresor samtidigt som man bättre kan övervaka och reagera i händelse av problem.
+description: Den externa signalaktiviteten används för att organisera och samordna olika processer som ingår i samma kundresa till olika arbetsflöden. Det gör att man kan starta ett arbetsflöde från ett annat, vilket ger stöd för mer komplexa kundresor samtidigt som man bättre kan övervaka och reagera vid problem.
 feature: External Signal Activity
 topics: Workflows
 kt: 2750
@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 0%
+ht-degree: 16%
 
 ---
 
 
 # [!UICONTROL External Signal activity ]- Anropa ett arbetsflöde med parametrar
 
-Det [!UICONTROL External Signal activity] används för att organisera och samordna olika processer som ingår i samma kundresa till olika arbetsflöden. Det gör att man kan starta ett arbetsflöde från ett annat, vilket ger stöd för mer komplexa kundresor samtidigt som man bättre kan övervaka och reagera i händelse av problem.
+The [!UICONTROL External Signal activity] is used to organize and orchestrate different processes that are part of the same customer journey into different workflows. Det gör att man kan starta ett arbetsflöde från ett annat, vilket ger stöd för mer komplexa kundresor samtidigt som man bättre kan övervaka och reagera vid problem.
 
 I ACS 19.2 [!UICONTROL External Signal activity] kan användaren inte bara anropa ett arbetsflöde utan även skicka parametrar till arbetsflödet (ett målgruppsnamn, ett filnamn som ska importeras, en del av meddelandeinnehållet osv.) till arbetsflödet från ett annat arbetsflöde eller ett REST API-anrop för integrering med dina externa system.
 
