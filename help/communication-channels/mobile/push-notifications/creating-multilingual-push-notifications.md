@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 2%
+ht-degree: 17%
 
 ---
 
 
-# Skapa ett flerspråkigt push-meddelande [!UICONTROL push notification]
+# Create a multilingual push notification [!UICONTROL push notification]
 
-Lär dig hur du skapar flerspråkiga [!UICONTROL push notifications] Adobe Campaign Standarder.
+Lär dig hur du skapar ett flerspråkigt språk [!UICONTROL push notifications] i Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
