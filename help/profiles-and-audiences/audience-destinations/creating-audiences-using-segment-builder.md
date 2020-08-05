@@ -20,13 +20,13 @@ ht-degree: 0%
 
 >[!NOTE]
 >
->Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] baseras på Adobe Experience Platform och kräver en specifik konfiguration.
+>Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] är baserat på Adobe Experience Platform och kräver en specifik konfiguration.
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
 Med Adobe Campaign Standard kan ni bygga målgrupper med hjälp av data från Adobe Experience Cloud [kundprofil](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) i realtid med hjälp av Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-Du kommer åt Adobe Campaign Standarden [!UICONTROL Unified Segment Builder] direkt via [!UICONTROL Audiences ] modulen. På så sätt kan ni hantera de här målgrupperna direkt i [!UICONTROL Audiences] listvyn, där ni kan redigera eller skapa en ny Adobe Experience Platform-målgrupp direkt från Adobe Campaign-gränssnittet
+Du kommer åt filen [!UICONTROL Unified Segment Builder] direkt i Adobe Campaign Standard via [!UICONTROL Audiences ] modulen. På så sätt kan ni hantera dessa målgrupper direkt i [!UICONTROL Audiences] listvyn, där ni kan redigera eller skapa en ny Adobe Experience Platform-målgrupp direkt från Adobe Campaign gränssnitt
 
 I videon nedan förklaras hur en ny publik skapas med [!UICONTROL Unified Segment Builder] Adobe Campaign Standard.
 
@@ -44,4 +44,4 @@ Dokumentation:
 Videoresurser:
 
 * [Aktivera AEP-målgrupper i ett arbetsflöde](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Ändra målinriktningsdimensionen för en leverans för en Platform-målgrupp](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+* [Ändra målinriktningsdimensionen för en leverans för en publik på en plattform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
