@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
 workflow-type: tm+mt
 source-wordcount: '386'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -20,9 +20,9 @@ ht-degree: 2%
 
 >[!NOTE]
 >
->Termerna&quot;[!UICONTROL whitelist]&quot; och&quot;[!UICONTROL blacklist]&quot; har ersatts med&quot;[!UICONTROL allow list]&quot; och&quot;[!UICONTROL block list]&quot;i dokumentationen för Adobe Campaign. Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, alternativnamn, intern kod samt självstudievideor. De kommer att ersättas i kommande versioner av Kontrollpanelen.
+>Termerna&quot;[!UICONTROL whitelist]&quot; och&quot;[!UICONTROL blacklist]&quot; har ersatts med&quot;[!UICONTROL allow list]&quot; och&quot;[!UICONTROL block list]&quot;i Adobe Campaign-dokumentationen. Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, alternativnamn, intern kod samt självstudievideor. De kommer att ersättas i kommande versioner av Kontrollpanelen.
 
-Med [!UICONTROL Control Panel] den kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans eller [!UICONTROL allow list] IP-adresser.
+Med [!UICONTROL Control Panel] den kan Adobe Campaign-administratörer övervaka viktiga resurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans eller [!UICONTROL allow list] IP-adresser.
 
 ## Åtkomst [!UICONTROL Control Panel]
 
@@ -67,7 +67,7 @@ I följande video förklaras hur du lägger till en administratör i en Campaign
    * [Ansluta till en SFTP-server](/help/administrating/control-panel/connect-to-sftp-server.md)
 * **[Delegera underdomäner](/help/administrating/control-panel/subdomain-delegation.md)**
 
-   *Lär dig hur du delegerar en underdomän till Adobe Campaign fullt ut*
+   *Lär dig hur du delegerar en underdomän till Adobe Campaign fullständigt*
 * **[Lägger till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *Lär dig hur du kan lägga till ett SSL-certifikat för att skydda dina underdomäner.*
@@ -92,5 +92,5 @@ I följande video förklaras hur du lägger till en administratör i en Campaign
 
 ## Ytterligare resurser
 
-* [Hjälpcenter för kontrollpanelen](https://docs.adobe.com/content/help/en/control-panel/using/control-panel-home.html)
+* [Hjälpcenter för kontrollpanelen](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html)
 
