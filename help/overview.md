@@ -1,6 +1,6 @@
 ---
 title: Adobe Campaign Standard Tutorials - översikt
-description: Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera kanaler och utgör en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign Standardens många funktioner.
+description: Adobe Campaign är en plattform för att utforma kundupplevelser i olika kanaler och erbjuder en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om de många funktionerna i Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
@@ -13,7 +13,7 @@ ht-degree: 4%
 
 # Översikt
 
-Adobe Campaign utgör en plattform för att utforma kundupplevelser över flera kanaler och utgör en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om Adobe Campaign Standardens många funktioner.
+Adobe Campaign är en plattform för att utforma kundupplevelser i olika kanaler och erbjuder en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om de många funktionerna i Adobe Campaign Standard.
 
 ## Nyheter
 
