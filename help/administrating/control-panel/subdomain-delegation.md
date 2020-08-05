@@ -1,6 +1,6 @@
 ---
 title: Delegera underdomäner
-description: 'Med kontrollpanelen Adobe Campaign kan du delegera en underdomän till Adobe Campaign helt. Gör så här:'
+description: 'Med Adobe Campaign Kontrollpanel kan du delegera en underdomän helt till Adobe Campaign. Gör så här:'
 feature: Control Panel
 topics: null
 kt: 4115
