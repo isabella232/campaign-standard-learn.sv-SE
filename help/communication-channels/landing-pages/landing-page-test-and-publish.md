@@ -1,6 +1,6 @@
 ---
 title: Testa och publicera en landningssida
-description: I den här videon förklaras hur du testar en startsida som är inbyggd i Adobe Campaign Standarden och hur du publicerar den.
+description: I den här videon förklaras hur du testar en landningssida som byggts i Adobe Campaign Standard och hur du publicerar den.
 uuid: 410b8e37-b9b6-4763-988c-31312c1dc8a6
 discoiquuid: b7dd29cf-cb56-4e6b-8050-400293a2e5e5
 feature: Landing Pages
