@@ -1,6 +1,6 @@
 ---
 title: Utföra sekretessbegäranden
-description: Sekretessbegäranden i Adobe Campaign verkställs av arbetsflöden. Den här videon beskriver vilka arbetsflöden som får åtkomst till och tar bort begäranden och vad som händer när de körs.
+description: I Adobe Campaign hanteras sekretessbegäranden av arbetsflöden. Den här videon beskriver vilka arbetsflöden som får åtkomst till och tar bort begäranden och vad som händer när de körs.
 feature: GDPR, CCPA
 topic: null
 kt: 1525
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 # Utföra sekretessbegäranden
 
-Sekretessbegäranden i Adobe Campaign verkställs av arbetsflöden. Den här videon beskriver vilka arbetsflöden som får åtkomst till och tar bort begäranden och vad som händer när de körs.
+I Adobe Campaign hanteras sekretessbegäranden av arbetsflöden. Den här videon beskriver vilka arbetsflöden som får åtkomst till och tar bort begäranden och vad som händer när de körs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
 
