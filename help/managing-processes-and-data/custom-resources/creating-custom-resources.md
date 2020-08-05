@@ -1,6 +1,6 @@
 ---
 title: Skapa anpassade resurser
-description: Adobe Campaign Standard ger möjlighet att utöka resurser eller skapa helt nya resurser. I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser.
+description: Adobe Campaign Standard ger möjlighet att utöka resurserna eller skapa helt nya resurser. I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser.
 feature: Custom Resources
 topics: null
 kt: 2998
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 # Skapa anpassade &#x200B;
 
-Adobe Campaign Standard ger möjlighet att utöka resurser eller skapa helt nya resurser. I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser. I slutet av kursen kommer du att ha lärt dig följande &#x200B;
+Adobe Campaign Standard ger möjlighet att utöka resurserna eller skapa helt nya resurser. I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser. I slutet av kursen kommer du att ha lärt dig följande &#x200B;
 
 * Skapa en anpassad resurs
 * Lägg till fält i den anpassade resursen
