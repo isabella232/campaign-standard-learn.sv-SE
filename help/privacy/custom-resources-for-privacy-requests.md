@@ -26,7 +26,7 @@ När du konfigurerar Adobe Campaign Standard för att hantera sekretessförfråg
 >
 >**Avanmäl dig till försäljning av personuppgifter (CCPA)**
 >
->Från och med 19.4 finns det ett CCPA-avanmälningsfält som är klart i Campaign-gränssnittet och API:t. För att 19.3 ska kunna utnyttja informationen måste du skapa det här >fältet i Adobe Campaign Standard. Mer information finns i den [detaljerade dokumentationen](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) .
+>Från och med 19.4 finns det ett CCPA-avanmälningsfält som är klart i Campaign-gränssnittet och API:t. För 19.3 måste du skapa det här >fältet i Adobe Campaign Standard. Mer information finns i den [detaljerade dokumentationen](https://helpx.adobe.com/campaign/kb/acs-privacy.html#ccpa) .
 >
 > Du kan kontrollera versionen genom att klicka på ? i det övre högra hörnet av gränssnittet och väljer Om.
 
