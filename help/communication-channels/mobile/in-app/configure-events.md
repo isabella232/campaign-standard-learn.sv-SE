@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
 workflow-type: tm+mt
 source-wordcount: '220'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -37,7 +37,7 @@ Du måste konfigurera dessa [!UICONTROL events] i Adobe Campaign. I följande vi
 
 ## [!UICONTROL Life Cycle events]  {#life-cycle-events}
 
-[!UICONTROL Lifecycle events] är färdiga [!UICONTROL events]. Följande [!UICONTROL events] är tillgängliga:
+[!UICONTROL Lifecycle events] är färdiga [!UICONTROL events]. The following [!UICONTROL events] are available:
 
 * [!UICONTROL launched]
 * [!UICONTROL upgraded]
