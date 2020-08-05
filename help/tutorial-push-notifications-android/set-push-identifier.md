@@ -99,6 +99,6 @@ Navigera **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Öppna 
 
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
->[ANMÄRKNING]
+>[OBS!]
 >
 >Om du inte ser någon registreringstoken på [!UICONTROL Mobile Application Subscribers] fliken STOP här innan du fortsätter.
