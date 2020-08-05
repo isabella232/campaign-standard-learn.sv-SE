@@ -16,7 +16,7 @@ ht-degree: 1%
 ---
 
 
-# Skapa en [!UICONTROL Direct Mail] {#create-a-direct-mail}
+# Create a [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
 Med den här [!UICONTROL Direct Mail] kanalen kan du extrahera en segmenterad lista med mottagare som ska skickas till en byrå eller överföras till en SFTP-server.
 
