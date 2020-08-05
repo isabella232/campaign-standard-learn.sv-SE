@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 0%
+ht-degree: 8%
 
 ---
 
@@ -35,7 +35,7 @@ I den här videon visas hur du använder [!UICONTROL External API activity].
 
 >[!NOTE]
 >
->Observera att aktiviteten är avsedd för hämtning av kampanjomfattande data (senaste erbjudanden, senaste poängen osv.), inte för hämtning av specifik information för varje profil eftersom det kan leda till att stora mängder data överförs. Om användningsfallet kräver detta bör du använda aktiviteten Överför fil.
+>Observera att aktiviteten är avsedd för hämtning av kampanjomfattande data (senaste erbjudanden, senaste poängen osv.), inte för hämtning av specifik information för varje profil eftersom det kan leda till att stora mängder data överförs. Om användningsfallet kräver detta ska aktiviteten Överför fil användas.
 
 ## Ytterligare resurser
 
