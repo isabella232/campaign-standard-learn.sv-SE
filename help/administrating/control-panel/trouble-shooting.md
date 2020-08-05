@@ -63,7 +63,7 @@ Administratören måste lägga till användaren i produktprofilen `Campaign-xxx-
 Anslutning till SFTP-servrar kräver:
 
 * [!UICONTROL allow listing] IP-adressen som du ansluter till SFTP-servern från
-* Privat/offentligt nyckelpar som måste registreras i Adobe Campaign
+* Privat/offentlig nyckel som måste registreras hos Adobe Campaign
 * Om du ansluter till SFTP-servern direkt behöver du också SFTP-klientprogramvara
 
 ### Användbar dokumentation
