@@ -1,6 +1,6 @@
 ---
 title: Generera en SSH-nyckel
-description: Du måste kunna generera en SSH-nyckel för att kunna lägga till den på kontrollpanelen Adobe Campaign. I videon nedan beskrivs hur du skapar en SSH-nyckel med hjälp av en terminal.
+description: Du måste kunna generera en SSH-nyckel för att kunna lägga till den på Kontrollpanelen i Adobe Campaign. I videon nedan beskrivs hur du skapar en SSH-nyckel med hjälp av en terminal.
 feature: Control Panel
 topics: null
 kt: 2923
