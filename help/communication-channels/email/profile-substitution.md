@@ -12,12 +12,12 @@ translation-type: tm+mt
 source-git-commit: f04ac773029bf15ff445bf1c506a4234cf5060bb
 workflow-type: tm+mt
 source-wordcount: '178'
-ht-degree: 1%
+ht-degree: 7%
 
 ---
 
 
-# [!UICONTROL Profile Substitution] - Testa e-postmeddelanden med målprofiler
+# [!UICONTROL Profile Substitution] - Testa e-post med målprofiler
 
 I den här videon förklaras hur du kan testa dina e-postmeddelanden med [!UICONTROL Profile Substitution]. Den omfattar följande användningsområden:
 
