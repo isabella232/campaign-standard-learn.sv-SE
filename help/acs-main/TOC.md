@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
 workflow-type: tm+mt
 source-wordcount: '529'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 2%
    + [Skapa en testprofil](/help/profiles-and-audiences/test-profiles.md)
    + [Importera profiler med ett arbetsflöde](/help/managing-processes-and-data/importing-profiles.md)
    + [Hantera tjänster och prenumerationer](/help/managing-processes-and-data/services-and-subscriptions.md)
-   + Målgrupper (BETA){#audience-destinations}
+   + Audience Destinations (BETA){#audience-destinations}
       + [Översikt](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Skapa en ny målgrupp med verktyget för enhetlig segmentering](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Aktivera Adobe Experience Platform-målgrupper i ett arbetsflöde](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
@@ -50,7 +50,7 @@ ht-degree: 2%
       + [Skicka ett test, förbered och skicka ett e-postmeddelande](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Skapa flerspråkig e-post eller SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
       + [Konvertera en befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
-      + [A/B-testning](/help/communication-channels/email/a-b-testing.md)
+      + [A/B-tester](/help/communication-channels/email/a-b-testing.md)
       + [Testa e-postmeddelanden med målprofiler](/help/communication-channels/email/profile-substitution.md)
       + [Granska e-postleveranser och rapporter](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Skapa och skicka e-postmeddelanden via ett arbetsflöde](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
@@ -59,7 +59,7 @@ ht-degree: 2%
          + [Skapa en SMS-leverans](/help/communication-channels/mobile/sms/sms-delivery.md)
          + [Skapa flerspråkig e-post eller SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
          + [Konvertera en befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
-      + Push-meddelanden {#push}
+      + Push Notifications {#push}
          + [Skapa ett push-meddelande](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Skapa ett flerspråkigt push-meddelande](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
          + [Självstudiekurs: Komma igång med push-meddelanden för Android](https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
@@ -67,11 +67,11 @@ ht-degree: 2%
          + [Introduktion till meddelanden i appen](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Konfigurera händelser](/help/communication-channels/mobile/in-app/configure-events.md)
          + [Skicka ett meddelande i appen](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
-         + [Target-användare baserat på deras Campaign-profil](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
+         + [Målanvändare baserat på deras Campaign-profil](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
          + [Skapa en leverans i appen i ett arbetsflöde](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Rapportera om leverans i appen](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [Konfigurera ett mobilprogram med Adobe Experience Platform SDK](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
-   + [Direktreklam](/help/communication-channels/direct-mail/directmail.md)
+   + [Direktmeddelande](/help/communication-channels/direct-mail/directmail.md)
    + Landningssidor {#landing-pages}
       + [Skapa och redigera en landningssida](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Testa och publicera en landningssida](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
@@ -88,9 +88,9 @@ ht-degree: 2%
 + Hantera processer och data {#managing-processes-and-data}
    + [Skapa ett arbetsflöde](/help/managing-processes-and-data/create-workflow.md)
    + [Importera profiler med ett arbetsflöde](/help/managing-processes-and-data/importing-profiles.md)
-   + Körningsaktiviteter {#execution-activities}
+   + Execution Activities {#execution-activities}
       + [Extern signalaktivitet](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
-   + Datahanteringsaktiviteter {#data-management-activities}
+   + Data Management Activities {#data-management-activities}
       + [Extern API-aktivitet](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
 + Rapportering {#reporting}
    + [Utforska rapporter](/help/getting-started/exploring-reports.md)
@@ -98,7 +98,7 @@ ht-degree: 2%
    + [Skapa en rapport baserad på anpassade profilattribut](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Skapa en rapport baserad på arbetsflödessegment](/help/reporting/report-on-workflow-segments.md)
 + Utvecklar {#developing}
-   + Anpassade resurser {#custom-resources-develop}
+   + Custom Resources {#custom-resources-develop}
       + [Skapa anpassade resurser](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Administrerar {#administrating}
    + [Hantera behörigheter för användaråtkomst](/help/administrating/managing-user-access-rights.md)
@@ -124,7 +124,7 @@ ht-degree: 2%
       + [Mappa startregisterdata](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Ändra datamappningen](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
       + [Kontrollera status för datainmatningsjobb](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
-   + Typologiregler{#typology-rules}
+   + Typology Rules{#typology-rules}
       + Trötthetshantering{#fatigue-management}
          + [Skapa trötthetsregler](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Integritet {#privacy}
