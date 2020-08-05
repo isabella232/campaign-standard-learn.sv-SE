@@ -11,14 +11,14 @@ translation-type: tm+mt
 source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
 workflow-type: tm+mt
 source-wordcount: '112'
-ht-degree: 1%
+ht-degree: 41%
 
 ---
 
 
 # A/B-tester
 
-Med [!UICONTROL A/B Test] funktionerna i Adobe Campaign kan du definiera två till tre e-postvarianter. Varje variant skickas till populationsprover för att fastställa vilket som ger bäst resultat. När det är fastställt skickas därefter den vinnande varianten till den återstående populationen. Du kan välja att ändra e-postmeddelandets innehåll, ämne eller avsändare.
+The [!UICONTROL A/B Test] functionality in Adobe Campaign allows you to define two to three email variants. Varje variant skickas till populationsprover för att fastställa vilket som ger bäst resultat. När det är fastställt skickas därefter den vinnande varianten till den återstående populationen. Du kan välja att ändra e-postmeddelandets innehåll, ämne eller avsändare.
 
 I den här videon förklaras hur du konfigurerar och skickar ett A/B-test och testar ämnesraden.
 
