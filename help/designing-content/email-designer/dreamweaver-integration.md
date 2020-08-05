@@ -17,7 +17,7 @@ ht-degree: 1%
 
 # Skapa innehåll med Adobe Dreamweaver
 
-Tack vare integreringen av Adobe Campaign Standarder med Adobe Dreamweaver kan du redigera e-postmeddelanden direkt i Dreamweaver gränssnitt:
+Tack vare Adobe Campaign Standard-integrationen med Adobe Dreamweaver kan du redigera e-postmeddelanden direkt i Dreamweaver gränssnitt:
 
 * Dubbelriktad realtidssynkronisering av innehållet
 * Överför lokala bilder till Adobe Campaign via Dreamweaver
@@ -30,7 +30,7 @@ Tack vare integreringen av Adobe Campaign Standarder med Adobe Dreamweaver kan d
 I videon förklaras vad som krävs för att aktivera Dreamweaver-integrationen och hur du skapar och redigerar innehåll för Adobe Campaign Standard med Dreamweaver.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23121?quality=12)
-*Så här använder du Dreamweaver-integrationen i Adobe Campaign (02:37 min)*
+*Så här använder du Dreamweaver-integreringen i Adobe Campaign (02:37 min)*
 
 ## Ytterligare resurser
 
