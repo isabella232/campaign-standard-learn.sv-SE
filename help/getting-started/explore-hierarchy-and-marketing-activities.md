@@ -1,6 +1,6 @@
 ---
 title: Utforska hierarki och marknadsföringsaktiviteter
-description: I den här videon förklaras hierarkin av program och kampanjer i Adobe Campaign Standard (ACS), hur man skapar ett marknadsföringsprogram och hur man skapar en marknadsföringskampanj inom ett program.
+description: I den här videon förklaras hierarkin av program och kampanjer i Adobe Campaign Standard (ACS), hur man skapar ett marknadsföringsprogram och hur man skapar en marknadsföringskampanj i ett program.
 feature: managing campaigns
 topics: null
 kt: 3892
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
 source-wordcount: '80'
-ht-degree: 2%
+ht-degree: 6%
 
 ---
 
