@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -23,7 +23,7 @@ Detta **[!DNL pushidentifier]** är en sträng som innehåller enhetstoken för 
 
 Klistra in följande kod i [!DNL MainActivity]:
 
-```java{.line-numbers}
+```java
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -100,5 +100,4 @@ Navigera **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Öppna 
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
 >[OBS!]
->
 >Om du inte ser någon registreringstoken på [!UICONTROL Mobile Application Subscribers] fliken STOP här innan du fortsätter.
