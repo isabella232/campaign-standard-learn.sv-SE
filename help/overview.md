@@ -1,71 +1,75 @@
 ---
-title: Adobe Campaign Standard Tutorials - översikt
-description: Adobe Campaign är en plattform för att utforma kundupplevelser i olika kanaler och erbjuder en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om de många funktionerna i Adobe Campaign Standard.
+title: Självstudiekurser om Adobe Campaign Standard – översikt
+description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 4%
+source-wordcount: '308'
+ht-degree: 100%
 
 ---
 
 
 # Översikt
 
-Adobe Campaign är en plattform för att utforma kundupplevelser i olika kanaler och erbjuder en miljö för visuell kampanjsamordning, interaktionshantering i realtid och kanalövergripande körning. Den här användarhandboken innehåller videor och självstudiekurser om de många funktionerna i Adobe Campaign Standard.
+Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 
 ## Nyheter
 
-* **[GPG-nyckelhantering](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Hantera GPG-nycklar](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Lär dig hur du skapar och installerar ett nyckelpar för offentlig/privat nyckel på en angiven Campaign-instans för kryptering av utgående data, samt importerar och installerar en offentlig nyckel på en Campaign-instans för dekryptering av inkommande data.*
+   *Läs mer om hur du skapar och installerar ett offentligt/privat nyckelpar på en angiven instans i Campaign för att kryptera utgående data. Samt även hur du importerar och installerar en offentlig nyckel på en instans i Campaign för att dekryptera inkommande data.*
 
-* **[Extern API-aktivitet](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+* **[Aktiviteten Externt API](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
-   *Lär dig hur du konfigurerar och kör ett arbetsflöde med aktiviteten Externt API.*
+   *Läs mer om hur du konfigurerar och kör ett arbetsflöde med aktiviteten Externt API.*
 
-## Personalval
+* **[Profilersättning – testa e-postmeddelanden med målinriktade profiler](/help/communication-channels/email/profile-substitution.md)**
+
+   *Läs mer om hur du skickar ett korrektur för granskning med en exakt återgivning av meddelandet som profilen sedan får.*
+
+## Personalens val
 
 <table>
 <tr>
   <td>
     <a href="./communication-channels/email/profile-substitution.md"> 
-      <img alt="Profilersättning - Testa e-postmeddelanden med målprofiler (video)" src="./assets/substitution_tab.png"/>
+      <img alt="Profilersättning – testa e-postmeddelanden med målinriktade profiler (video)" src="./assets/substitution_tab.png"/>
     </a>
     <div>
       <a href="./communication-channels/email/profile-substitution.md">
-    <strong>Profilersättning - Testa e-postmeddelanden med målprofiler (video)</strong>
+    <strong>Profilersättning – testa e-postmeddelanden med målinriktade profiler (video)</strong>
     </a>
     </div>
     <p>
-    <em>Lär dig hur du skickar ett korrektur för granskning med en exakt representation av meddelandet som profilen kommer att få.</em>
+    <em>Läs mer om hur du skickar ett korrektur för granskning med en exakt återgivning av meddelandet som profilen sedan får.</em>
     <p>
   </td>
    <td>
     <a href="./designing-content/email-designer/email-designer-overview.md">
-      <img alt="E-postdesigner (videor)" src="./assets/email_designer_tutorial.png" />
+      <img alt="Email Designer (videor)" src="./assets/email_designer_tutorial.png" />
     </a>
     <div>
       <a href="./designing-content/email-designer/email-designer-overview.md">
-    <strong>E-postdesigner (videor)</strong>
+    <strong>Email Designer (videor)</strong>
     </a>
     </div>
     <p>
-    <em>Med e-postdesignern kan du snabbt och enkelt skapa individuellt anpassade e-postmeddelanden.</em>
+    <em>Med Email Designer kan du snabbt och enkelt skapa individuellt personaliserade e-postmeddelanden.</em>
     <p>
   </td>
   <td>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
-      <img alt="Självstudiekurs: Komma igång med push-meddelanden för Android" src="./assets/push-for-android.png" />
+    <a href="https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <img alt="Självstudiekurs: komma igång med push-meddelanden för Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
-    <strong>Självstudiekurs: Komma igång med push-meddelanden för Android</strong>
+      <a href="https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+    <strong>Självstudiekurs: komma igång med push-meddelanden för Android</strong>
     </a>
     </div>
     <p>
-    <em>I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign och ta emot dessa meddelanden i din Android-app. </em>
+    <em>I den här självstudiekursen visas steg för steg hur du skickar push-meddelanden från Adobe Campaign och tar emot dessa meddelanden i din Android-app. </em>
     <p>
   </td>
 </tr>
