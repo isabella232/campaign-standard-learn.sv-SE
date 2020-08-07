@@ -1,6 +1,6 @@
 ---
 title: Konfigurera och köra ett arbetsflöde med aktiviteten Externt API
-description: Den externa API-aktiviteten är en datahanteringsaktivitet. Du kan anropa en extern REST API-slutpunkt. Syftet med den här aktiviteten är att få personaliseringsdata från ett tredjepartssystem till kampanjen.
+description: Aktiviteten Externt API är en datahanteringsaktivitet. Med den kan du anropa en extern REST API-slutpunkt. Syftet med den här aktiviteten är att få personaliseringsdata från ett tredjepartssystem till kampanjen.
 feature: External API activity
 topics: null
 kt: 2764
@@ -11,21 +11,21 @@ translation-type: tm+mt
 source-git-commit: f0d95ab02496a9caa6b79a2c536ce9b7090da943
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 8%
+ht-degree: 100%
 
 ---
 
 
 # Konfigurera och köra ett arbetsflöde med [!UICONTROL External API activity]
 
-Det [!UICONTROL External API activity] är en [!UICONTROL Data Management activity]. Du kan anropa en extern REST API-slutpunkt. Syftet med den här aktiviteten är att få personaliseringsdata från ett tredjepartssystem till kampanjen.
+[!UICONTROL External API activity] är en [!UICONTROL Data Management activity]. Med den kan du anropa en extern REST API-slutpunkt. Syftet med den här aktiviteten är att få personaliseringsdata från ett tredjepartssystem till kampanjen.
 
-Exempel:
+Exempel med användningsfall:
 
-* Hämta den senaste speldagssamlingen för ett idrottsevenemang för att personalisera innehåll
-* Få de senaste erbjudandena
-* Ansluta till ett kuponggenereringssystem
-* Kontrollera vädret i lokala regioner och använda det för att anpassa innehållet
+* Hämta den senaste uppställningen för ett idrottsevenemang för att personalisera innehåll
+* Hämta de senaste erbjudandena
+* Ansluta till ett system som genererar kuponger
+* Kontrollera vädret i lokala regioner och använda det för att personalisera innehåll
 
 I den här videon visas hur du använder [!UICONTROL External API activity].
 
@@ -35,9 +35,9 @@ I den här videon visas hur du använder [!UICONTROL External API activity].
 
 >[!NOTE]
 >
->Observera att aktiviteten är avsedd för hämtning av kampanjomfattande data (senaste erbjudanden, senaste poängen osv.), inte för hämtning av specifik information för varje profil eftersom det kan leda till att stora mängder data överförs. Om användningsfallet kräver detta ska aktiviteten Överför fil användas.
+>Observera att aktiviteten är avsedd för att hämta kampanjomfattande data (senaste erbjudanden, senaste poängen osv.) och inte för att hämta specifik information för varje profil eftersom det kan leda till att stora mängder data överförs. Om användningsfallet kräver detta bör du använda aktiviteten Överför fil.
 
 ## Ytterligare resurser
 
-* [Externt API (dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [Externt API (dokumentation)](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
 
