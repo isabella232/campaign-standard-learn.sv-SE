@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 7f43a2a89428bc3b087ebb40a65d610bd9eb3f5b
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '529'
-ht-degree: 91%
+source-wordcount: '500'
+ht-degree: 100%
 
 ---
 
@@ -49,7 +49,7 @@ ht-degree: 91%
       + [Skapa ett e-postmeddelande](/help/communication-channels/email/create-email-from-homepage.md)
       + [Skicka ett test samt förbered och skicka ett e-postmeddelande](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [Skapa ett flerspråkigt e-postmeddelande eller en SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Konvertera en befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Konvertera ett befintligt e-postmeddelande, en SMS-leverans eller en mall till flerspråkiga versioner](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B-tester](/help/communication-channels/email/a-b-testing.md)
       + [Testa e-postmeddelanden med målinriktade profiler](/help/communication-channels/email/profile-substitution.md)
       + [Granska en e-postleverans och -rapporter](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
@@ -57,8 +57,7 @@ ht-degree: 91%
    + Mobil {#mobile}
       + SMS{#sms}
          + [Skapa en SMS-leverans](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Skapa ett flerspråkigt e-postmeddelande eller en SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
-         + [Konvertera en befintlig e-post, SMS-leverans eller mall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+         + [Konvertera ett befintligt e-postmeddelande, en SMS-leverans eller en mall till flerspråkiga versioner](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push-meddelanden {#push}
          + [Skapa ett push-meddelande](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Skapa ett flerspråkigt push-meddelande](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -87,7 +86,6 @@ ht-degree: 91%
    + [Konfigurera produktlistor i transaktionsmeddelanden](/help/designing-content/product-listings-in-transactional-email.md)
 + Hantera processer och data {#managing-processes-and-data}
    + [Skapa ett arbetsflöde](/help/managing-processes-and-data/create-workflow.md)
-   + [Importera profiler med ett arbetsflöde](/help/managing-processes-and-data/importing-profiles.md)
    + Körningsaktiviteter {#execution-activities}
       + [Extern signalaktivitet](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Datahanteringsaktiviteter {#data-management-activities}
@@ -109,7 +107,6 @@ ht-degree: 91%
       + [Ansluta till en SFTP-server](/help/administrating/control-panel/connect-to-sftp-server.md)
       + [Delegera underdomäner](/help/administrating/control-panel/subdomain-delegation.md)
       + [Lägga till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [Hantera SSL-certifikat](/help/administrating/control-panel/managing-ssl-certificates.md)
       + [Hantera Google TXT-poster](/help/administrating/control-panel/google-txt-record-management.md)
       + Hantera GPG-nycklar {#gpg-key-management}
          + [Hantera GPG-nycklar – översikt](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
@@ -133,5 +130,3 @@ ht-degree: 91%
    + [Modifiera anpassade resurser för förfrågningar om användaruppgifter](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Skapa och spåra förfrågningar om användaruppgifter manuellt](/help/privacy/create-and-track-privacy-requests.md)
    + [Utföra förfrågningar om användaruppgifter](/help/privacy/execute-privacy-requests.md)
-+ [Adobe Campaign Deliverability Best Practice Guide](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-
