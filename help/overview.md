@@ -5,7 +5,7 @@ products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
 source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
 workflow-type: tm+mt
-source-wordcount: '308'
+source-wordcount: '280'
 ht-degree: 100%
 
 ---
@@ -24,10 +24,6 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 * **[Aktiviteten Externt API](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
 
    *Läs mer om hur du konfigurerar och kör ett arbetsflöde med aktiviteten Externt API.*
-
-* **[Profilersättning – testa e-postmeddelanden med målinriktade profiler](/help/communication-channels/email/profile-substitution.md)**
-
-   *Läs mer om hur du skickar ett korrektur för granskning med en exakt återgivning av meddelandet som profilen sedan får.*
 
 ## Personalens val
 
