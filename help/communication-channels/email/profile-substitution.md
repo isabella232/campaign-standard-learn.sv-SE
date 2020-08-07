@@ -4,7 +4,7 @@ description: I den här videon förklaras hur du kan testa dina e-postmeddelande
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368.jpg
+thumbnail: 32368
 doc-type: feature video
 activity: use
 team: TM
