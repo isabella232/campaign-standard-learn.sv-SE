@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: db20c4e6aeb10dc04a6c4556fefaa8cd18366c44
+source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
 workflow-type: tm+mt
-source-wordcount: '386'
+source-wordcount: '364'
 ht-degree: 100%
 
 ---
@@ -71,9 +71,7 @@ I följande video förklaras hur du lägger till en administratör i en instans 
 * **[Lägga till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)**
 
    *Läs mer om hur du lägger till ett SSL-certifikat för att skydda underdomäner.*
-* **[Hantera SSL-certifikat](/help/administrating/control-panel/managing-ssl-certificates.md)**
 
-   *Läs mer om hur du ser SSL-certifikatstatusen för underdomäner samt begär förnyelser.*
 * **[Hantera Google TXT-poster](/help/administrating/control-panel/google-txt-record-management.md)**
 
    *Läs mer om hur du lägger till Google TXT-poster för webbplatsverifiering i alla underdomäner som används för att skicka e-postmeddelanden till GMAIL-adresser via kontrollpanelen i Campaign.*
