@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
+source-git-commit: 32d62f94862f72b43b4e3982b0a754c855d6faac
 workflow-type: tm+mt
-source-wordcount: '500'
-ht-degree: 100%
+source-wordcount: '513'
+ht-degree: 97%
 
 ---
 
@@ -29,6 +29,7 @@ ht-degree: 100%
    + [Utforska hierarki och marknadsföringsaktiviteter](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Hantera kampanjer](/help/getting-started/managing-campaigns.md)
    + [Förstå profiler och målgrupper](/help/getting-started/understanding-profiles-and-audiences.md)
+   + [Skapa och skicka e-post](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Skapa ett arbetsflöde](/help/managing-processes-and-data/create-workflow.md)
    + [Introduktion till rapportering](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobil marknadsföring med Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
