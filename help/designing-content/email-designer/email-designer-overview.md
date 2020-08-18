@@ -3,15 +3,15 @@ title: Översikt över e-postdesignern
 description: I den här videon förklaras de allmänna funktionerna i e-postdesignern och hur du utformar ett e-postmeddelande från grunden.På den här sidan visas alla tillgängliga funktionsvideor för Adobe Campaign e-postdesigner
 feature: Email Designer
 topics: Content Creation
-kt: 2391
+kt: null
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 58fd8bec8adfca14188ea66423c107a14253834e
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 0%
+source-wordcount: '137'
+ht-degree: 10%
 
 ---
 
@@ -24,18 +24,13 @@ I den här videon får du en översikt över funktionaliteten och användningen 
 
 >[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
-## Komma igång med [!UICONTROL Email Designer]
-
-I den här videon förklaras de allmänna funktionerna i [!UICONTROL Email Designer] och hur du utformar ett e-postmeddelande från grunden.
-
->[!VIDEO](https://video.tv.adobe.com/v/25912?quality=12)
-
-## Tutorials
+## Självstudiekurser
 
 Följande detaljerade självstudiekurser finns:
 
+* [Komma igång med e-postdesignern](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [Innehållsmallar](/help/designing-content/email-designer/email-content-templates.md)
-* [Konfigurera mobilvyn](/help/designing-content/email-designer/configure-the-mobile-view.md)
+* [Konfigurera den mobila vyn](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [Förhandsgranska din e-post](/help/designing-content/email-designer/preview-your-email.md)
 * [Arbeta med befintligt innehåll](/help/designing-content/email-designer/working-with-existing-content.md)
 * [Skapa innehåll med Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
