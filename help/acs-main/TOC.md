@@ -9,10 +9,10 @@ tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 32d62f94862f72b43b4e3982b0a754c855d6faac
+source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
 workflow-type: tm+mt
-source-wordcount: '513'
-ht-degree: 97%
+source-wordcount: '519'
+ht-degree: 96%
 
 ---
 
@@ -79,6 +79,7 @@ ht-degree: 97%
 + Utforma och personalisera innehåll {#designing-content}
    + Email Designer{#email-designer}
       + [Översikt](/help/designing-content/email-designer/email-designer-overview.md)
+      + [Komma igång med e-postdesignern](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introduktion till mallar för e-postinnehåll](/help/designing-content/email-designer/email-content-templates.md)
       + [Konfigurera den mobila vyn](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Förhandsgranska analyser av e-postmeddelanden och skräppost](/help/designing-content/email-designer/preview-your-email.md)
