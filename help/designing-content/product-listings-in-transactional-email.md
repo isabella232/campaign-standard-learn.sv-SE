@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 1%
+source-wordcount: '174'
+ht-degree: 4%
 
 ---
 
@@ -22,7 +22,7 @@ Du kan konfigurera ett omdirigerat e-postmeddelande med en lista över produkter
 
 I följande videofilmer beskrivs de steg som krävs för att konfigurera [!UICONTROL product listings] i [!UICONTROL transactional emails].
 
->[OBS!]
+>[!NOTE]
 >
 >Den här funktionen kallas för närvarande för Slinga i videoklippen.
 
