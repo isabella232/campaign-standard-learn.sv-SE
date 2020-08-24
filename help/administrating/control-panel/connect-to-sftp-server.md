@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b277b1ad17d9c03b307f8483d776b796e6c0cbef
+source-git-commit: c72943b6e3209156b6f17679bae4d303fa766224
 workflow-type: tm+mt
-source-wordcount: '166'
+source-wordcount: '163'
 ht-degree: 100%
 
 ---
@@ -33,8 +33,8 @@ Du får åtkomst till SFTP-hantering via kontrollpanelen genom att gå till:
 
 För anslutning till SFTP-servrar krävs:
 
-* [!!UICONTROL allow listing]-IP-adressen som används för anslutning till SFTP-servern
-* Ett privat/offentligt nyckelpar som måste registreras i Adobe Campaign
+* [!UICONTROL allow listing]-IP-adressen som används för anslutning till SFTP-servern
+* ett privat/offentligt nyckelpar som måste registreras i Adobe Campaign
 * Om du ansluter till SFTP-servern direkt behöver du även en SFTP-klientprogramvara
 
 I den här videon förklaras hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat på kontrollpanelen.
