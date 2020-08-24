@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 2f0527f3d9e2248eea68079e00855cce7a96fce4
+source-git-commit: 2fd2e62663f4b09ce7afc6387b53e194fbcafde8
 workflow-type: tm+mt
-source-wordcount: '330'
-ht-degree: 100%
+source-wordcount: '327'
+ht-degree: 99%
 
 ---
 
 
-# Felsöka 
+# Problem med att filma [!UICONTROL Control Panel]
 
 Läs mer om hur du felsöker problem med att använda kontrollpanelen.
 
@@ -40,7 +40,7 @@ Administratören måste lägga till användaren i [!UICONTROL product profile] *
 ### Symptom: en instans visas inte i [!UICONTROL Control Panel]
 
 **Orsak:**
-troligtvis måste användaren läggas till som en *[!UICONTROL user]* med produktprofil i `!DNL Campaign-xxx-Administrators/Admin` för den instans som saknas
+troligtvis måste användaren läggas till som en *[!UICONTROL user]* med produktprofil i `Campaign-xxx-Administrators/Admin` för den instans som saknas
 
 **Så här gör du:**
 Administratören måste lägga till användaren i produktprofilen i `Campaign-xxx-Admins` för varje instans som denne vill hantera. Om användaren är en administratör för alla instanser kan denne fortfarande behöva lägga till sig själv som *[!UICONTROL user]*.
@@ -55,15 +55,15 @@ Administratören måste lägga till användaren i produktprofilen i `Campaign-xx
 
 ### Användbar dokumentation
 
-* [Upptäck [!UICONTROL Control Panel]](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html)
-* [Hantera behörigheter för [!UICONTROL Control Panel]](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html)
+* [Upptäck [!UICONTROL Control Panel]](https://helpx.adobe.com/se/campaign/kb/control-panel-overview.html)
+* [Hantera behörigheter för [!UICONTROL Control Panel]](https://helpx.adobe.com/se/campaign/kb/control-panel-access.html)
 
 ## Upprätta en anslutning till en SFTP-server (klient eller API)
 
 För anslutning till SFTP-servrar krävs:
 
 * [!UICONTROL allow listing]-IP-adressen som används för anslutning till SFTP-servern
-* Ett privat/offentligt nyckelpar som måste registreras i Adobe Campaign
+* ett privat/offentligt nyckelpar som måste registreras i Adobe Campaign
 * Om du ansluter till SFTP-servern direkt behöver du även en SFTP-klientprogramvara
 
 ### Användbar dokumentation
