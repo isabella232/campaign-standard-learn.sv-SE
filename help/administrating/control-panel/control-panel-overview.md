@@ -46,7 +46,7 @@ Slutför följande förhandskrav innan du börjar:
 Du måste känna till ditt [!DNL IMS org ID]. I följande video beskrivs var du kan hitta instansens [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Kontrollera[!DNL IMS Org ID](00:26 min)*
+*Kontrollera [!DNL IMS Org ID] (00:26 min)*
 
 ### Administratörsrättigheter
 
@@ -54,7 +54,7 @@ Administratörsrättigheter krävs för åtkomst till [!UICONTROL Control Panel]
 I följande video förklaras hur du lägger till en administratör i en instans i Campaign
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Så här lägger du till en administratör i produktprofilen &quot;[!UICONTROL Administrators]&quot; för att kunna använda[!UICONTROL Control Panel](01:03 min)*
+*Så här lägger du till en administratör i produktprofilen &quot;[!UICONTROL Administrators]&quot; för att kunna använda [!UICONTROL Control Panel] (01:03 min)*
 
 ## Självstudiekurser om kontrollpanelen
 
