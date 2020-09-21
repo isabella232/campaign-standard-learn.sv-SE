@@ -11,10 +11,10 @@ getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 94c15068a733b95a41201cd2a451d2adea4b9c29
+source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
 workflow-type: tm+mt
-source-wordcount: '519'
-ht-degree: 96%
+source-wordcount: '536'
+ht-degree: 93%
 
 ---
 
@@ -51,12 +51,16 @@ ht-degree: 96%
    + E-post {#email}
       + [Skapa ett e-postmeddelande](/help/communication-channels/email/create-email-from-homepage.md)
       + [Skicka ett test samt förbered och skicka ett e-postmeddelande](/help/communication-channels/email/sending-test-preparing-sending-email.md)
-      + [Skapa ett flerspråkigt e-postmeddelande eller en SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Konvertera ett befintligt e-postmeddelande, en SMS-leverans eller en mall till flerspråkiga versioner](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [A/B-tester](/help/communication-channels/email/a-b-testing.md)
       + [Testa e-postmeddelanden med målinriktade profiler](/help/communication-channels/email/profile-substitution.md)
+      + [Lägga till en kontrollgrupp i en leverans](/help/communication-channels/email/control-groups.md)
+      + [Skapa ett flerspråkigt e-postmeddelande eller en SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
+      + [Konvertera ett befintligt e-postmeddelande, en SMS-leverans eller en mall till flerspråkiga versioner](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Granska en e-postleverans och -rapporter](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Skapa och skicka e-postmeddelanden via ett arbetsflöde](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
+      + AI-baserade e-postmeddelanden {#journey-ai}
+         + [Prediktiv optimering av sändningstid](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
+         + [Prediktiv poängsättning av engagemang](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobil {#mobile}
       + SMS{#sms}
          + [Skapa en SMS-leverans](/help/communication-channels/mobile/sms/sms-delivery.md)
