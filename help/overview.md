@@ -3,10 +3,10 @@ title: Självstudiekurser om Adobe Campaign Standard – översikt
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 106645d51da04a8457c73096865329bd0b87381d
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 100%
+source-wordcount: '318'
+ht-degree: 62%
 
 ---
 
@@ -17,13 +17,17 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* **[Hantera GPG-nycklar](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)**
+* **[Lägga till kontrollgrupper i en leverans](/help/communication-channels/email/control-groups.md)**
 
-   *Läs mer om hur du skapar och installerar ett offentligt/privat nyckelpar på en angiven instans i Campaign för att kryptera utgående data. Samt även hur du importerar och installerar en offentlig nyckel på en instans i Campaign för att dekryptera inkommande data.*
+   *Lär dig hur du skapar en[!UICONTROL control group]när du definierar leveransmålet.*
 
-* **[Aktiviteten Externt API](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)**
+* **[Prediktiv optimering av sändningstid](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
-   *Läs mer om hur du konfigurerar och kör ett arbetsflöde med aktiviteten Externt API.*
+   *Förstå vilka arbetsflöden som krävs för att synkronisera data mellan Adobe Campaign och Journey AI-modellen. Lär dig hur du visar sändningstidsresultat på individuell profilnivå och hur du kör e-postleveranser med en tidsformel för sändning.*
+
+* **[Prediktiv poängsättning av engagemang](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
+
+   *Lär dig hur du kan se engagemangsmusik på individuell profilnivå, använda poäng för att målinrikta engagerade användare och hindra trötta användare och hur du skapar typologiregler för att hantera kundtrötthet.*
 
 ## Personalens val
 
@@ -43,16 +47,16 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     <p>
   </td>
    <td>
-    <a href="./designing-content/email-designer/email-designer-overview.md">
-      <img alt="Email Designer (videor)" src="./assets/email_designer_tutorial.png" />
+    <a href="./administrating/control-panel/control-panel-overview.md">
+      <img alt="Kontrollpanelen (videoklipp)" src="./assets/control-panel.png" />
     </a>
     <div>
-      <a href="./designing-content/email-designer/email-designer-overview.md">
-    <strong>Email Designer (videor)</strong>
+    <a href="./administrating/control-panel/control-panel-overview.md">
+    <strong>Kontrollpanelen (videoklipp)</strong>
     </a>
     </div>
     <p>
-    <em>Med Email Designer kan du snabbt och enkelt skapa individuellt personaliserade e-postmeddelanden.</em>
+    <em> Arbeta effektivare som administratör genom att hantera inställningar och spåra användning av instanser med Kontrollpanelen .</em>
     <p>
   </td>
   <td>
