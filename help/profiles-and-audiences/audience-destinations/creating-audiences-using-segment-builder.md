@@ -1,5 +1,5 @@
 ---
-title: Skapa en ny målgrupp med verktyget för enhetlig segmentering
+title: Skapa en ny målgrupp med Unified Segment Builder
 description: null
 feature: Audience Destinations
 topics: ACOP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '225'
-ht-degree: 0%
+ht-degree: 9%
 
 ---
 
 
-# Skapa en ny målgrupp med verktyget för enhetlig segmentering
+# Skapa en ny målgrupp med Unified Segment Builder
 
 >[!NOTE]
 >
