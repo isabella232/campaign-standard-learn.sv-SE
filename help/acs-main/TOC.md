@@ -11,10 +11,10 @@ getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
+source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
-source-wordcount: '536'
-ht-degree: 93%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -31,13 +31,13 @@ ht-degree: 93%
    + [Utforska hierarki och marknadsföringsaktiviteter](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Hantera kampanjer](/help/getting-started/managing-campaigns.md)
    + [Förstå profiler och målgrupper](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Skapa och skicka e-post](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Skapa ett e-postmeddelande](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Skapa ett arbetsflöde](/help/managing-processes-and-data/create-workflow.md)
    + [Introduktion till rapportering](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobil marknadsföring med Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Expandera med Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profiler och målgrupper {#profiles-and-audiences}
-   + [Skapa profiler och målgrupper – översikt](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [Skapa profiler och målgrupper - översikt](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Skapa en profil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Skapa en testprofil](/help/profiles-and-audiences/test-profiles.md)
    + [Importera profiler med ett arbetsflöde](/help/managing-processes-and-data/importing-profiles.md)
