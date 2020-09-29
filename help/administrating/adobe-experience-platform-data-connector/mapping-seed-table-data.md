@@ -1,5 +1,5 @@
 ---
-title: Mappa startregisterdata
+title: Kartlägga data i frötabeller
 description: Lär dig att mappa dina dirigerade data och testa profiler med Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 6%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Mappa startregisterdata
+# Kartlägga data i frötabeller
 
 >[!NOTE]
 >
