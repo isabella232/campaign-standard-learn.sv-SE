@@ -1,47 +1,48 @@
 ---
-title: Lägger till SSL-certifikat
-description: Med Adobe Campaign Kontrollpanel kan du lägga till SSL-certifikat för att skydda dina underdomäner.
+title: Lägga till SSL-certifikat
+description: Med kontrollpanelen i Adobe Campaign kan du lägga till SSL-certifikat för att skydda underdomänerna.
 feature: Control Panel
 topics: null
 kt: 4219
+thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d95453ddd484e2cc0c79a347e150a2cecaa73d56
 workflow-type: tm+mt
-source-wordcount: '192'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Lägger till SSL-certifikat
+# Lägga till SSL-certifikat
 
-[!UICONTROL Adobe Campaign Control Panel] gör att du kan lägga till SSL-certifikat för att skydda dina underdomäner.
+Med [!UICONTROL Adobe Campaign Control Panel] i kan du lägga till SSL-certifikat för att skydda underdomänerna.
 
-## Åtkomst till [!UICONTROL Control Panel] hantering av underdomäner
+## Åtkomst till [!UICONTROL Control Panel] för att hantera underdomäner
 
-Om du vill få åtkomst till Subdomain Management i [!UICONTROL Control Panel]går du till:
+För att få åtkomst till hantering av underdomäner i [!UICONTROL Control Panel] ska du gå till:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** card > [!UICONTROL **Subdomains &amp; Certificates **]card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** card > [!UICONTROL **Subdomains &amp; Certificates**] card
 
    eller
 * Direkt från webbadressen: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Steg för att lägga till SSL-certifikat
+## Stegvis lägga till SSL-certifikat
 
-För att lägga till SSL-certifikat krävs tre steg:
+Att lägga till SSL-certifikat kräver tre steg:
 
 ### Steg 1: Generera [!UICONTROL Certificate Signing Requests]
 
-CSR [!UICONTROL Certificate Signing Request] krävs för inköp av ett SSL-certifikat. Den måste genereras för instansen och de underdomäner som du planerar att skydda.
+The [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase of a SSL certificate. Den måste genereras för instansen och de underdomäner som du planerar att skydda.
 
 I videon nedan beskrivs hur du genererar ett [!UICONTROL Certificate Signing Request] i [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 
-*Generera begäranden om certifikatsignering (02:36 min)*
+*Skapa en begäran om certifikatsignering (02:36 min)*
 
 ### Steg 2: Köp SSL-certifikat
 
@@ -51,7 +52,7 @@ När CSR har erhållits köper du SSL-certifikatet från en certifikatutfärdare
 
 När du har fått SSL-certifikatet måste det vara installerat för de underdomäner som du planerar att skydda.
 
-I videon nedan beskrivs hur du installerar SSL-certifikat i [!UICONTROL Control Panel].
+I videon nedan förklaras hur du installerar SSL-certifikat i [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
 
@@ -60,4 +61,4 @@ I videon nedan beskrivs hur du installerar SSL-certifikat i [!UICONTROL Control 
 ## Ytterligare resurser
 
 * [Delegera underdomäner](/help/administrating/control-panel/subdomain-delegation.md)
-* [Underdomäner och certifikat - dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Underdomäner och certifikat – dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
