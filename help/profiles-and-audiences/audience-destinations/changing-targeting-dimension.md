@@ -1,5 +1,5 @@
 ---
-title: Ändra målinriktningsdimensionen
+title: Ändra storleken på målinriktningen
 description: I den här videon förklaras hur du ändrar målinriktningsdimensionen för en leverans för en Platform Audience utanför den primära profiltabellen i Adobe Campaign Standard.
 feature: Audience Destinations
 topics: ACOP
@@ -8,15 +8,15 @@ doc-type: feature video
 activity: using
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
 source-wordcount: '165'
-ht-degree: 4%
+ht-degree: 15%
 
 ---
 
 
-# Ändra målinriktningsdimensionen [!UICONTROL Platform Audience]
+# Ändra storleken på målinriktningen [!UICONTROL Platform Audience]
 
 >[!NOTE]
 >
@@ -38,5 +38,5 @@ Dokumentation:
 
 Videoresurser:
 
-* [Skapa en ny målgrupp med verktyget för enhetlig segmentering](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Skapa en ny målgrupp med Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Aktivera Adobe Experience Platform-målgrupper i ett marknadsföringsarbetsflöde](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
