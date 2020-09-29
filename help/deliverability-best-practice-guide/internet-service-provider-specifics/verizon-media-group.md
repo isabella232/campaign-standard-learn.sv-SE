@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: f797faaf9189f64eb6fc57b84c5e38d4418d5f51
+source-git-commit: f98966913cb4adfcd15b578ea4589ff00798a037
 workflow-type: tm+mt
 source-wordcount: '294'
 ht-degree: 0%
@@ -16,7 +16,7 @@ ht-degree: 0%
 ---
 
 
-# [!DNL Verizon Media Group](Yahoo, AOL, Verizon osv.)
+# [!DNL Verizon Media Group] (Yahoo, AOL, Verizon osv.)
 
 [!DNL Verizon Media Group] är vanligtvis en av de tre toppdomänerna för de flesta B2C-listor. De beter sig ganska unikt, eftersom de i allmänhet stryper massbrev om det uppstår några problem med anseendet.
 
