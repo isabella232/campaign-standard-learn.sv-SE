@@ -1,5 +1,5 @@
 ---
-title: 'Mappa anpassade resurser '
+title: 'Kartlägga anpassade resurser '
 description: Lär dig hur du mappar olika datatyper mellan Adobe Campaign Standard (ACS) och Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
@@ -8,10 +8,10 @@ doc-type: feature video
 activity: set-up
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '76'
-ht-degree: 5%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
