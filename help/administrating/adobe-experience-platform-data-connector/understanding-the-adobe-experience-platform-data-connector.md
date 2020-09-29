@@ -8,15 +8,15 @@ doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: cb5d5bc58137fd374eafe165c6ea13288a60d7db
+source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 4%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
-# Förstå Adobe Experience Platform [!UICONTROL Data Connector]
+# Understanding the Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
@@ -47,10 +47,10 @@ Adobe Experience Platform [!UICONTROL Data Connector] är avsett för datateknik
 I följande självstudier beskrivs de viktigaste stegen för att utföra en datamappning mellan Campaign Standard och Adobe Experience Platform:
 
 1. [Mappa anpassade resurser](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-2. [Mapping Experience Events](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+2. [Kartlägga upplevelsehändelser](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
 3. [Mappa starttabelldata](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
 4. [Ändra datamappningen](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-5. [Kontrollera status för datainmatningsjobb](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+5. [Kontrollera status för datainsamlingsjobb](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
 
 ## Ytterligare resurser
 
