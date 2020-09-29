@@ -8,7 +8,7 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: bbe5f985ae791f55e94c7369fbf1aefcfd9d2b76
+source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
 source-wordcount: '206'
 ht-degree: 0%
@@ -22,6 +22,10 @@ Detta **[!DNL pushidentifier]** är en sträng som innehåller enhetstoken för 
 Öppna projektet i [!DNL Android ]studion. Ta bort hela koden i [!DNL MainActivity] förutom den första raden som är din paketprogramsats ****.
 
 Klistra in följande kod i [!DNL MainActivity]:
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 import androidx.annotation.NonNull;
