@@ -11,7 +11,7 @@ getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
+source-git-commit: bbbfc6d235cd2224ac14a31fbc52142d7481b144
 workflow-type: tm+mt
 source-wordcount: '0'
 ht-degree: 0%
@@ -64,7 +64,6 @@ ht-degree: 0%
    + Mobil {#mobile}
       + SMS{#sms}
          + [Skapa en SMS-leverans](/help/communication-channels/mobile/sms/sms-delivery.md)
-         + [Konvertera ett befintligt e-postmeddelande, en SMS-leverans eller en mall till flerspråkiga versioner](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + Push-meddelanden {#push}
          + [Skapa ett push-meddelande](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Skapa ett flerspråkigt push-meddelande](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
@@ -138,3 +137,5 @@ ht-degree: 0%
    + [Modifiera anpassade resurser för förfrågningar om användaruppgifter](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Skapa och spåra förfrågningar om användaruppgifter manuellt](/help/privacy/create-and-track-privacy-requests.md)
    + [Utföra förfrågningar om användaruppgifter](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign Deliverability Best Practice Guide](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
+
