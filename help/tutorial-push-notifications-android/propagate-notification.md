@@ -8,9 +8,9 @@ doc-type: tutorial
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: c3ff1a137fb8ee9506a11f82e1a27d010bbd97e6
+source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
 workflow-type: tm+mt
-source-wordcount: '154'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -26,6 +26,10 @@ Så här säger du till användaren att något har hänt i bakgrunden:
 * Högerklicka på paketmappen ([!DNL com.example.acspushtutorial]) och [!DNL New ->Java Class]
 * Ge den här klassen ett namn *[!DNL MyService]* och kontrollera att den utökas [!DNL FirebaseMessagingService]
 * Skapa *[!DNL sendNotification]* metod i den här klassen. I den här metoden måste du ange meddelandets innehåll och kanal med hjälp av ett [!DNL NotificationCompat.Builder] objekt. Om du vill att meddelandet ska visas ringer du [!DNL NotificationManagerCompat.notify()]och skickar det ett unikt ID för meddelandet och resultatet av [!DNL NotificationCompat.Builder.build()].
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```java
 package com.example.pushmessaging;
@@ -91,6 +95,10 @@ notificationManager.notify(0 /* ID of notification */, notificationBuilder.build
 ## Ändra [!DNL AndroidManifest.xml]
 
 Lägg till tjänsten som skapades i din [!DNL AndroidManifest.xml]dator. Den slutliga versionen [!DNL AndroidManifest.xml] ska se ut så här:
+
+<!--
+Removed `{.line-numbers}` below
+-->
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
