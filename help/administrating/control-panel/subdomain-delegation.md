@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: a21fdefdce42ba417ff6b5173d15a0cebe4176ad
+source-git-commit: aa01c2f8fe1560468d0d8f3fae6291bb82f9a21f
 workflow-type: tm+mt
 source-wordcount: '120'
-ht-degree: 96%
+ht-degree: 77%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 96%
 Med [!UICONTROL Control Panel] i Adobe Campaign kan du fullständigt delegera en underdomän som tillhör Adobe Campaign.
 
 >[!NOTE]
-> Att delegera underdomäner från [!UICONTROL Control Panel] kommer att vara tillgängligt som betaversion i slutet av januari med förbehåll för
-> regelbundna uppdateringar och ändringar utan föregående meddelande.
+>
+>Deldomänsdelegering från [!UICONTROL Control Panel] kommer att vara tillgänglig som betaversion i slutet av januari, med reservation för ändringar och uppdateringar ofta utan föregående meddelande.
 
 ## Komma åt [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
