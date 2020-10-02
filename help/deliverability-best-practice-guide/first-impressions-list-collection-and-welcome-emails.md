@@ -8,7 +8,7 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: f797faaf9189f64eb6fc57b84c5e38d4418d5f51
+source-git-commit: 4acbb9129cfa36f4d7d00e5f8abaa32d006eaeac
 workflow-type: tm+mt
 source-wordcount: '2410'
 ht-degree: 0%
@@ -33,7 +33,7 @@ Den vanligaste formen för **webbplatsregistrering** är&quot;single opt-in&quot
 * Obekräftade e-postadresser kan innehålla stavfel, vara felaktiga eller ha skadligt format. Typos och felformaterade adresser orsakar höga studsfrekvenser, vilket kan och gör att blockeringar som utfärdas av Internet-leverantörer eller IP-adresser inte fungerar som de ska.
 * Skadlig inlämning av kända skräppostfällor (kallas ibland&quot;listförgiftning&quot;) kan orsaka stora problem med leveransen och anseendet om ägaren till fällan vidtar åtgärder. Det är omöjligt att veta om mottagaren verkligen vill bli medlem i en marknadsföringslista utan att bekräfta det. Detta gör det lika omöjligt att ställa mottagarens förväntningar och kan leda till fler skräppostklagomål - och ibland en svartlista om det insamlade e-postmeddelandet råkar vara en skräppostfälla.
 
-Om du vill ha vägledning om hur du minimerar problemen i både fysisk lagring och fristående deltagande går du till avsnittet [](#data-quality-and-hygiene) Datakvalitet och hygien i den här guiden för mer information om fördelarna med dubbel anmälan.
+Om du vill ha vägledning om hur du minimerar problemen i både fysisk lagring och fristående deltagande går du till avsnittet Datakvalitet och hygien i den här handboken där du hittar information om och fördelar med dubbel anmälan.
 
 Prenumeranter använder ofta bortkastadresser, utgångna adresser eller adresser som inte är deras för att få det de vill ha från en webbplats, men undviker också att läggas till i marknadsföringslistor. När detta händer kan marknadsförarnas listor resultera i ett stort antal hårda studsar, höga andelen skräppost och prenumeranter som inte klickar, öppnar eller engagerar sig positivt i e-postmeddelanden. Detta kan ses som en röd flagga för postlådeprovidrar och Internet-leverantörer.
 
