@@ -7,9 +7,9 @@ kt: 4696
 doc-type: feature video
 activity: use
 team: PM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 906b1d76e4723b50e2d06f6525763bbd73b98e10
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '364'
 ht-degree: 100%
 
@@ -31,7 +31,7 @@ Gå till Experience Cloud Home på: [https://experiencecloud.adobe.com](https://
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
    eller
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > **[!UICONTROL Control Panel]-kort **
+* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > kortet **[!UICONTROL Control Panel]**
 
    eller
 
@@ -45,16 +45,16 @@ Slutför följande förhandskrav innan du börjar:
 
 Du måste känna till ditt [!DNL IMS org ID]. I följande video beskrivs var du kan hitta instansens [!DNL IMS org ID].
 
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Kontrollera [!DNL IMS Org ID] (00:26 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12&captions=swe)
+*Kontrollera[!DNL IMS Org ID](00:26 min)*
 
 ### Administratörsrättigheter
 
 Administratörsrättigheter krävs för åtkomst till [!UICONTROL Control Panel].
 I följande video förklaras hur du lägger till en administratör i en instans i Campaign
 
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Så här lägger du till en administratör i produktprofilen &quot;[!UICONTROL Administrators]&quot; för att kunna använda [!UICONTROL Control Panel] (01:03 min)*
+>[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12&captions=swe)
+*Så här lägger du till en administratör i produktprofilen &quot;[!UICONTROL Administrators]&quot; för att kunna använda[!UICONTROL Control Panel](01:03 min)*
 
 ## Självstudiekurser om kontrollpanelen
 
