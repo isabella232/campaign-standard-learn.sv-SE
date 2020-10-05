@@ -1,34 +1,34 @@
 ---
-title: Översikt över e-postdesignern
-description: I den här videon förklaras de allmänna funktionerna i e-postdesignern och hur du utformar ett e-postmeddelande från grunden.På den här sidan visas alla tillgängliga funktionsvideor för Adobe Campaign e-postdesigner
+title: Översikt över Email Designer
+description: I den här videon förklaras de allmänna funktionerna i Email Designer och hur du designar ett e-postmeddelande från grunden. På den här sidan visas alla tillgängliga funktionsvideor för Email designer i Adobe Campaign
 feature: Email Designer
 topics: Content Creation
 kt: null
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '137'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
 
 # [!UICONTROL Email Designer] översikt
 
-Det [!UICONTROL Email Designer] gör att det går snabbt och enkelt att skapa individuellt anpassade e-postmeddelanden utan att behöva skriva en enda kodrad, vilket gör det enklare att skala e-postgenereringen. Du kan skapa e-postinnehåll och mallar för e-postinnehåll. Det är kompatibelt med enkla e-postmeddelanden, transaktionsmeddelanden, A/B-testmeddelanden, flerspråkiga e-postmeddelanden och återkommande e-postmeddelanden.
+Med [!UICONTROL Email Designer] kan du snabbt och enkelt att skapa individuellt anpassade e-postmeddelanden utan att behöva skriva en enda kodrad vilket gör det enklare att skala e-postgenereringen. Du kan använda den för att skapa e-postinnehåll och mallar för e-postinnehåll. Den är kompatibel med enkla e-postmeddelanden, transaktionsmeddelanden, A/B-testmeddelanden, flerspråkiga e-postmeddelanden och återkommande e-postmeddelanden.
 
-I den här videon får du en översikt över funktionaliteten och användningen av Adobe Campaign Standard [!UICONTROL Email Designer].
+Den här videon ger dig en översikt över funktionaliteten och användningen av [!UICONTROL Email Designer] i Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12&captions=swe)
 
 ## Självstudiekurser
 
-Följande detaljerade självstudiekurser finns:
+Följande detaljerade självstudiekurser finns tillgängliga:
 
-* [Komma igång med e-postdesignern](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+* [Komma igång med Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
 * [Innehållsmallar](/help/designing-content/email-designer/email-content-templates.md)
 * [Konfigurera den mobila vyn](/help/designing-content/email-designer/configure-the-mobile-view.md)
 * [Förhandsgranska din e-post](/help/designing-content/email-designer/preview-your-email.md)
