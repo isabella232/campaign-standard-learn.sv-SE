@@ -11,10 +11,10 @@ getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: a7eeaf46d27110384c7ddb143927f3a4ed06e2eb
+source-git-commit: bf087838a03c404d3036f0ad9c36f483dff5d4a4
 workflow-type: tm+mt
-source-wordcount: '526'
-ht-degree: 91%
+source-wordcount: '548'
+ht-degree: 94%
 
 ---
 
@@ -25,13 +25,12 @@ ht-degree: 91%
 + Komma igång {#getting-started}
    + [Översikt](/help/getting-started/getting-started-overview.md)
    + [Introduktion till Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
-   + [Funktionell översikt](/help/getting-started/functional-overview.md)
    + [Komma igång med användargränssnittet](/help/getting-started/getting-started-with-the-ui.md)
    + [Konfigurera en lista](/help/getting-started/configure-a-list.md)
    + [Utforska hierarki och marknadsföringsaktiviteter](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Hantera kampanjer](/help/getting-started/managing-campaigns.md)
    + [Förstå profiler och målgrupper](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Skapa ett e-postmeddelande](https://docs.adobe.com/content/help/en/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+   + [Skapa ett e-postmeddelande](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
    + [Skapa ett arbetsflöde](/help/managing-processes-and-data/create-workflow.md)
    + [Introduktion till rapportering](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobil marknadsföring med Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
@@ -60,7 +59,7 @@ ht-degree: 91%
       + [Skapa och skicka e-postmeddelanden via ett arbetsflöde](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + AI-baserade e-postmeddelanden {#journey-ai}
          + [Prediktiv optimering av sändningstid](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
-         + [Prediktiv poängsättning av engagemang](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
+         + [Prediktiv poängsättning för engagemang](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
    + Mobil {#mobile}
       + SMS{#sms}
          + [Skapa en SMS-leverans](/help/communication-channels/mobile/sms/sms-delivery.md)
@@ -84,7 +83,7 @@ ht-degree: 91%
 + Utforma och personalisera innehåll {#designing-content}
    + Email Designer{#email-designer}
       + [Översikt](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Komma igång med e-postdesignern](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Komma igång med Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introduktion till mallar för e-postinnehåll](/help/designing-content/email-designer/email-content-templates.md)
       + [Konfigurera den mobila vyn](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Förhandsgranska analyser av e-postmeddelanden och skräppost](/help/designing-content/email-designer/preview-your-email.md)
@@ -137,3 +136,5 @@ ht-degree: 91%
    + [Modifiera anpassade resurser för förfrågningar om användaruppgifter](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Skapa och spåra förfrågningar om användaruppgifter manuellt](/help/privacy/create-and-track-privacy-requests.md)
    + [Utföra förfrågningar om användaruppgifter](/help/privacy/execute-privacy-requests.md)
++ [Adobe Campaign Deliverability Best Practice Guide](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
++ [Kontrollpanelen](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
