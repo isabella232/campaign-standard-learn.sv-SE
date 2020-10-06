@@ -1,6 +1,6 @@
 ---
-title: Kontrollpanelen
-description: På Kontrollpanelen kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
+title: Kontrollpanelen - Översikt
+description: På Kontrollpanelen i Adobe Campaign kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
 feature: Control Panel
 topics: Control Panel
 kt: 4696
@@ -8,54 +8,77 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 3b6e85fee260723c83306825e5bcf59c58b2b118
+source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
 workflow-type: tm+mt
-source-wordcount: '193'
-ht-degree: 72%
+source-wordcount: '255'
+ht-degree: 29%
 
 ---
 
+# Kontrollpanelen - Översikt
 
-# [!UICONTROL Control Panel] {#control-panel}
+På Kontrollpanelen i Adobe Campaign kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
 
->[!NOTE]
->
->Termerna &quot;[!UICONTROL whitelist]&quot; och &quot;[!UICONTROL blacklist]&quot; har ersatts med &quot;[!UICONTROL allowlist]&quot; och &quot;[!UICONTROL denylist]&quot; i dokumentationen för Adobe Campaign. Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, namn på alternativ, intern kod samt självstudievideor. De ersätts i kommande versioner av kontrollpanelen.
+## Nyheter
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+* **[Generera och installera GPG-nycklar för datakryptering](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
 
-## Komma åt [!UICONTROL Control Panel]
+   *Lär dig hur du genererar ett offentligt/privat GPG-nyckelpar och installerar den offentliga nyckeln i[!UICONTROL Control Panel]för att kunna kryptera data innan du skickar dem från din instans.*
 
-Gå till Experience Cloud Home på: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com) för att komma åt kontrollpanelen:
+* **[Kryptera data med en GPG-nyckel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
 
-* **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
+   *Lär dig hur du exporterar data med en GPG-nyckel som är installerad på[!UICONTROL Control Panel].*
 
-   eller
-* **[!UICONTROL Experience Cloud Home]**  > [!UICONTROL Solution picker]: **Campaign** > kortet **[!UICONTROL Control Panel]**
+* **[Dekryptera data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
 
-   eller
+   *Läs mer om hur du skapar en offentlig nyckel samt importerar och installerar den på en instans i[!UICONTROL Campaign]för att dekryptera inkommande data.*
 
-* Direkt från webbadressen: [https://experience.adobe.com/#/controlpanel](https://experience.adobe.com/#/controlpanel)
+## Personalens val
 
-## Förhandskrav
-
-Slutför följande förhandskrav innan du börjar:
-
-### Bekräfta [!DNL IMS Org ID]
-
-Du måste känna till ditt [!DNL IMS org ID]. I följande video beskrivs var du kan hitta instansens [!DNL IMS org ID].
-
->[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Kontrollera[!DNL IMS Org ID](00:26 min)*
-
-### Administratörsrättigheter
-
-Administratörsrättigheter krävs för åtkomst till [!UICONTROL Control Panel].
-I följande video förklaras hur du lägger till en administratör i en instans i Campaign
-
->[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+<table>
+<tr>
+  <td>
+    <a href="./subdomains-and-certificates/subdomain-delegation.md"> 
+      <img alt="Delegera underdomäner till Adobe Campaign (video)" src="./assets/31390.jpg"/>
+    </a>
+    <div>
+      <a href="./subdomains-and-certificates/subdomain-delegation.md">
+    <strong>Delegera underdomäner till Adobe Campaign (video)</strong>
+    </a>
+    </div>
+    <p>
+    <em>Läs mer om hur du delegerar en underdomän till Adobe Campaign.</em>
+    <p>
+  </td>
+   <td>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+      <img alt="Google TXT-posthantering (videor)" src="./assets/32369.jpg" />
+    </a>
+    <div>
+    <a href="./subdomains-and-certificates/google-txt-record-management.md">
+    <strong>Google TXT-posthantering (videor)</strong>
+    </a>
+    </div>
+    <p>
+    <em> Lär dig hur du kan lägga till Google TXT-webbplatsverifieringsposter i alla dina underdomäner som används för att skicka e-post till GMAIL-adresser med Campaign-kontrollpanelen.</em>
+    <p>
+  </td>
+  <td>
+    <a href="./sftp-management/connect-to-sftp-server.md">
+      <img alt="Ansluta till en SFTP-server" src="./assets/27263.jpg" />
+    </a>
+    <div>
+      <a href="./sftp-management/connect-to-sftp-server.md">
+    <strong>Ansluta till en SFTP-server</strong>
+    </a>
+    </div>
+    <p>
+    <em>Lär dig hur du ansluter till SFTP-servern med ett klient-SFTP-program med hjälp av de tangenter som du har sparat på Kontrollpanelen. </em>
+    <p>
+  </td>
+</tr>
+</table>
 
 ## Ytterligare resurser
 
 * [Hjälpcenter för kontrollpanelen](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html)
-
