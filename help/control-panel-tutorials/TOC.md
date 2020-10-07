@@ -12,7 +12,7 @@ getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 9e1a79692d12189657e21ea728ace94ff0403840
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
 source-wordcount: '111'
 ht-degree: 83%
@@ -34,8 +34,8 @@ ht-degree: 83%
    + [Hantera Google TXT-poster](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instansinställningar {#instance-settings}
    + Hantera GPG-nycklar {#gpg-key-management}
-      + [Hantera GPG-nycklar – översikt](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-      + [Generera och installera GPG-nycklar för datakryptering](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-      + [Kryptera data med en GPG-nyckel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-      + [Dekryptera data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+   + [Hantera GPG-nycklar – översikt](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+   + [Generera och installera GPG-nycklar för datakryptering](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+   + [Kryptera data med en GPG-nyckel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+   + [Dekryptera data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [Felsöka kontrollpanelen](/help/control-panel-tutorials/trouble-shooting.md)
