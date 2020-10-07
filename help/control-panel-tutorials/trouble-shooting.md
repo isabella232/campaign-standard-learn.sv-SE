@@ -8,15 +8,15 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '327'
-ht-degree: 99%
+ht-degree: 100%
 
 ---
 
 
-# Problem med att filma [!UICONTROL Control Panel]
+# Felsöka [!UICONTROL Control Panel]
 
 Läs mer om hur du felsöker problem med att använda kontrollpanelen.
 
@@ -48,9 +48,11 @@ Administratören måste lägga till användaren i produktprofilen i `Campaign-xx
 ### Användbara videor
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *Kontrollera[!DNL IMS Org ID](00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
+
 *Så här lägger du till en administratör i[!UICONTROL product profile]*[!DNL administrators]*för att kunna använda[!UICONTROL Control Panel](01:03 min)*
 
 ### Användbar dokumentation
