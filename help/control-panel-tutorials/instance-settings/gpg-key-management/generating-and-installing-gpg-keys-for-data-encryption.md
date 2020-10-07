@@ -3,13 +3,14 @@ title: Generera och installera GPG-nycklar för datakryptering
 description: Med kontrollpanelen kan du kryptera data som kommer från instansen i Adobe Campaign. Läs mer om hur du skapar och installerar ett offentligt/privat nyckelpar på en angiven instans i Campaign för att kryptera utgående data.
 feature: Control Panel
 topics: null
+audience: administrator
 kt: 5188
 thumbnail: 33686.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 100%
