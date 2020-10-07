@@ -8,9 +8,9 @@ doc-type: article
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 7aa32d583ac2ea756945a17634fb477d7b94cb7f
+source-git-commit: 6e4824185b84715d514bf21aace9e57c602e970d
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '1367'
 ht-degree: 0%
 
 ---
@@ -46,7 +46,8 @@ Mjuka studsar är tillfälliga fel som internetleverantörer genererar när de h
 >[!NOTE]
 >
 >Satser är en viktig indikator på ett renomméproblem eftersom de kan markera en dålig datakälla (hård studs) eller ett anseendeproblem med en Internet-leverantör (mjuk studsa).
-Mjuka studsar förekommer ofta som en del av e-postutskick och bör kunna lösas under återförsöksbearbetningen innan de karakteriseras som ett problem med äkta leverans. Om din låga avhoppsfrekvens är över 30 procent för en enskild Internet-leverantör och inte kan lösas inom 24 timmar är det en bra idé att kontakta din Adobe Campaign-konsult.
+>
+>Mjuka studsar förekommer ofta som en del av e-postutskick och bör kunna lösas under återförsöksbearbetningen innan de karakteriseras som ett problem med äkta leverans. Om din låga avhoppsfrekvens är över 30 procent för en enskild Internet-leverantör och inte kan lösas inom 24 timmar är det en bra idé att kontakta din Adobe Campaign-konsult.
 
 ## Klagomål
 
