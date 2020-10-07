@@ -1,17 +1,18 @@
 ---
 title: Generera en SSH-nyckel
-description: Du måste kunna generera en SSH-nyckel för att kunna lägga till den på kontrollpanelen i Adobe Campaign. I videon nedan förklaras hur du skapar en SSH-nyckel med hjälp av en terminal.
+description: Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen.
 feature: Control Panel
 topics: null
 kt: 2923
+thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 356e9e4b43b0f192782fc28473be87005b9d2921
+source-git-commit: 21e864e4becac6a88f28c73d7df483014199387b
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 67%
+source-wordcount: '110'
+ht-degree: 35%
 
 ---
 
@@ -31,6 +32,6 @@ To access the SFTP Management in [!UICONTROL Control Panel], go to:
 
 ## Så genererar du en SSH-nyckel
 
-I följande video förklaras hur du genererar en SSH-nyckel med hjälp av en terminal.
+Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
