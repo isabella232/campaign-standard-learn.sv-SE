@@ -8,7 +8,7 @@ doc-type: feature video
 activity: using
 team: PM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
 workflow-type: tm+mt
 source-wordcount: '147'
 ht-degree: 7%
@@ -27,6 +27,7 @@ ht-degree: 7%
 I den här videon förklaras hur du aktiverar [!UICONTROL Data Services Query Audience] i ett arbetsflöde med hjälp av [!UICONTROL Read Audience] aktiviteten.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
+
 *Aktivera en Adobe Experience Platform-målgrupp i ett arbetsflöde (02:37 min)*
 
 ## Ytterligare resurser
