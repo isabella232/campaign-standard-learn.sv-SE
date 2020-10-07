@@ -1,18 +1,19 @@
 ---
 title: Komma igång med Kontrollpanelen
-description: På Kontrollpanelen kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
+description: I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
 feature: Control Panel
 topics: Control Panel
+audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
-activity: use
+activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 68%
+source-wordcount: '215'
+ht-degree: 62%
 
 ---
 
@@ -24,6 +25,8 @@ ht-degree: 68%
 >Termerna &quot;[!UICONTROL whitelist]&quot; och &quot;[!UICONTROL blacklist]&quot; har ersatts med &quot;[!UICONTROL allowlist]&quot; och &quot;[!UICONTROL denylist]&quot; i dokumentationen för Adobe Campaign. Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, namn på alternativ, intern kod samt självstudievideor. De ersätts i kommande versioner av kontrollpanelen.
 
 The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+
+I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
 
 ## Komma åt [!UICONTROL Control Panel]
 
@@ -47,8 +50,6 @@ Slutför följande förhandskrav innan du börjar:
 Du måste känna till ditt [!DNL IMS org ID]. I följande video beskrivs var du kan hitta instansens [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-
-*Kontrollera[!DNL IMS Org ID](00:26 min)*
 
 ### Administratörsrättigheter
 
