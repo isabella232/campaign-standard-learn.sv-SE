@@ -3,13 +3,14 @@ title: 'Kryptera data med en GPG-nyckel '
 description: Läs mer om hur du exporterar data med en GPG-nyckel som installeras på kontrollpanelen.
 feature: Control Panel
 topics: GPG key Management
+audience: administrator
 kt: 5688
 thumbnail: 36380.jpg
 doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: e4cfb5ed1118cda9e545d84e51adb8e5bede324e
+source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
 workflow-type: tm+mt
 source-wordcount: '59'
 ht-degree: 100%
