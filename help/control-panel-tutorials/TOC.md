@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
+source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 83%
+ht-degree: 73%
 
 ---
 
@@ -25,9 +25,10 @@ ht-degree: 83%
 + [Översikt över kontrollpanelen](/help/control-panel-tutorials/control-panel-overview.md)
 + [Komma igång med Kontrollpanelen](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-hantering {#sftp-management}
+   + [Övervaka serverkapacitet](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+   + [Lägga till ett IP-intervall i tillåtelselista](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Generera en SSH-nyckel](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Ansluta till en SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
-   + [Övervaka serverkapacitet, tillåtslista IP-adresser och lägga till SSH-nycklar](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
 + Underdomäner och certifikat {#subdomains-and-certificates}
    + [Delegera underdomäner](/help/control-panel-tutorials/subdomains-and-certificates/subdomain-delegation.md)
    + [Lägga till SSL-certifikat](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
