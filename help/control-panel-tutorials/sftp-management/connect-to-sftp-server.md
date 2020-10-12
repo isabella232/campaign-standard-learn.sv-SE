@@ -3,14 +3,14 @@ title: Ansluta till en SFTP-server
 description: I den här videon förklaras hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat på kontrollpanelen.
 feature: SFTP Management
 topics: Control Panel
+audience: administrator
 kt: 2924
 thumbnail: 27263.jpg
 doc-type: feature video
-audience: administrator
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
+source-git-commit: 0e18e57b68ab324af15cb2ec14f3e2f35f972be2
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 100%
