@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 9d71fbf2067611c2d3c088d6ed6bc02b2d3ffc1c
+source-git-commit: 747aa1610f29a9a9409091169c7b398523dd1f77
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
@@ -49,11 +49,11 @@ Administratören måste lägga till användaren i produktprofilen i `Campaign-xx
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Kontrollera[!DNL IMS Org ID](00:26 min)*
+*Kontrollera [!DNL IMS Org ID] (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Så här lägger du till en administratör i[!UICONTROL product profile]*[!DNL administrators]*för att kunna använda[!UICONTROL Control Panel](01:03 min)*
+*Så här lägger du till en administratör i [!UICONTROL product profile] [!DNL administrators] för att kunna använda [!UICONTROL Control Panel] (01:03 min)*
 
 ### Användbar dokumentation
 
