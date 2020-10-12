@@ -1,8 +1,8 @@
 ---
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Kontrollpanel Tutorials
-user-guide-description: Control Panel allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the SFTP storage by instance or allow list IP addresses.
-breadcrumb-title: Control Panel Tutorials
+user-guide-description: Med kontrollpanelen kan Adobe Campaign-administratörer övervaka viktiga resurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans eller tillåtelselista IP-adresser.
+breadcrumb-title: Självstudiekurser om kontrollpanelen
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Självstudiekurser
@@ -12,10 +12,10 @@ getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: cba7384847a4708764a54cddd77af80f3b760dca
+source-git-commit: 8e6298c9d6fc7989b5296dc0fbea2ebeffc337a6
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 73%
+source-wordcount: '141'
+ht-degree: 60%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 73%
 + [Översikt över kontrollpanelen](/help/control-panel-tutorials/control-panel-overview.md)
 + [Komma igång med Kontrollpanelen](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-hantering {#sftp-management}
-   + [Övervaka serverkapacitet](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+   + [Övervaka serverkapacitet](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Lägga till ett IP-intervall i tillåtelselista](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Generera en SSH-nyckel](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Ansluta till en SFTP-server](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
