@@ -1,6 +1,6 @@
 ---
 title: Övervaka serverkapacitet
-description: Med kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och lägga till IP-adresser i tillåtelselistor.
+description: Lär dig hur du övervakar lagringskapaciteten för dina SFTP-servrar.
 feature: SFTP Management
 topics: Control Panel
 audience: administrator
@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 8e6298c9d6fc7989b5296dc0fbea2ebeffc337a6
+source-git-commit: 1a108846158bfaf8f9efd1b7a78f652c0d3f3211
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 82%
+source-wordcount: '83'
+ht-degree: 49%
 
 ---
 
@@ -33,25 +33,6 @@ För att få åtkomst till hantering av underdomäner via [!UICONTROL Control Pa
 
 ## Övervaka serverkapacitet, [!UICONTROL allow list] IP-adresser och lägga till SSH-nycklar
 
-I den här videon förklaras hur du kommer åt [!UICONTROL Adobe Campaign Control Panel] och var du kan övervaka lagringen av SFTP-servrar.
+Lär dig hur du övervakar lagringskapaciteten för dina SFTP-servrar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-
-### Beskrivning av gränssnittet
-
-**Instanser:** endast de instanser som du har administratörsbehörighet till visas.
-
-**Jobbloggar:** endast jobb som körts i [!UICONTROL Control Panel] visas. De jobb som utfördes utanför [!UICONTROL Control Panel] inkluderas inte (såsom arbetsflöden som körs osv.)
-
-Loggarna innehåller endast de jobb som har körts av administratören för din organisation. Om det finns flera organisationer visas inte loggarna för andra organisationer i jobbloggarna
-
-**Fliken Lagring:** rubriken visar de tre mest använda servrarna. Om du har fler än tre servrar kan du se resterande på fliken [!UICONTROL Storage].
-
-**Varningsmeddelande:**
-
-* Orange – servern används till 80 %
-* Röd – servern används till 90 %
-
-## Ytterligare resurser
-
-* [Generera en SSH-nyckel](./generate-ssh-key.md)
