@@ -10,9 +10,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 0e18e57b68ab324af15cb2ec14f3e2f35f972be2
+source-git-commit: 1eea268dadaf6d4cef15daaadaa085c3cab0e676
 workflow-type: tm+mt
-source-wordcount: '163'
+source-wordcount: '157'
 ht-degree: 100%
 
 ---
@@ -42,5 +42,3 @@ För anslutning till SFTP-servrar krävs:
 I den här videon förklaras hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat på kontrollpanelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27263?quality=12)
-
-*Ansluta till en SFTP-server (02:04 min)*
