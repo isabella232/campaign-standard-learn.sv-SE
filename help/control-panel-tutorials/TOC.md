@@ -1,6 +1,6 @@
 ---
 product: adobe campaign standard
-user-guide-title: Adobe Campaign Kontrollpanel Tutorials
+user-guide-title: Självstudiekurser om kontrollpanelen i Adobe Campaign
 user-guide-description: Med kontrollpanelen kan Adobe Campaign-administratörer övervaka viktiga resurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans eller tillåtelselista IP-adresser.
 breadcrumb-title: Självstudiekurser om kontrollpanelen
 solution-title: Experience League
@@ -12,18 +12,18 @@ getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard
 type: Tutorial
 index: true
 translation-type: tm+mt
-source-git-commit: 8e6298c9d6fc7989b5296dc0fbea2ebeffc337a6
+source-git-commit: d2f63c27e950cffa354c7b4722546afd7c96d05e
 workflow-type: tm+mt
 source-wordcount: '141'
-ht-degree: 60%
+ht-degree: 73%
 
 ---
 
 
-# Adobe Campaign Kontrollpanel Tutorials {#control-panel}
+# Självstudiekurser om kontrollpanelen i Adobe Campaign {#control-panel}
 
 + [Översikt över kontrollpanelen](/help/control-panel-tutorials/control-panel-overview.md)
-+ [Komma igång med Kontrollpanelen](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ [Komma igång med kontrollpanelen](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-hantering {#sftp-management}
    + [Övervaka serverkapacitet](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Lägga till ett IP-intervall i tillåtelselista](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
@@ -35,8 +35,8 @@ ht-degree: 60%
    + [Hantera Google TXT-poster](/help/control-panel-tutorials/subdomains-and-certificates/google-txt-record-management.md)
 + Instansinställningar {#instance-settings}
    + Hantera GPG-nycklar {#gpg-key-management}
-   + [Hantera GPG-nycklar – översikt](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
-   + [Generera och installera GPG-nycklar för datakryptering](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-   + [Kryptera data med en GPG-nyckel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-   + [Dekryptera data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
+      + [Hantera GPG-nycklar – översikt](/help/control-panel-tutorials/instance-settings/gpg-key-management/gpg-key-management-overview.md)
+      + [Generera och installera GPG-nycklar för datakryptering](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
+      + [Kryptera data med en GPG-nyckel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
+      + [Dekryptera data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + [Felsöka kontrollpanelen](/help/control-panel-tutorials/trouble-shooting.md)
