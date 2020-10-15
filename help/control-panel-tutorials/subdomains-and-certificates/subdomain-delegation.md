@@ -10,9 +10,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: dd218f7956b3dd487f59424246b81c115829160a
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '117'
 ht-degree: 80%
 
 ---
@@ -41,9 +41,7 @@ I videon nedan visas hur du delegerar underdomäner.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
 
-*Delegera underdomäner (05:07 min)*
-
 ## Ytterligare resurser
 
-* [Lägga till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)
+* [Lägga till SSL-certifikat](/help/control-panel-tutorials/subdomains-and-certificates/adding-ssl-certificates.md)
 * [Underdomäner och certifikat](https://docs.adobe.com/content/help/sv-SE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
