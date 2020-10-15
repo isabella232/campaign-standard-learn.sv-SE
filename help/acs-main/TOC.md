@@ -11,10 +11,10 @@ getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
 type: Tutorial
 translation-type: tm+mt
-source-git-commit: 370c10f0f3c696ce006c4af8d01c80bafa25b50c
+source-git-commit: 314fa481c3467ba305c242e6c338caad5a836315
 workflow-type: tm+mt
-source-wordcount: '571'
-ht-degree: 90%
+source-wordcount: '492'
+ht-degree: 92%
 
 ---
 
@@ -106,20 +106,7 @@ ht-degree: 90%
       + [Skapa anpassade resurser](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Administrera {#administrating}
    + [Hantera användares åtkomsträttigheter](/help/administrating/managing-user-access-rights.md)
-   + Kontrollpanelen {#control-panel}
-      + [Översikt över kontrollpanelen](/help/administrating/control-panel/control-panel-overview.md)
-      + [Övervaka serverkapacitet, tillåtslista IP-adresser och lägga till SSH-nycklar](/help/administrating/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
-      + [Generera en SSH-nyckel](/help/administrating/control-panel/generate-ssh-key.md)
-      + [Ansluta till en SFTP-server](/help/administrating/control-panel/connect-to-sftp-server.md)
-      + [Delegera underdomäner](/help/administrating/control-panel/subdomain-delegation.md)
-      + [Lägga till SSL-certifikat](/help/administrating/control-panel/adding-ssl-certificates.md)
-      + [Hantera Google TXT-poster](/help/administrating/control-panel/google-txt-record-management.md)
-      + Hantera GPG-nycklar {#gpg-key-management}
-         + [Hantera GPG-nycklar – översikt](/help/administrating/control-panel/gpg-key-management/gpg-key-management-overview.md)
-         + [Generera och installera GPG-nycklar för datakryptering](/help/administrating/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
-         + [Kryptera data med en GPG-nyckel](/help/administrating/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [Dekryptera data](/help/administrating/control-panel/gpg-key-management/decrypting-data.md)
-      + [Felsöka](/help/administrating/control-panel/trouble-shooting.md)
+   + [Kontrollpanelen] (/help/control-panel-tutorials/control-panel-overview.md)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Förstå Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Kartlägga anpassade resurser](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -136,5 +123,3 @@ ht-degree: 90%
    + [Modifiera anpassade resurser för förfrågningar om användaruppgifter](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Skapa och spåra förfrågningar om användaruppgifter manuellt](/help/privacy/create-and-track-privacy-requests.md)
    + [Utföra förfrågningar om användaruppgifter](/help/privacy/execute-privacy-requests.md)
-+ [Adobe Campaign Deliverability Best Practice Guide](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/deliverability-best-practice-guide/introduction.html)
-+ [Kontrollpanelen](https://docs-stg.corp.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)
