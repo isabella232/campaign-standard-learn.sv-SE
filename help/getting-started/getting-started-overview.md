@@ -11,16 +11,16 @@ translation-type: tm+mt
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
 workflow-type: tm+mt
 source-wordcount: '191'
-ht-degree: 38%
+ht-degree: 67%
 
 ---
 
 
 # Komma igång med Adobe Campaign Standard
 
-Adobe Campaign Standard är ett kraftfullt kanalövergripande kampanjhanteringsverktyg som kan hjälpa er att anpassa era online- och offlinestrategier för att skapa personaliserade kundupplevelser.
+Adobe Campaign Standard är ett kraftfullt kanalövergripande verktyg för kampanjhantering som du använder till att anpassa dina online- och offlinestrategier för att skapa personaliserade kundupplevelser.
 
-Styr hela processen med att skapa, köra och spåra flerkanalskampanjer samt skicka meddelanden som är personaliserade utifrån kundens profil, beteende, preferenser och behov. Ni kan enkelt samordna, modellera och automatisera hela marknadsföringsprocessen och integrera med andra Adobe-lösningar.
+Kontrollera hela processen med att skapa, köra och spåra kampanjer över flera olika kanaler samt skicka meddelanden som är personaliserade utifrån kundens profil, beteende, preferenser och behov. Ni kan enkelt samordna, modellera och automatisera hela marknadsföringsprocessen och integrera med andra Adobe-lösningar.
 
 Det finns en uppsättning självstudiekurser som hjälper dig att komma igång med Adobe Campaign Standard:
 
