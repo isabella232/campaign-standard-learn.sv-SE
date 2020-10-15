@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 66b8f4b6378eb974dc858b28c0479a9cb5d52a6b
+source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
@@ -53,7 +53,7 @@ Administratören måste lägga till användaren i produktprofilen i `Campaign-xx
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Så här lägger du till en administratör i [!UICONTROL product profile] *[!DNL administrators]* för att kunna använda [!UICONTROL Control Panel] (01:03 min)*
+*Så här lägger du till en administratör i [!UICONTROL product profile]*[!DNL administrators]*för att kunna använda [!UICONTROL Control Panel] (01:03 min)*
 
 ### Användbar dokumentation
 
@@ -68,7 +68,7 @@ För anslutning till SFTP-servrar krävs:
 * ett privat/offentligt nyckelpar som måste registreras i Adobe Campaign
 * Om du ansluter till SFTP-servern direkt behöver du även en SFTP-klientprogramvara
 
-### Användbar dokumentation
+### Användbar dokumentation {#helpful-docs}
 
 * [Logga in på SFTP-servern](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
