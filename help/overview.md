@@ -3,7 +3,7 @@ title: Självstudiekurser om Adobe Campaign Standard – översikt
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: facd23e8d2949f42e4d1126a0e69c33cd49b429b
+source-git-commit: f82963aaa1c1673aaa888a79b6aae11c7ee2de59
 workflow-type: tm+mt
 source-wordcount: '321'
 ht-degree: 98%
@@ -19,7 +19,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 * **[Lägga till kontrollgrupper i en leverans](/help/communication-channels/email/control-groups.md)**
 
-   *Lär dig hur du skapar en[!UICONTROL control group]när leveransmålet definieras.*
+   *Lär dig hur du skapar en [!UICONTROL control group] när leveransmålet definieras.*
 
 * **[Prediktiv optimering av sändningstid](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
 
@@ -47,11 +47,11 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     <p>
   </td>
    <td>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="./control-panel-tutorials/control-panel-overview.md">
       <img alt="Kontrollpanel (videor)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="./administrating/control-panel/control-panel-overview.md">
+    <a href="./control-panel-tutorials/control-panel-overview.md">
     <strong>Kontrollpanel (videor)</strong>
     </a>
     </div>
