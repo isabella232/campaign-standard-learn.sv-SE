@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 747aa1610f29a9a9409091169c7b398523dd1f77
+source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 100%
@@ -68,7 +68,7 @@ För anslutning till SFTP-servrar krävs:
 * ett privat/offentligt nyckelpar som måste registreras i Adobe Campaign
 * Om du ansluter till SFTP-servern direkt behöver du även en SFTP-klientprogramvara
 
-### Användbar dokumentation
+### Användbar dokumentation {#helpful-docs}
 
 * [Logga in på SFTP-servern](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
 
