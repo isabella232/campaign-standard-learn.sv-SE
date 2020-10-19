@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 29%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -22,17 +22,9 @@ På Kontrollpanelen i Adobe Campaign kan Adobe Campaign-administratörer överva
 
 ## Nyheter
 
-* **[Generera och installera GPG-nycklar för datakryptering](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
+* **[Delegera underdomäner med CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Lär dig hur du genererar ett offentligt/privat GPG-nyckelpar och installerar den offentliga nyckeln i[!UICONTROL Control Panel]för att kunna kryptera data innan du skickar dem från din instans.*
-
-* **[Kryptera data med en GPG-nyckel](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
-
-   *Lär dig hur du exporterar data med en GPG-nyckel som är installerad på[!UICONTROL Control Panel].*
-
-* **[Dekryptera data](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
-
-   *Läs mer om hur du skapar en offentlig nyckel samt importerar och installerar den på en instans i[!UICONTROL Campaign]för att dekryptera inkommande data.*
+   *Lär dig hur du konfigurerar och skickar en underdomän med CNAME på Kontrollpanelen.*
 
 ## Personalens val
 
