@@ -14,7 +14,7 @@ translation-type: tm+mt
 source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
 workflow-type: tm+mt
 source-wordcount: '497'
-ht-degree: 91%
+ht-degree: 93%
 
 ---
 
@@ -36,7 +36,7 @@ ht-degree: 91%
    + [Mobil marknadsföring med Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Expandera med Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
 + Profiler och målgrupper {#profiles-and-audiences}
-   + [Skapa profiler och målgrupper - översikt](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
+   + [Skapa profiler och målgrupper – översikt](/help/profiles-and-audiences/creating-profiles-and-audiences.md)
    + [Skapa en profil](/help/profiles-and-audiences/creating-a-profile.md)
    + [Skapa en testprofil](/help/profiles-and-audiences/test-profiles.md)
    + [Importera profiler med ett arbetsflöde](/help/managing-processes-and-data/importing-profiles.md)
