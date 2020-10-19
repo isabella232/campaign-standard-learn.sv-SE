@@ -3,10 +3,10 @@ title: Självstudiekurser om Adobe Campaign Standard – översikt
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: f25c49f242710f2426f79cc47f46def81dd01cb1
+source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '337'
-ht-degree: 94%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -17,17 +17,9 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* **[Lägga till kontrollgrupper i en leverans](/help/communication-channels/email/control-groups.md)**
+* **[Delegera underdomäner med CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Lär dig hur du skapar en [!UICONTROL control group] när leveransmålet definieras.*
-
-* **[Prediktiv optimering av sändningstid](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)**
-
-   *Förstå vilka arbetsflöden som krävs för att synkronisera data mellan Adobe Campaign och Journey AI-modellen. Lär dig hur du ser en tidspoäng för sändning på individuell profilnivå och hur du kör e-postleveranser med en tidsformel för sändning.*
-
-* **[Prediktiv poängsättning för engagemang](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)**
-
-   *Lär dig hur du ser poängsättning för engagemang på individuell profilnivå, använder poäng för att målinrikta engagerade användare och undertrycker trötta användare samt hur du skapar typologiregler för att hantera kundtrötthet.*
+   *Lär dig hur du konfigurerar och skickar en underdomän med CNAME på Kontrollpanelen.*
 
 ## Personalens val
 
