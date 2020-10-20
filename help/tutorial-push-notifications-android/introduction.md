@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 6c88336d9c02faa683973d74ec21e38622afdf3f
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 9%
+ht-degree: 17%
 
 ---
 
@@ -33,9 +33,9 @@ I den här självstudiekursen får du hjälp med att skicka push-meddelanden fr�
 
 ## Självstudiesteg
 
-* [Steg 1 - Skapa Android-app](/help/tutorial-push-notifications-android/create-android-app.md)
-* [Steg 2 - Integrera mobil-SDK](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
+* [Steg 1 – skapa en app för Android](/help/tutorial-push-notifications-android/create-android-app.md)
+* [Steg 2 – integrera en mobil SDK](/help/tutorial-push-notifications-android/integrating-with-mobile-sdk.md)
 * [Steg 3 - Registrera tillägg i din mobilapp](/help/tutorial-push-notifications-android/register-mobile-extensions.md)
-* [Steg 4 - Ange push-identifierare](/help/tutorial-push-notifications-android/set-push-identifier.md)
-* [Steg 5 - Sprid meddelanden](/help/tutorial-push-notifications-android/propagate-notification.md)
+* [Steg 4 – ange push-identifierare](/help/tutorial-push-notifications-android/set-push-identifier.md)
+* [Steg 5 – sprida meddelanden](/help/tutorial-push-notifications-android/propagate-notification.md)
 * [Steg 6 - skicka push-meddelande](/help/tutorial-push-notifications-android/send-push-notification.md)
