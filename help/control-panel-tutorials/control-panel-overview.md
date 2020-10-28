@@ -1,6 +1,6 @@
 ---
-title: Kontrollpanelen - Översikt
-description: På Kontrollpanelen i Adobe Campaign kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
+title: Kontrollpanelen  - Översikt
+description: Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign övervaka viktiga resurser och utföra administrativa uppgifter såsom att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
 feature: Control Panel
 topics: Control Panel
 audience: administrator
@@ -9,22 +9,26 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '209'
+ht-degree: 94%
 
 ---
 
-# Kontrollpanelen - Översikt
+# Kontrollpanelen – översikt
 
-På Kontrollpanelen i Adobe Campaign kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa uppgifter, som att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
+Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign övervaka viktiga resurser och utföra administrativa uppgifter såsom att hantera SFTP-lagring per instans, hantera GPG-nycklar eller underdomäner och certifikat.
 
 ## Nyheter
 
+* **[Övervaka databaser](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
+
+   *Lär dig hur du övervakar databasanvändningen för dina instanser.*
+
 * **[Delegera underdomäner med CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Lär dig hur du konfigurerar och skickar en underdomän med CNAME på Kontrollpanelen.*
+   *Lär dig hur du konfigurerar och lämnar in en underdomän med CNAME:er i kontrollpanelen.*
 
 ## Personalens val
 
@@ -40,20 +44,20 @@ På Kontrollpanelen i Adobe Campaign kan Adobe Campaign-administratörer överva
     </a>
     </div>
     <p>
-    <em>Läs mer om hur du delegerar en underdomän till Adobe Campaign.</em>
+    <em>Läs mer om hur du delegerar en underdomän fullständigt till Adobe Campaign.</em>
     <p>
   </td>
    <td>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-      <img alt="Google TXT-posthantering (videor)" src="./assets/32369.jpg" />
+      <img alt="Hantera Google TXT-poster (videor)" src="./assets/32369.jpg" />
     </a>
     <div>
     <a href="./subdomains-and-certificates/google-txt-record-management.md">
-    <strong>Google TXT-posthantering (videor)</strong>
+    <strong>Hantera Google TXT-poster (videor)</strong>
     </a>
     </div>
     <p>
-    <em> Lär dig hur du kan lägga till Google TXT-webbplatsverifieringsposter i alla dina underdomäner som används för att skicka e-post till GMAIL-adresser med Campaign-kontrollpanelen.</em>
+    <em> Läs mer om hur du kan lägga till Google TXT-poster för webbplatsverifiering i alla underdomäner som används för att skicka e-postmeddelanden till GMAIL-adresser med kontrollpanelen i Campaign.</em>
     <p>
   </td>
   <td>
@@ -66,7 +70,7 @@ På Kontrollpanelen i Adobe Campaign kan Adobe Campaign-administratörer överva
     </a>
     </div>
     <p>
-    <em>Lär dig hur du ansluter till SFTP-servern med ett klient-SFTP-program med hjälp av de tangenter som du har sparat på Kontrollpanelen. </em>
+    <em>Läs mer om hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat i kontrollpanelen. </em>
     <p>
   </td>
 </tr>
