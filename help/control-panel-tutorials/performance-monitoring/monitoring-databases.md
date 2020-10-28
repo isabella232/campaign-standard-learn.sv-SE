@@ -10,17 +10,17 @@ audience: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 68324e2e234b3c98e9cc2cd8400a03d272306093
+source-git-commit: da28f90f376f867e861194f828493fc66cc604e4
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 3%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 
 # Övervaka databaser
 
-Instansens databaser innehåller [!DNL Adobe Campaign] alla resurser, arbetsflöden och data som lagras i [!DNL Adobe Campaign]. Övervakning av instansens databaser är därför nödvändigt för att säkerställa optimala prestanda.
+Alla resurser, arbetsflöden och data för Campaign-instansen lagras i databasen. Databasen når sin maximala kapacitet kan orsaka problem med instansen (oförmåga att logga in, skicka e-post osv.). Därför är det viktigt att du regelbundet övervakar instansens databaser för att få optimala prestanda.
 
 Lär dig hur du övervakar databasanvändningen för dina instanser med [!DNL Control Panel].
 
