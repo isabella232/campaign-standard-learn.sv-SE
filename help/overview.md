@@ -2,11 +2,11 @@
 title: Självstudiekurser om Adobe Campaign Standard – översikt
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a180772da382d4b67070b8efd98446603b340dc6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '274'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 * **[Övervaka databaser](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)**
 
-   *Lär dig hur du övervakar databasanvändningen för dina instanser.*
+   *Läs om hur du övervakar databasanvändningen på dina instanser.*
 
 * **[Delegera underdomäner med CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
@@ -43,11 +43,11 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     <p>
   </td>
    <td>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html)">
+    <a href="https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/control-panel/control-panel-overview.html">
       <img alt="Kontrollpanel (videor)" src="./assets/control-panel.png" />
     </a>
     <div>
-    <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/control-panel/control-panel-overview.html">
+    <a href="https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/control-panel/control-panel-overview.html">
     <strong>Kontrollpanel (videor)</strong>
     </a>
     </div>
