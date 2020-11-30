@@ -10,10 +10,10 @@ tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 40cd637d2b80670b6e24047c39300470e4ffe2f1
+source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
 workflow-type: tm+mt
-source-wordcount: '495'
-ht-degree: 98%
+source-wordcount: '502'
+ht-degree: 96%
 
 ---
 
@@ -30,7 +30,7 @@ ht-degree: 98%
    + [Hantera kampanjer](/help/getting-started/managing-campaigns.md)
    + [Förstå profiler och målgrupper](/help/getting-started/understanding-profiles-and-audiences.md)
    + [Skapa ett e-postmeddelande](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [Skapa ett arbetsflöde](/help/managing-processes-and-data/create-workflow.md)
+   + [Skapa ett arbetsflöde](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/getting-started/creating-a-workflow.html)
    + [Introduktion till rapportering](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobil marknadsföring med Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Expandera med Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
@@ -90,7 +90,7 @@ ht-degree: 98%
       + [Skapa innehåll med Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Konfigurera produktlistor i transaktionsmeddelanden](/help/designing-content/product-listings-in-transactional-email.md)
 + Hantera processer och data {#managing-processes-and-data}
-   + [Skapa ett arbetsflöde](/help/managing-processes-and-data/create-workflow.md)
+   + [Skapa ett arbetsflöde](/help/managing-processes-and-data/creating-a-workflow.md)
    + Körningsaktiviteter {#execution-activities}
       + [Extern signalaktivitet](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Datahanteringsaktiviteter {#data-management-activities}
