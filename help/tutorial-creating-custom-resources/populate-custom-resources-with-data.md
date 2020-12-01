@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Fylla i anpassade resurser med data
 
-Lär dig hur du fyller i anpassade resurser med datum från en [!DNL CSV] fil med hjälp av ett arbetsflöde.
+Lär dig hur du fyller i anpassade resurser med data från en [!DNL CSV] fil med hjälp av ett arbetsflöde.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 
