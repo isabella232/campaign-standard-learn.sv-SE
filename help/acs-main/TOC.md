@@ -6,14 +6,14 @@ breadcrumb-title: Självstudiekurser om Campaign Standard
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Självstudiekurser
-tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Dokumentation
-getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '502'
-ht-degree: 96%
+source-wordcount: '497'
+ht-degree: 89%
 
 ---
 
@@ -65,7 +65,7 @@ ht-degree: 96%
       + Push-meddelanden {#push}
          + [Skapa ett push-meddelande](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Skapa ett flerspråkigt push-meddelande](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Självstudiekurs: komma igång med push-meddelanden för Android](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [Självstudiekurs: komma igång med push-meddelanden för Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
       + Meddelanden i appen {#in-app}
          + [Introduktion till meddelanden i appen](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Konfigurera händelser](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -100,12 +100,10 @@ ht-degree: 96%
    + [Skapa en dynamisk rapport](/help/reporting/creating-a-dynamic-report.md)
    + [Skapa en rapport baserad på anpassade profilattribut](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Skapa en rapport baserad på arbetsflödessegment](/help/reporting/report-on-workflow-segments.md)
-+ Utveckla {#developing}
-   + Anpassade resurser {#custom-resources-develop}
-      + [Skapa anpassade resurser](/help/managing-processes-and-data/custom-resources/creating-custom-resources.md)
 + Administrera {#administrating}
    + [Hantera användares åtkomsträttigheter](/help/administrating/managing-user-access-rights.md)
-   + [Kontrollpanelen](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/control-panel/control-panel-overview.html)
+   + [Skapa anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=sv)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Förstå Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Kartlägga anpassade resurser](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
