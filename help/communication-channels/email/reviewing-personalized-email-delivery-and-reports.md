@@ -1,22 +1,23 @@
 ---
-title: Granska e-postleveranser och rapporter
+title: Granska en e-postleverans och -rapporter
 description: I den här videon förklaras hur du granskar en anpassad e-postleverans och undersöker olika rapporter som finns i Adobe Campaign Standard (ACS).
 feature: Reporting
 topics: null
 kt: 3904
+thumbnail: 21389.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '83'
-ht-degree: 12%
+ht-degree: 31%
 
 ---
 
 
-# Granska e-postleveranser och rapporter
+# Granska en e-postleverans och -rapporter
 
 I den här videon förklaras hur du granskar en anpassad e-postleverans och undersöker olika rapporter som finns i Adobe Campaign Standard.
 
