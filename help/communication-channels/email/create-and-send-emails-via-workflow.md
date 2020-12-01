@@ -4,14 +4,15 @@ description: 'Du kan skapa ett e-postmeddelande från en kampanj, från Adobe Ca
 feature: Email
 topics: null
 kt: 4319
+thumbnail: 31465.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '132'
-ht-degree: 8%
+ht-degree: 21%
 
 ---
 
@@ -28,4 +29,4 @@ I den här videon förklaras hur du skapar och skickar e-postmeddelanden via ett
 
 * [Skapa en e-postleverans](/help/communication-channels/email/create-email-from-homepage.md)
 * [Skapa ett e-postmeddelande (dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Bästa praxis](https://helpx.adobe.com/se/campaign/kb/delivery-best-practices.html)
+* [Bästa praxis för leverans](https://helpx.adobe.com/se/campaign/kb/delivery-best-practices.html)
