@@ -4,14 +4,15 @@ description: Adobe Experience Platform Data Connector hjälper befintliga kunder
 feature: Adobe Experience Platform Data Connector
 topics: ACoP
 kt: 2826
+thumbnail: 27304.jpg
 doc-type: feature video
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '343'
+ht-degree: 10%
 
 ---
 
@@ -34,7 +35,7 @@ Adobe Experience Platform [!UICONTROL Data Connector] är avsett för datateknik
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*Den här videon ger en översikt över Adobe Experience Platform[!UICONTROL Data Connector](09:35 min)*
+*Den här videon ger en översikt över Adobe Experience Platform [!UICONTROL Data Connector] (09:35 min)*
 
 >[!NOTE]
 >
