@@ -4,14 +4,15 @@ description: Den externa signalaktiviteten används för att organisera och samo
 feature: External Signal Activity
 topics: Workflows
 kt: 2750
+thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 9b1d8c5fb895d84da14a0402ec1f130b90a991b0
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '332'
-ht-degree: 16%
+ht-degree: 19%
 
 ---
 
@@ -27,11 +28,13 @@ Detta inkluderar även en ny **testaktivitet** där du kan köra tester på den 
 I följande video förklaras de konfigurationssteg som krävs för att:
 
 1. **Ta emot externa parametrar** från ett externt system, som ett innehållshanteringssystem (CRM):
+
    * Deklarera parametrarna i den externa signalaktiviteten
    * Konfigurera API-anropet för att definiera parametrarna och utlösa arbetsflödet för extern signalaktivitet. Mer information om hur du konfigurerar ett API-anrop finns i [Utlösa en signalaktivitet](https://docs.campaign.adobe.com/doc/standard/en/api/ACS_API.html#triggering-a-signal-activity).
 
 1. **Anpassa ett arbetsflöde med externa parametrar** (händelsevariabler):
-När arbetsflödet har utlösts hämtas parametrarna in i arbetsflödets händelsevariabler och kan användas i arbetsflödet. Se [dokumentationen](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) för alla aktiviteter som kan anpassas med händelsevariabler:
+
+   När arbetsflödet har utlösts hämtas parametrarna in i arbetsflödets händelsevariabler och kan användas i arbetsflödet. Se [dokumentationen](https://helpx.adobe.com/campaign/standard/automating/using/calling-a-workflow-with-external-parameters.html) för alla aktiviteter som kan anpassas med händelsevariabler:
 
    * Konfigurera testaktiviteten (nytt i 19.2)
    * Konfigurera aktiviteten Läs målgrupp och E-postleverans
@@ -42,4 +45,4 @@ När arbetsflödet har utlösts hämtas parametrarna in i arbetsflödets händel
 
 ## Ytterligare resurser
 
-* [Extern signal (dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [Extern signal (dokumentation)](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
