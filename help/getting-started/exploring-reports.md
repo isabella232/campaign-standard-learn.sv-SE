@@ -4,21 +4,22 @@ description: I den här videon förklaras de olika rapporter som finns tillgäng
 feature: Reporting
 topics: Getting Started
 kt: 3906
+thumbnail: 23021.jpg
 doc-type: tutorial
 activity: understand
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '53'
-ht-degree: 16%
+ht-degree: 58%
 
 ---
 
 
 # Utforska rapporter
 
-I den här videon får du en översikt över rapportfunktionerna i Adobe Campaign Standard.
+I den här videon får du en översikt över rapporteringsfunktionerna i Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23021?quality=12)
 
