@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: a52d19279760efed1ed901610f7cbf146c2c54d4
+source-git-commit: dc9d084e8be1f0b942c6fd9bbefd7fcd3ded3f2d
 workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 0%
@@ -42,11 +42,11 @@ För detta kommer vi att berika datamodellen genom att utöka de färdiga resurs
 
 I den här självstudiekursen får du stegvisa anvisningar om hur du:
 
-Steg 1 - [Skapa en anpassad resurs](./creating-a-custom-resource)Steg 2 - [Konfigurera en skärmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)Steg 3 - [Länka anpassade resurser](./linking-custom-resources.md)Steg 4 - [Fylla i anpassade resurser med data](./populate-custom-resources-with-data.md)
+Steg 1 - [Skapa en anpassad resurs](./creating-a-custom-resource.md)Steg 2 - [Konfigurera en skärmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)Steg 3 - [Länka anpassade resurser](./linking-custom-resources.md)Steg 4 - [Fylla i anpassade resurser med data](./populate-custom-resources-with-data.md)
 
 ## Starta självstudiekursen
 
-[Skapa en anpassad resurs](./create-a-custom-resource)
+[Skapa en anpassad resurs](./create-a-custom-resourc.md)
 
 ## Ytterligare resurser
 
