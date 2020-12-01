@@ -2,16 +2,17 @@
 title: Skapa en SMS-leverans
 description: I den här videon förklaras hur du skapar en SMS-leverans i Adobe Campaign Standard (ACS).
 feature: SMS
-topics: Mobile
+topics: null
 kt: 1819
+thumbnail: 25265.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: a2f194821a9ce06272eaed979ee2d8c62cccac2b
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '98'
-ht-degree: 2%
+ht-degree: 10%
 
 ---
 
