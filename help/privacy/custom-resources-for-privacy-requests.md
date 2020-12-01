@@ -4,12 +4,13 @@ description: När du konfigurerar Adobe Campaign Standard (ACS) för att hantera
 feature: GDPR, CCPA
 topic: null
 kt: 1243
+thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: d87971b70bde8de1822f18cbafd8e2d7b4808edc
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '199'
 ht-degree: 100%
 
@@ -20,7 +21,7 @@ ht-degree: 100%
 
 När du konfigurerar Adobe Campaign Standard för att hantera förfrågningar om användarens information måste du se till att alla anpassade data som är länkade till en profil tas bort när profilen tas bort. I den här videon förklaras hur du modifierar anpassade resurser för att uppfylla det här kravet.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
 
 >[!NOTE]
 >
