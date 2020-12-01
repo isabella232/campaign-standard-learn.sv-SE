@@ -8,10 +8,10 @@ doc-type: null
 activity: understand
 team: TM
 translation-type: tm+mt
-source-git-commit: 99eedbf8c99fc6040dea5061ae4883cd6f0808ae
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '191'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 95%
 
 ---
 
@@ -30,7 +30,7 @@ Det finns en uppsättning självstudiekurser som du kan använda för att komma 
 * [Utforska hierarki och marknadsföringsaktiviteter](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
 * [Hantera kampanjer](/help/getting-started/managing-campaigns.md)
 * [Förstå profiler och målgrupper](/help/getting-started/understanding-profiles-and-audiences.md)
-* [Skapa ett e-postmeddelande](https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
+* [Skapa ett e-postmeddelande](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
 * [Skapa ett arbetsflöde](/help/managing-processes-and-data/creating-a-workflow.md)
 * [Introduktion till rapportering](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
 * [Mobil marknadsföring med Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
