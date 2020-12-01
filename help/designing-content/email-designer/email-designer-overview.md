@@ -3,13 +3,14 @@ title: Översikt över Email Designer
 description: I den här videon förklaras de allmänna funktionerna i Email Designer och hur du designar ett e-postmeddelande från grunden. På den här sidan visas alla tillgängliga funktionsvideor för Email designer i Adobe Campaign
 feature: Email Designer
 topics: Content Creation
-kt: null
+kt: 1402
+thumbnail: 22771.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: d4819df4d0ed07955881cd157ec4caf7da847e96
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 100%
 
@@ -22,7 +23,7 @@ Med [!UICONTROL Email Designer] kan du snabbt och enkelt att skapa individuellt 
 
 Den här videon ger dig en översikt över funktionaliteten och användningen av [!UICONTROL Email Designer] i Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/22771?quality=12)
 
 ## Självstudiekurser
 
