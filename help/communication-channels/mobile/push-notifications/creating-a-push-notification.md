@@ -4,19 +4,20 @@ description: 'Lär dig hur du skapar ett push-meddelande i Adobe Campaign Standa
 feature: Push
 topics: Mobile
 kt: 1401
+thumbnail: 31499.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 39e7f9fc2a6631ebc5f2555dad651a72464e4344
+source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
 source-wordcount: '162'
-ht-degree: 7%
+ht-degree: 11%
 
 ---
 
 
-# Create a [!UICONTROL push notification]
+# Skapa en [!UICONTROL push notification]
 
 Lär dig hur du skapar en fil [!UICONTROL push notification] i Adobe Campaign Standard (ACS):
 
@@ -37,6 +38,6 @@ Dokumentation:
 * [Om push-meddelanden](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
 * [Förbereda och skicka ett push-meddelande](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
 
-Tutorials:
+Självstudiekurser:
 
 * [Skapa ett flerspråkigt push-meddelande](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
