@@ -1,6 +1,6 @@
 ---
-title: Utföra förfrågningar om användaruppgifter
-description: I Adobe Campaign hanteras sekretessbegäranden av arbetsflöden. Den här videon beskriver vilka arbetsflöden som får åtkomst till och tar bort begäranden och vad som händer när de körs.
+title: Utföra förfrågningar om användarens information
+description: I Adobe Campaign hanteras förfrågningar om användarens information i arbetsflöden. Den här videon beskriver vilka arbetsflöden som får åtkomst till och kan radera begäranden och vad som händer när de körs.
 feature: GDPR, CCPA
 topic: null
 kt: 1525
@@ -8,20 +8,20 @@ thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '79'
-ht-degree: 30%
+ht-degree: 100%
 
 ---
 
 
-# Utföra förfrågningar om användaruppgifter
+# Utföra förfrågningar om användarens information
 
-I Adobe Campaign hanteras sekretessbegäranden av arbetsflöden. Den här videon beskriver vilka arbetsflöden som får åtkomst till och tar bort begäranden och vad som händer när de körs.
+I Adobe Campaign hanteras förfrågningar om användarens information av arbetsflöden. Den här videon beskriver vilka arbetsflöden som får åtkomst till och kan radera begäranden och vad som händer när de körs.
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12&captions=swe)
 
 ## Ytterligare resurser
 
