@@ -4,16 +4,16 @@ user-guide-title: Självstudiekurser om Adobe Campaign Standard
 user-guide-description: Designa kundupplevelser över flera kanaler och skapa en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och marknadsföring över flera kanaler.
 breadcrumb-title: Självstudiekurser om Campaign Standard
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=sv&tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Självstudiekurser
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=sv
 getting-started-title: Dokumentation
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
-translation-type: tm+mt
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv
+translation-type: ht
 source-git-commit: 5edcdcd98b00b4f992b9775707f2c555bf051aec
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '497'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -29,8 +29,8 @@ ht-degree: 89%
    + [Utforska hierarki och marknadsföringsaktiviteter](/help/getting-started/explore-hierarchy-and-marketing-activities.md)
    + [Hantera kampanjer](/help/getting-started/managing-campaigns.md)
    + [Förstå profiler och målgrupper](/help/getting-started/understanding-profiles-and-audiences.md)
-   + [Skapa ett e-postmeddelande](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html)
-   + [Skapa ett arbetsflöde](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html)
+   + [Skapa ett e-postmeddelande](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/email/create-email-from-homepage.html?lang=sv)
+   + [Skapa ett arbetsflöde](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/managing-processes-and-data/creating-a-workflow.html?lang=sv)
    + [Introduktion till rapportering](/help/getting-started/reporting-with-adobe-campaign-introduction.md)
    + [Mobil marknadsföring med Adobe Campaign](/help/getting-started/mobile-marketing-with-adobe-campaign.md)
    + [Expandera med Adobe Campaign](/help/getting-started/growing-with-adobe-campaign.md)
@@ -65,7 +65,7 @@ ht-degree: 89%
       + Push-meddelanden {#push}
          + [Skapa ett push-meddelande](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Skapa ett flerspråkigt push-meddelande](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Självstudiekurs: komma igång med push-meddelanden för Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html)
+         + [Självstudiekurs: komma igång med push-meddelanden för Android](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=sv)
       + Meddelanden i appen {#in-app}
          + [Introduktion till meddelanden i appen](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Konfigurera händelser](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -102,7 +102,7 @@ ht-degree: 89%
    + [Skapa en rapport baserad på arbetsflödessegment](/help/reporting/report-on-workflow-segments.md)
 + Administrera {#administrating}
    + [Hantera användares åtkomsträttigheter](/help/administrating/managing-user-access-rights.md)
-   + [Skapa anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html)
+   + [Skapa anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=sv)
    + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=sv)
    + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
       + [Förstå Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
