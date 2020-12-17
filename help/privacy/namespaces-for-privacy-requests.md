@@ -1,6 +1,6 @@
 ---
-title: Skapa namnutrymmen för sekretessförfrågningar i Adobe Campaign Standard (ACS)
-description: En förutsättning för att kunna skapa förfrågningar om sekretessåtkomst och radering, enligt kraven i GDPR eller CCPA, är definitionen av det namnutrymme som ska användas för att identifiera den registrerade i Adobe Campaign-databasen. I den här videon förklaras hur du skapar namnutrymmen för sekretessförfrågningar.
+title: Skapa namnrymder för förfrågningar om användarens information i Adobe Campaign Standard (ACS)
+description: En förutsättning för att kunna skapa förfrågningar om åtkomst till och radering av användarens information, enligt kraven i GDPR eller CCPA, är definitionen av den namnrymd som ska användas för att identifiera den registrerade i databasen i Adobe Campaign. Den här videon förklarar hur du skapar namnrymder för förfrågningar om användarens information.
 feature: GDPR, CCPA
 topic: null
 kt: 1460
@@ -8,23 +8,23 @@ thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 9%
+ht-degree: 100%
 
 ---
 
 
-# Skapa namnrymder för förfrågningar om användaruppgifter
+# Skapa namnrymder för förfrågningar om användarens information
 
-En förutsättning för att kunna skapa förfrågningar om sekretessåtkomst och radering, enligt kraven i GDPR eller CCPA, är definitionen av det namnutrymme som ska användas för att identifiera den registrerade i Adobe Campaign-databasen.
+En förutsättning för att kunna skapa förfrågningar om åtkomst till och radering av användarens information, enligt kraven i GDPR eller CCPA, är definitionen av den namnrymd som ska användas för att identifiera den registrerade i databasen i Adobe Campaign.
 
-I den här videon förklaras hur du skapar namnutrymmen för sekretessförfrågningar.
+Den här videon förklarar hur du skapar namnrymder för förfrågningar om användarens information.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12&captions=swe)
 
 ## Ytterligare resurser
 
-* [Allmänna riktlinjer för integritetsskydd för Campaign](https://helpx.adobe.com/se/campaign/kb/campaign-privacy-overview.html)
+* [Allmänna riktlinjer för integritetsskydd i Campaign](https://helpx.adobe.com/se/campaign/kb/campaign-privacy-overview.html)
