@@ -1,6 +1,6 @@
 ---
-title: Skapa anpassade resurser - introduktion
-description: Adobe Campaign Standard ger möjlighet att utöka resurserna eller skapa helt nya resurser. I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser.
+title: Skapa anpassade resurser – introduktion
+description: Adobe Campaign Standard erbjuder möjligheten att utöka resurserna eller skapa helt nya resurser. I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser.
 feature: Custom Resources
 topics: null
 kt: 2999
@@ -8,41 +8,44 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '233'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Skapa anpassade &#x200B; - introduktion
+# Skapa anpassade resurser – introduktion
 
-[!DNL Adobe Campaign] levereras med en fördefinierad datamodell, där data definieras med olika resurser. [!DNL Campaign] ger möjlighet att utöka resurser eller skapa helt nya resurser.
+[!DNL Adobe Campaign] levereras med en fördefinierad datamodell där data definieras via olika resurser. [!DNL Campaign] erbjuder möjligheten att utöka resurser eller skapa helt nya resurser.
 
-I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser. I slutet av kursen får du lära dig att:
+I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser. När du är klar med den här självstudiekursen har du lärt dig att:
 
-* Skapa en anpassad resurs
-* Lägg till fält i den anpassade resursen
-* Länka två anpassade resurser
-* Konfigurera skärmdefinition
+* skapa en anpassad resurs,
+* lägga till fält i den anpassade resursen,
+* länka två anpassade resurser och
+* konfigurera skärmdefinition.
 
-## Krav
+## Förutsättning
 
-För att kunna skapa anpassade resurser måste du ha administratörsbehörighet.
+För att kunna skapa anpassade resurser måste du ha administratörsrättigheter
 
-## Översikt över självstudiekurser
+## Översikt över självstudiekursen
 
-Vi vill kunna använda ytterligare information om vad en kund beställt, så att den blir tillgänglig för marknadsföring och återmarknadsföring.
+Vi vill kunna använda ytterligare information utöver vad en kund har beställt, så att den är tillgänglig för marknadsföring och återmarknadsföring.
 
-För detta kommer vi att berika datamodellen genom att utöka de färdiga resurserna och lägga till egna anpassade tabeller. [!DNL Campaign] Vi lägger till en kund och en ordertabell.
+I detta syfte berikar vi datamodellen i [!DNL Campaign] genom att utöka de redan färdiga resurserna och lägga till egna anpassade tabeller. Vi lägger till en kund- och en ordertabell.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=swe)
 
-I den här självstudiekursen får du stegvisa anvisningar om hur du:
+I den här självstudiekursen får du anvisningar steg för steg om hur du:
 
-Steg 1 - [Skapa en anpassad resurs](./creating-a-custom-resource.md)Steg 2 - [Konfigurera en skärmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)Steg 3 - [Länka anpassade resurser](./linking-custom-resources.md)Steg 4 - [Fylla i anpassade resurser med data](./populate-custom-resources-with-data.md)
+Steg 1 – [skapar en anpassad resurs](./creating-a-custom-resource.md)
+Steg 2 – [konfigurerar en skärmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)
+Steg 3 – [länkar anpassade resurser](./linking-custom-resources.md)
+Steg 4 – [fyller anpassade resurser med data](./populate-custom-resources-with-data.md)
 
 ## Starta självstudiekursen
 
@@ -50,4 +53,4 @@ Steg 1 - [Skapa en anpassad resurs](./creating-a-custom-resource.md)Steg 2 - [Ko
 
 ## Ytterligare resurser
 
-[Anpassade resurser (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html)
+[Anpassade resurser (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/working-with-apis/global-concepts/custom-resources.html?lang=sv)
