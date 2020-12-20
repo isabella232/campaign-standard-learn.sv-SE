@@ -2,9 +2,9 @@
 product: adobe campaign standard
 user-guide-title: Adobe Campaign Standard – självstudiekurs om hur du skapar anpassade resurser
 user-guide-description: 'I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser. '
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: c12f58e0d63d267cfb955cc477e6ba193a8ad0da
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
 
