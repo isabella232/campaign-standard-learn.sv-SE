@@ -8,9 +8,9 @@ thumbnail: 27715.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 17428b8a45a70790d1e9c40fc1f00313cd1704ee
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '233'
 ht-degree: 100%
 
@@ -38,7 +38,7 @@ Vi vill kunna använda ytterligare information utöver vad en kund har beställt
 
 I detta syfte berikar vi datamodellen i [!DNL Campaign] genom att utöka de redan färdiga resurserna och lägga till egna anpassade tabeller. Vi lägger till en kund- och en ordertabell.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
 I den här självstudiekursen får du anvisningar steg för steg om hur du:
 
