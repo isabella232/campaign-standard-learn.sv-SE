@@ -30,7 +30,7 @@ ht-degree: 10%
 
 Den här självstudiekursen förklarar hur ni kan utnyttja centraliserade och konsoliderade profildata från Adobe Experience Platform för marknadsföringskampanjer i Adobe Campaign Standard.
 
-Med modulen [!UICONTROL Audiences] i Adobe Campaign Standard kan du skapa segment med hjälp av data från [Adobe Experience Platform - Data Services](https://www.adobe.io/apis/experienceplatform/home/services.html) som finns i kundprofilen [i](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html)realtid.
+Med modulen [!UICONTROL Audiences] i Adobe Campaign Standard kan du skapa segment med hjälp av data från [Adobe Experience Platform - datatjänster](https://www.adobe.io/apis/experienceplatform/home/services.html) som finns i [kundprofilen i realtid](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
 
 I följande videofilmer lär du dig mer om de olika stegen:
 
