@@ -12,8 +12,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '194'
+ht-degree: 52%
 
 ---
 
@@ -26,7 +26,7 @@ Med [!UICONTROL Adobe Campaign Control Panel] i kan du lägga till SSL-certifika
 
 För att få åtkomst till hantering av underdomäner i [!UICONTROL Control Panel] ska du gå till:
 
-* [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!DNL Campaign] > **[!UICONTROL Control Panel]** card > [!UICONTROL **Subdomains &amp; Certificates**] card
+* [Experience Cloud Home](https://experience.adobe.com/#/home) >  [!UICONTROL Solution picker]:  [!DNL Campaign] >  **[!UICONTROL Control Panel]** card >  [!UICONTROL **Subdomains &amp;**] CertificatesCard
 
    eller
 * Direkt från webbadressen: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
@@ -37,9 +37,9 @@ Att lägga till SSL-certifikat kräver tre steg:
 
 ### Steg 1: Generera [!UICONTROL Certificate Signing Requests]
 
-The [!UICONTROL Certificate Signing Request] (CSR) is required for the purchase of a SSL certificate. Den måste genereras för instansen och de underdomäner som du planerar att skydda.
+[!UICONTROL Certificate Signing Request] (CSR) krävs för köp av ett SSL-certifikat. Den måste genereras för instansen och de underdomäner som du planerar att skydda.
 
-I videon nedan beskrivs hur du genererar ett [!UICONTROL Certificate Signing Request] i [!UICONTROL Control Panel].
+I videon nedan beskrivs hur du skapar en [!UICONTROL Certificate Signing Request] i [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
 
