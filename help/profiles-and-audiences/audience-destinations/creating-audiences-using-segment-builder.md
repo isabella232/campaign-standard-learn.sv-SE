@@ -25,11 +25,11 @@ ht-degree: 9%
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
-Med Adobe Campaign Standard kan ni bygga målgrupper med hjälp av data från Adobe Experience Cloud [kundprofil](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) i realtid med hjälp av Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Med Adobe Campaign Standard kan du skapa målgrupper med hjälp av data från Adobe Experience Cloud [Real-Time Customer Profile](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html) med Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-Du kommer åt filen [!UICONTROL Unified Segment Builder] direkt i Adobe Campaign Standard via [!UICONTROL Audiences ] modulen. På så sätt kan ni hantera dessa målgrupper direkt i [!UICONTROL Audiences] listvyn, där ni kan redigera eller skapa en ny Adobe Experience Platform-målgrupp direkt från Adobe Campaign gränssnitt
+Du kan komma åt [!UICONTROL Unified Segment Builder] direkt i Adobe Campaign Standard via modulen [!UICONTROL Audiences ]. På så sätt kan du hantera de här målgrupperna direkt i listvyn [!UICONTROL Audiences], där du kan redigera eller skapa en ny Adobe Experience Platform-målgrupp direkt från Adobe Campaign gränssnitt
 
-I videon nedan förklaras hur en ny publik skapas med [!UICONTROL Unified Segment Builder] Adobe Campaign Standard.
+I videon nedan förklaras hur en ny publik skapas med [!UICONTROL Unified Segment Builder] i Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
