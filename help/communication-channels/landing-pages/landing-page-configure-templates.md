@@ -18,6 +18,6 @@ ht-degree: 35%
 
 # Konfigurera en [!UICONTROL landing page template]
 
-I den här videon förklaras hur du konfigurerar [!UICONTROL landing page] mallar.
+I den här videon förklaras hur du konfigurerar [!UICONTROL landing page]-mallar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25200/?quality=12)
