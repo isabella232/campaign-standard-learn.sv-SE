@@ -17,7 +17,7 @@ ht-degree: 9%
 ---
 
 
-# Mappning [!UICONTROL custom resources]
+# Mappa [!UICONTROL custom resources]
 
 >[!NOTE]
 >
