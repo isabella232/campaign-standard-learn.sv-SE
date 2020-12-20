@@ -19,7 +19,7 @@ ht-degree: 34%
 
 # Skapa ett flerspråkigt push-meddelande [!UICONTROL push notification]
 
-Lär dig hur du skapar ett flerspråkigt språk [!UICONTROL push notifications] i Adobe Campaign Standard.
+Lär dig hur du skapar en flerspråkig [!UICONTROL push notifications] i Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23304?quality=12)
 
