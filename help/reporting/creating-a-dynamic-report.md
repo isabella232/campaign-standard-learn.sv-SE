@@ -18,7 +18,7 @@ ht-degree: 12%
 
 # Skapa en [!UICONTROL Dynamic Report]{#creating-a-report}
 
-Adobe Campaign [!UICONTROL Dynamic Reports] är en flexibel frihandsmiljö där du kan utforska data. Det gör att du kan kombinera mått, mätvärden och tidsintervall i vilken kombination som helst, med obegränsade uppdelningar och jämförelser.
+Adobe Campaign [!UICONTROL Dynamic Reports] är utformat för att vara en flexibel frihandsmiljö där du kan utforska data. Det gör att du kan kombinera mått, mätvärden och tidsintervall i vilken kombination som helst, med obegränsade uppdelningar och jämförelser.
 
 Lär dig hur du skapar en rapport.
 
