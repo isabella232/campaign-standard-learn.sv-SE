@@ -12,8 +12,8 @@ team: PM
 translation-type: tm+mt
 source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '119'
+ht-degree: 80%
 
 ---
 
@@ -24,7 +24,7 @@ Med [!UICONTROL Control Panel] i Adobe Campaign kan du fullständigt delegera en
 
 >[!NOTE]
 >
->Deldomänsdelegering från [!UICONTROL Control Panel] kommer att vara tillgänglig som betaversion i slutet av januari, med reservation för ändringar och uppdateringar ofta utan föregående meddelande.
+>Deldomänsdelegering från [!UICONTROL Control Panel] kommer att vara tillgänglig som betaversion i slutet av januari, och kan uppdateras ofta och ändras utan föregående meddelande.
 
 ## Komma åt [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
