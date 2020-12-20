@@ -8,9 +8,9 @@ thumbnail: 29235.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Adobe Campaign låter dig skapa förfrågningar om åtkomst och radering för PI
 
 Den här videon visar hur du manuellt skapar förfrågningar om användarens information och spårar deras utveckling via användargränssnittet i Adobe Campaign Standard .
 
->[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
 ## Ytterligare resurser
 
