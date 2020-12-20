@@ -1,6 +1,6 @@
 ---
 title: Komma igång med push-meddelanden med Android-app
-description: I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign och ta emot dessa meddelanden i din Android-app.
+description: I den här självstudiekursen visas steg för steg hur du skickar push-meddelanden från Adobe Campaign och tar emot dessa meddelanden i din Android-app.
 feature: Push
 topics: Mobile
 kt: 3846
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
 source-wordcount: '199'
-ht-degree: 17%
+ht-degree: 41%
 
 ---
 
@@ -20,7 +20,7 @@ ht-degree: 17%
 
 Med Adobe Campaign så kan du skicka personaliserade och segmenterade push-meddelanden till mobilenheter med iOS eller Android.
 Dessa meddelanden tas emot i mobilappar som du konfigurerar i Adobe Campaign genom att använda Experience Cloud Mobile SDK V4 eller Experience Platform SDK.
-I den här självstudiekursen får du hjälp med att skicka push-meddelanden från Adobe Campaign och ta emot dessa meddelanden i din Android-app.
+I den här självstudiekursen visas steg för steg hur du skickar push-meddelanden från Adobe Campaign och tar emot dessa meddelanden i din Android-app.
 
 ## Förhandskrav
 
