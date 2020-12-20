@@ -4,7 +4,7 @@ description: I den här videon förklaras hur du kan testa dina e-postmeddelande
 feature: Email
 topics: Channels
 kt: 4667
-thumbnail: 32368
+thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
 team: TM
@@ -33,6 +33,6 @@ Se den detaljerade [produktdokumentationen](https://docs.adobe.com/content/help/
 
 ## Ytterligare resurser
 
-* [Testa meddelanden med målprofiler (dokumentation)](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
+* [Testa meddelanden med målprofiler (dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html)
 * [Designa ett A/B-testmeddelande](/help/communication-channels/email/a-b-testing.md)
 * [Skicka ett test samt förbered och skicka ett e-postmeddelande](/help/communication-channels/email/sending-test-preparing-sending-email.md)
