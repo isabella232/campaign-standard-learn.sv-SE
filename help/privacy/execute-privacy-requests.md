@@ -8,9 +8,9 @@ thumbnail: 22770.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '79'
 ht-degree: 100%
 
@@ -19,9 +19,9 @@ ht-degree: 100%
 
 # Utföra förfrågningar om användarens information
 
-I Adobe Campaign hanteras förfrågningar om användarens information av arbetsflöden. Den här videon beskriver vilka arbetsflöden som får åtkomst till och kan radera begäranden och vad som händer när de körs.
+I Adobe Campaign hanteras förfrågningar om användarens information i arbetsflöden. Den här videon beskriver vilka arbetsflöden som får åtkomst till och kan radera begäranden och vad som händer när de körs.
 
->[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
 
 ## Ytterligare resurser
 
