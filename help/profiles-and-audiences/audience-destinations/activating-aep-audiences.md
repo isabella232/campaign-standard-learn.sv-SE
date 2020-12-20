@@ -25,7 +25,7 @@ ht-degree: 7%
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
-I den här videon förklaras hur du aktiverar [!UICONTROL Data Services Query Audience] i ett arbetsflöde med hjälp av [!UICONTROL Read Audience] aktiviteten.
+I den här videon förklaras hur du aktiverar [!UICONTROL Data Services Query Audience] i ett arbetsflöde genom att använda aktiviteten [!UICONTROL Read Audience].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27647?quality=12)
 
