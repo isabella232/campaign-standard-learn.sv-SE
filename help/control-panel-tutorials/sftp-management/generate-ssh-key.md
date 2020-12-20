@@ -24,7 +24,7 @@ Du måste generera en SSH-nyckel så att du kan lägga till den i [!UICONTROL Co
 
 ## Åtkomst till [!UICONTROL Control Panel] för SFTP-hantering
 
-To access the SFTP Management in [!UICONTROL Control Panel], go to:
+Om du vill komma åt SFTP-hanteringen i [!UICONTROL Control Panel] går du till:
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]**-kort > **SFTP**-kort
 
