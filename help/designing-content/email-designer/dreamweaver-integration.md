@@ -37,5 +37,5 @@ I videon förklaras vad som krävs för att aktivera integrering med Dreamweaver
 ## Ytterligare resurser
 
 * [Felsöka installationen av Adobe Campaign Dreamweaver](https://helpx.adobe.com/se/dreamweaver/kb/dreamweaver-campaign-integration-issue.html)
-* [Dokumentation för Adobe Dreamweaver](https://helpx.adobe.com/se/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
+* [Dokumentation för Adobe Dreamweaver](https://helpx.adobe.com/dreamweaver/using/working-with-dreamweaver-and-campaign.html)
 * [Installera tillägg i Adobe-program](https://helpx.adobe.com/se/creative-cloud/kb/installingextensionsandaddons.html)
