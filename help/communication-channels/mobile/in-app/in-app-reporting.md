@@ -16,9 +16,9 @@ ht-degree: 10%
 
 ---
 
-# Report on your [!UICONTROL In-App] delivery {#in-app-message-reporting}
+# Rapport om din [!UICONTROL In-App]-leverans {#in-app-message-reporting}
 
-Du kan granska dina [!UICONTROL In-App] leveransrelaterade data antingen i leveranssammanfattningen genom att lägga till [!UICONTROL In-App] specifika värden. Du kan också använda den färdiga [apprapporten](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html).
+Du kan granska dina [!UICONTROL In-App] leveransrelaterade data antingen i leveranssammanfattningen genom att lägga till [!UICONTROL In-App] specifika mått. Du kan också använda den färdiga [rapporten i appen](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
