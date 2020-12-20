@@ -30,4 +30,4 @@ I den här videon förklaras hur du skapar en fristående e-postleverans från h
 
 * [Skapa och skicka e-postmeddelanden via ett arbetsflöde](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [Skapa ett e-postmeddelande (dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Bästa praxis för leverans](https://helpx.adobe.com/se/campaign/kb/delivery-best-practices.html)
+* [Bästa praxis för leverans](https://docs.campaign.adobe.com/doc/standard/getting_started/en/ACS_DeliveryBestPractices.html)
