@@ -1,5 +1,5 @@
 ---
-title: 'Lägga till ett IP-intervall i tillåtelselista '
+title: 'Lägga till ett IP-intervall i tillåtelselistan '
 description: Lär dig hur du kan lägga till ett IP-adressintervall i tillåtelselista.
 feature: Ip Range
 topics: Control Panel
@@ -13,12 +13,12 @@ translation-type: tm+mt
 source-git-commit: 6069fd81d3d2f89ea669d1b47ebf40b9b9eb1181
 workflow-type: tm+mt
 source-wordcount: '92'
-ht-degree: 3%
+ht-degree: 20%
 
 ---
 
 
-# Lägga till ett IP-intervall i tillåtelselista
+# Lägga till ett IP-intervall i tillåtelselistan
 
 För att kunna ansluta till en server, antingen via ett klientprogram eller ett API, måste du konfigurera en offentlig SSH-nyckel och lägga till den IP-adress som ansluter till SFTP-servern till tillåtelselista.
 
