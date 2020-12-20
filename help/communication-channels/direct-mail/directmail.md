@@ -19,13 +19,13 @@ ht-degree: 1%
 
 # Skapa en [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-Med den här [!UICONTROL Direct Mail] kanalen kan du extrahera en segmenterad lista med mottagare som ska skickas till en byrå eller överföras till en SFTP-server.
+Med kanalen [!UICONTROL Direct Mail] kan du extrahera en segmenterad lista med mottagare som ska skickas till en byrå eller överföras till en SFTP-server.
 
-I den här videon förklaras hur du konfigurerar en [!UICONTROL Direct Mail] leverans och vilka inställningar som krävs för att kunna lägga till en profil i en [!UICONTROL Direct Mail] leverans.
+I den här videon förklaras hur du konfigurerar en [!UICONTROL Direct Mail]-leverans och vilka inställningar som krävs för att kunna lägga till en profil till en [!UICONTROL Direct Mail]-leverans.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
-## Skapa ett [!UICONTROL Direct Mail] arbetsflöde
+## Skapa en [!UICONTROL Direct Mail] i ett arbetsflöde
 
 Kanalen är tillgänglig från startsidan och i arbetsflödesvyn för att definiera sammanhängande strategier för flerkanalsmarknadsföring. Följande exempelarbetsflöde innehåller [!UICONTROL Direct Mail activity].
 
