@@ -17,7 +17,7 @@ ht-degree: 11%
 ---
 
 
-# Mappning [!UICONTROL Experience Events]
+# Mappa [!UICONTROL Experience Events]
 
 >[!NOTE]
 >
@@ -25,7 +25,7 @@ ht-degree: 11%
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
-Lär dig mappa [!UICONTROL Experience Events] i Adobe Experience Platform (AEP).
+Lär dig hur du mappar [!UICONTROL Experience Events] i Adobe Experience Platform (AEP).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 
