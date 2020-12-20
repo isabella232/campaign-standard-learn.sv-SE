@@ -19,11 +19,11 @@ ht-degree: 3%
 
 # Konfigurera [!UICONTROL Events] {#configuring-events}
 
-När du konfigurerar ett [!UICONTROL In-App] meddelande måste du definiera vilken användarinitierad åtgärd som utlöser meddelandet som ska visas. Dessa åtgärder anropas [!UICONTROL events]. Tre kategorier [!UICONTROL events] är tillgängliga: [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events]och [!UICONTROL Analytics events].
+När du konfigurerar ett [!UICONTROL In-App]-meddelande måste du definiera vilken användarinitierad åtgärd som utlöser meddelandet som ska visas. Dessa åtgärder kallas [!UICONTROL events]. Tre kategorier av [!UICONTROL events] är tillgängliga: [!UICONTROL Mobile Application events], [!UICONTROL Life Cycle events] och [!UICONTROL Analytics events].
 
 ## [!UICONTROL Mobile Application Events] {#mobile-application-events}
 
-[!UICONTROL Mobile Application events] som [!UICONTROL custom events] implementeras i ditt mobilprogram.
+[!UICONTROL Mobile Application events] som  [!UICONTROL custom events] implementeras i ditt mobilprogram.
 
 Exempel:
 
@@ -38,7 +38,7 @@ Du måste konfigurera dessa [!UICONTROL events] i Adobe Campaign. I följande vi
 
 ## [!UICONTROL Life Cycle events]  {#life-cycle-events}
 
-[!UICONTROL Lifecycle events] är färdiga [!UICONTROL events]. The following [!UICONTROL events] are available:
+[!UICONTROL Lifecycle events] är färdiga  [!UICONTROL events]. Följande [!UICONTROL events] är tillgängliga:
 
 * [!UICONTROL launched]
 * [!UICONTROL upgraded]
@@ -48,7 +48,7 @@ Ett exempel kan vara ett meddelande som presenterar nya funktioner efter en uppg
 
 >[!NOTE]
 >
->De måste [!UICONTROL Lifecycle module] konfigureras i mobilprogrammet. Mer information om [hur du lägger till en livscykel i din app finns här](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
+>[!UICONTROL Lifecycle module] måste konfigureras i mobilprogrammet. Här finns mer information om [hur du lägger till livscykel i din app](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core/lifecycle)
 
 ## [!UICONTROL Analytics Events] {#analytics-events}
 
@@ -60,7 +60,7 @@ Följande tre kategorier stöds beroende på vad som finns i din mobilapp:
 
 >[!NOTE]
 >
->[!UICONTROL Analytics events] kräver en Adobe Analytics-licens. När du har konfigurerat [[!DNL Analytics] ](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) tillägget och lagt till [Analytics i appen](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app)blir dessa händelser tillgängliga i ACS- [!UICONTROL In-App] konfigurationen.
+>[!UICONTROL Analytics events] kräver en Adobe Analytics-licens. När du har konfigurerat [[!DNL Analytics] tillägget](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) och lagt till [Analytics i din app](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app) blir dessa händelser tillgängliga i [!UICONTROL In-App]-konfigurationen i ACS.
 
 ## Ytterligare resurser
 
