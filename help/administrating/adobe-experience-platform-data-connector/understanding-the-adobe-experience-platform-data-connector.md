@@ -17,7 +17,7 @@ ht-degree: 10%
 ---
 
 
-# Understanding the Adobe Experience Platform [!UICONTROL Data Connector]
+# Förstå Adobe Experience Platform [!UICONTROL Data Connector]
 
 >[!NOTE]
 >
@@ -35,13 +35,13 @@ Adobe Experience Platform [!UICONTROL Data Connector] är avsett för datateknik
 
 >[!VIDEO](https://video.tv.adobe.com/v/27304?quality=12)
 
-*Den här videon ger en översikt över Adobe Experience Platform [!UICONTROL Data Connector] (09:35 min)*
+*Den här videon ger en översikt över Adobe Experience Platform  [!UICONTROL Data Connector] (09:35 min)*
 
 >[!NOTE]
 >
->Det går inte att överföra direkt från [!UICONTROL subscription events] programmet. Om du vill överföra [!UICONTROL subscription events]kan du skapa motsvarande XDM och datauppsättning på Adobe Experience Platform och sedan konfigurera en anpassad datamappning för dessa data.
+>Det går inte att överföra [!UICONTROL subscription events] direkt. Om du vill överföra [!UICONTROL subscription events] kan du skapa motsvarande XDM och datauppsättning på Adobe Experience Platform och sedan konfigurera en anpassad datamappning för dessa data.
 >
->Befintliga filer [!UICONTROL experience events] kan inte importeras till Adobe Experience Platform, men pågående genereringar [!UICONTROL experience events] kommer att strömmas till Adobe Experience Platform.
+>Befintlig [!UICONTROL experience events] kan inte importeras till Adobe Experience Platform, men pågående [!UICONTROL experience events] kommer att direktuppspelas till Adobe Experience Platform.
 
 ## Viktiga steg för datamappning
 
