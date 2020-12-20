@@ -8,9 +8,9 @@ thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 06a4a418906d4bf74cad5faf809bea086537bbd3
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
 
@@ -25,4 +25,4 @@ Med [!DNL Adobe Campaign Standard] kan du skapa en [!UICONTROL control group] so
 
 Lär dig hur du definierar en [!UICONTROL control group] för dina [!UICONTROL delivery]-profiler och hur du extraherar de profiler som har tilldelats till [!UICONTROL control group] efter att [!UICONTROL delivery]-formuläret har skickats.
 
->[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/40684?quality=12)
