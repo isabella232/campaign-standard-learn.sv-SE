@@ -25,4 +25,4 @@ I videon nedan förklaras de tre steg som krävs för att inrikta sig på dessa 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-For more information see the [documentation](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
+Mer information finns i [dokumentationen](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
