@@ -17,9 +17,9 @@ ht-degree: 6%
 ---
 
 
-# Target users based on their [!DNL Campaign] profile
+# Målanvändare baserat på deras [!DNL Campaign]-profil
 
-Du kan rikta dig till kända mobilappsanvändare (de som har loggat in i appen med PII) med meddelanden som har anpassats med CRM-profilattribut som är tillgängliga i Adobe Campaign Standard. Den här mallen är mest användbar för att stödja flerkanalsanvändning, där du redan har riktat in användare på andra kanaler som e-post eller push och baserat på deras svar vill du engagera dem med ett [!UICONTROL In-App] meddelande.
+Du kan rikta dig till kända mobilappsanvändare (de som har loggat in i appen med PII) med meddelanden som har anpassats med CRM-profilattribut som är tillgängliga i Adobe Campaign Standard. Den här mallen är mest användbar för att stödja flerkanalsanvändning, där du redan har riktat in användare på andra kanaler som e-post eller push och baserat på deras svar, vill du engagera dem med ett [!UICONTROL In-App]-meddelande.
 
 >[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
 
