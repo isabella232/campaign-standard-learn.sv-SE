@@ -18,7 +18,7 @@ ht-degree: 9%
 
 # Skapa en rapport baserad på anpassade profilattribut
 
-Adobe Campaign [!UICONTROL Dynamic Reports] är en flexibel frihandsmiljö där du kan utforska data genom att inkludera anpassade profilattribut. Det gör att du kan kombinera mått, mätvärden och tidsintervall i vilken kombination som helst, med obegränsade uppdelningar och jämförelser.
+Adobe Campaign [!UICONTROL Dynamic Reports] är utformat för att vara en flexibel frihandsmiljö där du kan utforska data genom att inkludera anpassade profilattribut. Det gör att du kan kombinera mått, mätvärden och tidsintervall i vilken kombination som helst, med obegränsade uppdelningar och jämförelser.
 
 I den här videon förklaras hur du skapar en rapport baserad på anpassade profilattribut.
 
