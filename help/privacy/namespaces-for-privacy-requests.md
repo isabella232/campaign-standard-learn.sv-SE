@@ -8,9 +8,9 @@ thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '123'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ En förutsättning för att kunna skapa förfrågningar om åtkomst till och rad
 
 Den här videon förklarar hur du skapar namnrymder för förfrågningar om användarens information.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12&captions=swe)
+>[!VIDEO](https://video.tv.adobe.com/v/22600?quality=12)
 
 ## Ytterligare resurser
 
