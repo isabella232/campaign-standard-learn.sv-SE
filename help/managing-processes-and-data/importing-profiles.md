@@ -21,7 +21,7 @@ ht-degree: 10%
 
 Du kan samla in data från en fil för att bearbeta den och/eller importera den till Adobe Campaign-databasen.
 
-I den här videon förklaras hur du använder [!UICONTROL Data Management] aktiviteterna i ett arbetsflöde för att importera profildata.
+I den här videon förklaras hur du använder [!UICONTROL Data Management]-aktiviteterna i ett arbetsflöde för att importera profildata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 
