@@ -4,15 +4,15 @@ user-guide-title: Självstudiekurser om kontrollpanelen i Adobe Campaign
 user-guide-description: Kontrollpanelen låter administratörer i Adobe Campaign övervaka viktiga resurser och utföra administrativa uppgifter såsom att hantera SFTP-lagringen per instans eller tillåtelselista IP-adresser.
 breadcrumb-title: Självstudiekurser om kontrollpanelen
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=sv&tag=Campaign+Standard#recommended/solutions/campaign
 tutorials-title: Självstudiekurser
 tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/tutorials/overview.html
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 16cd416f567c8177aadd35e03cfa27d0e0478e6b
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 100%
 
