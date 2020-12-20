@@ -1,5 +1,5 @@
 ---
-title: Komma igång med Kontrollpanelen
+title: Komma igång med kontrollpanelen
 description: I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
 feature: Control Panel
 topics: Control Panel
@@ -13,18 +13,18 @@ translation-type: tm+mt
 source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
 workflow-type: tm+mt
 source-wordcount: '215'
-ht-degree: 62%
+ht-degree: 65%
 
 ---
 
 
-# Getting started with the [!UICONTROL Control Panel] {#control-panel}
+# Komma igång med [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
 >Termerna &quot;[!UICONTROL whitelist]&quot; och &quot;[!UICONTROL blacklist]&quot; har ersatts med &quot;[!UICONTROL allowlist]&quot; och &quot;[!UICONTROL denylist]&quot; i dokumentationen för Adobe Campaign. Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, namn på alternativ, intern kod samt självstudievideor. De ersätts i kommande versioner av kontrollpanelen.
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+Med [!UICONTROL Control Panel] kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa åtgärder, som att hantera [!DNL SFTP]-lagring efter instans, hantera [!DNL GPG]-nycklar eller [!UICONTROL subdomains] och [!UICONTROL certificates].
 
 I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
 
