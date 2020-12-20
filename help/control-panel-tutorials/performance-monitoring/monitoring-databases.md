@@ -1,6 +1,6 @@
 ---
 title: Övervaka databaser
-description: Lär dig hur du övervakar databasanvändningen för dina instanser.
+description: Läs om hur du övervakar databasanvändningen på dina instanser.
 feature: Database Monitoring
 topics: Control Panel
 kt: 6433
@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: da28f90f376f867e861194f828493fc66cc604e4
 workflow-type: tm+mt
 source-wordcount: '86'
-ht-degree: 2%
+ht-degree: 18%
 
 ---
 
