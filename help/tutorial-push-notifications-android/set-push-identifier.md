@@ -15,11 +15,11 @@ ht-degree: 0%
 
 ---
 
-# Steg 4 - Ställ in [!DNL pushidentifier]
+# Steg 4 - Ange [!DNL pushidentifier]
 
-Detta **[!DNL pushidentifier]** är en sträng som innehåller enhetstoken för [!DNL Push] meddelanden. Detta är samma token som skickas av [!DNL Firebase] och skickas till SDK med [!DNL MobileCore.setPushIdentifier] metoden .
+**[!DNL pushidentifier]** är en sträng som innehåller enhetstoken för [!DNL Push]-meddelanden. Detta är samma token som skickas av [!DNL Firebase] och skickas till SDK med metoden [!DNL MobileCore.setPushIdentifier].
 
-Öppna projektet i [!DNL Android ]studion. Ta bort hela koden i [!DNL MainActivity] förutom den första raden som är din paketprogramsats ****.
+Öppna projektet i [!DNL Android ]studio. Ta bort hela koden i [!DNL MainActivity] **förutom den första raden som är din paketprogramsats**.
 
 Klistra in följande kod i [!DNL MainActivity]:
 
@@ -91,18 +91,18 @@ MobileCore.lifecyclePause();
 Nu är det ett bra tillfälle att testa appen innan du går vidare.
 
 * Kör appen genom att klicka på den gröna pilen eller välj **[!DNL Run->Run'app']**.
-* Emulatorn bör börja [!DNL Android] och du bör se hur appen körs med [!DNL "Hello World" ]text.
-* Öppna [!DNL logcat] fönstret. Sök efter &quot;[!DNL Got]&quot;. Du bör se den token som togs emot från [!DNL Firebase] skrivningen till loggen enligt nedan. Den långa strängen efter &quot;[!DNL Got token]&quot; är [!DNL pushidentifier ]den som skickas till Adobe Campaign.
+* Emulatorn [!DNL Android] ska starta och du bör se programmet köras med [!DNL "Hello World" ]text.
+* Öppna fönstret [!DNL logcat]. Sök efter [!DNL Got]. Du bör se den token som togs emot från [!DNL Firebase] skriven i loggen enligt nedan. Den långa strängen efter &quot;[!DNL Got token]&quot; är den [!DNL pushidentifier ]som skickas till Adobe Campaign.
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
 ### Kontrollera prenumeranter på mobilprogram
 
 Logga in på din Adobe Campaign Standard-instans.
-Navigera **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Öppna rätt mobilapplikation. Tab to the [!UICONTROL Mobile Application Subscribers] tab. Du borde se en [!UICONTROL registration token ]lista.
+Navigera till **[!UICONTROL Administration->Channels->Mobile App(AEP SDK)]**. Öppna rätt mobilapplikation. Fliken till fliken [!UICONTROL Mobile Application Subscribers]. Du bör se en [!UICONTROL registration token ]lista.
 
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 
 >[!NOTE]
 >
->Om du inte ser någon registreringstoken på [!UICONTROL Mobile Application Subscribers] fliken STOP här innan du fortsätter.
+>Om du inte ser någon registreringstoken på fliken [!UICONTROL Mobile Application Subscribers] STOPPAR du här innan du fortsätter.
