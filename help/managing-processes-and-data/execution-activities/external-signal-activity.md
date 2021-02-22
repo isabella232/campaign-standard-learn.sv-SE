@@ -1,7 +1,7 @@
 ---
 title: Extern signalaktivitet - Anropa ett arbetsflöde med parametrar
 description: Den externa signalaktiviteten används för att organisera och samordna olika processer som ingår i samma kundresa till olika arbetsflöden. Det gör att man kan starta ett arbetsflöde från ett annat, vilket ger stöd för mer komplexa kundresor samtidigt som man bättre kan övervaka och reagera vid problem.
-feature: External Signal Activity
+feature: Extern signalaktivitet
 topics: Workflows
 kt: 2750
 thumbnail: 27249
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 19%
+source-wordcount: '333'
+ht-degree: 17%
 
 ---
 
@@ -45,4 +45,4 @@ I följande video förklaras de konfigurationssteg som krävs för att:
 
 ## Ytterligare resurser
 
-* [Extern signal (dokumentation)](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [Extern signal (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/calling-workflow-external-parameters/calling-a-workflow-with-external-parameters.html)
