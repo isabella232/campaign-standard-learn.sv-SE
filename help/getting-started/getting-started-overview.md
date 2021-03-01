@@ -1,7 +1,7 @@
 ---
 title: Komma igång med Adobe Campaign Standard
 description: I den här videon får du en översikt över användargränssnittet i Adobe Campaign Standard samt de viktigaste funktionerna och basfunktionaliteten.
-feature: User Interface
+feature: Användargränssnitt
 topics: null
 kt: null
 doc-type: null
@@ -10,8 +10,8 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
 workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 100%
+source-wordcount: '191'
+ht-degree: 98%
 
 ---
 
