@@ -10,7 +10,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
-source-wordcount: '199'
+source-wordcount: '200'
 ht-degree: 41%
 
 ---
@@ -25,7 +25,7 @@ I den här självstudiekursen visas steg för steg hur du skickar push-meddeland
 ## Förhandskrav
 
 * Du bör ha startegenskapen konfigurerad med Adobe Campaign Standard Extension. Följ onlinehjälpen nedan.
-   * [Videosjälvstudiekurs](https://video.tv.adobe.com/v/26224?quality=12&captions=swe)
+   * [Videosjälvstudiekurs](https://video.tv.adobe.com/v/26224?quality=12)
    * [Dokumentation](https://docs.adobe.com/content/help/en/campaign-learn/campaign-standard-tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html)
 
 * Kontrollera att motsvarande egenskaps status i Adobe Campaign Standard är konfigurerad.
