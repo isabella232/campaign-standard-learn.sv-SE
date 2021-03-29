@@ -1,17 +1,17 @@
 ---
 title: Växa med Adobe Campaign
 description: Den här videon beskriver de möjliga nästa stegen till faktiskt orkestrering över flera kanaler.
-feature: multi channel orchestration
+feature: flerkanalsorkestrering
 topics: null
 kt: 3973
 thumbnail: 29460.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '32'
+workflow-type: ht
+source-wordcount: '35'
 ht-degree: 100%
 
 ---
