@@ -1,7 +1,7 @@
 ---
 product: adobe campaign standard
-user-guide-title: Självstudiekurser om kontrollpanelen i Adobe Campaign
-user-guide-description: Lär dig hur du övervakar nyckelresurser för dina Adobe Campaign-instanser och utför administrativa uppgifter på Kontrollpanelen.
+user-guide-title: Självstudiekurser om Kontrollpanelen i Adobe Campaign
+user-guide-description: Läs om hur du övervakar nyckelresurser för dina Adobe Campaign-instanser och utför administrativa uppgifter på Kontrollpanelen.
 breadcrumb-title: Självstudiekurser om kontrollpanelen
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=sv&tag=Campaign+Standard#recommended/solutions/campaign
@@ -10,11 +10,11 @@ tutorials-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn
 getting-started-title: Dokumentation
 getting-started-url: https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/campaign-standard-home.html
 index: true
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: fb724628536b81f1032c557d27e7f4dd655ceeeb
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '142'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
