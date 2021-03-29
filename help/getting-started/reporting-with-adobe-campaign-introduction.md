@@ -1,17 +1,17 @@
 ---
 title: Introduktion till rapportering
 description: I den här videon får du en översikt över rapporteringsfunktionerna i Adobe Campaign Standard
-feature: reporting
+feature: rapportering
 topics: null
 kt: 3974
 thumbnail: 29461.jpg
 doc-type: value video
 activity: understand
 team: PMM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: tm+mt
-source-wordcount: '54'
+workflow-type: ht
+source-wordcount: '55'
 ht-degree: 100%
 
 ---
