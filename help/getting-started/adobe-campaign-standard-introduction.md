@@ -1,17 +1,17 @@
 ---
 title: Introduktion till Adobe Campaign Standard
 description: I den här videon får du en introduktion till Adobe Campaign Standard på avancerad nivå.
-feature: Profiles and Audiences
+feature: Profiler och målgrupper
 topics: null
 kt: 3971
 thumbnail: 29430.jpg
 doc-type: feature video
 activity: understand
 team: PMM
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 4fa09f7aaddffc4ecbcc703e197785e594b6cb65
-workflow-type: tm+mt
-source-wordcount: '32'
+workflow-type: ht
+source-wordcount: '35'
 ht-degree: 100%
 
 ---
