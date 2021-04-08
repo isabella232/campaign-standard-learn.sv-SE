@@ -13,7 +13,7 @@ translation-type: tm+mt
 source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 14%
+ht-degree: 20%
 
 ---
 
@@ -30,4 +30,4 @@ I den här videon förklaras hur du skapar en fristående e-postleverans från h
 
 * [Skapa och skicka e-postmeddelanden via ett arbetsflöde](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
 * [Skapa ett e-postmeddelande (dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/email-messages/creating-an-email.html)
-* [Bästa praxis för leverans](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=sv)
+* [God praxis för leverans](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/delivery-bestpractices/delivery-best-practices.html?lang=sv)
