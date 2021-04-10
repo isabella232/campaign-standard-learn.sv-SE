@@ -3,7 +3,7 @@ title: Självstudiekurser om Adobe Campaign Standard – översikt
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 translation-type: tm+mt
-source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
+source-git-commit: 10fe2451d77a0366ef7885da0426551b1843a1cb
 workflow-type: tm+mt
 source-wordcount: '296'
 ht-degree: 82%
@@ -21,7 +21,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
    *Lär dig hur du konfigurerar integreringen mellan Campaign Standard och analys. Lär dig hur du skapar en rapport i Analytics med data som tagits emot från Campaign Standarden och vilka nyckeltal som är tillgängliga.*
 
-* ** [Använda utlösare för transaktionsmeddelanden](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
+* **[Använda utlösare för transaktionsmeddelanden](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
 
    *Lär dig hur du konfigurerar och använder utlösare för transaktionsmeddelanden.*
 
