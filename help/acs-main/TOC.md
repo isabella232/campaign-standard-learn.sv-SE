@@ -9,10 +9,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv
 translation-type: tm+mt
-source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
+source-git-commit: c8d9a7c79bb9fe8882ac390cc0f0fec7cffa82da
 workflow-type: tm+mt
-source-wordcount: '517'
-ht-degree: 98%
+source-wordcount: '546'
+ht-degree: 93%
 
 ---
 
@@ -100,8 +100,13 @@ ht-degree: 98%
    + [Skapa en dynamisk rapport](/help/reporting/creating-a-dynamic-report.md)
    + [Skapa en rapport baserad på anpassade profilattribut](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Skapa en rapport baserad på arbetsflödessegment](/help/reporting/report-on-workflow-segments.md)
-+ Integreringar {#integrations}
++ Integrera med andra lösningar {#integrations}
    + [Spåra framgångarna i Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
+   + Använda utlösare för transaktionsmeddelanden {#triggers}
+      + [Översikt](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
+      + [Skapa en utlösare i Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
+      + [Skapa en utlösarhändelse i Campaign Standard](/help/integrations/create-a-trigger-event.md)
+      + [Konfigurera transaktionsmeddelanden med realtidshändelsedata](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
 + Administrera {#administrating}
    + [Hantera användares åtkomsträttigheter](/help/administrating/managing-user-access-rights.md)
    + [Skapa anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=sv)
