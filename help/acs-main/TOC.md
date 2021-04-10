@@ -9,7 +9,7 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv
 translation-type: tm+mt
-source-git-commit: c285a5493dad114c817d78692400f4056c707db4
+source-git-commit: 8b4c60a2950d86074a3057bb8fe6460288da93b6
 workflow-type: tm+mt
 source-wordcount: '517'
 ht-degree: 98%
@@ -100,7 +100,7 @@ ht-degree: 98%
    + [Skapa en dynamisk rapport](/help/reporting/creating-a-dynamic-report.md)
    + [Skapa en rapport baserad på anpassade profilattribut](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Skapa en rapport baserad på arbetsflödessegment](/help/reporting/report-on-workflow-segments.md)
-+ Integreringar
++ Integreringar {#integrations}
    + [Spåra framgångarna i Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
 + Administrera {#administrating}
    + [Hantera användares åtkomsträttigheter](/help/administrating/managing-user-access-rights.md)
