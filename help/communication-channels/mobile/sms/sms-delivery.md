@@ -1,6 +1,6 @@
 ---
 title: Skapa en SMS-leverans
-description: I den här videon förklaras hur du skapar en SMS-leverans i Adobe Campaign Standard (ACS).
+description: Lär dig hur du skapar en SMS-leverans.
 feature: SMS
 topics: null
 kt: 1819
@@ -8,14 +8,16 @@ thumbnail: 25265.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 7184a998-a4d7-4ad8-9b29-4504088eeb4d
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '98'
-ht-degree: 10%
+source-wordcount: '92'
+ht-degree: 11%
 
 ---
-
 
 # Skapa en SMS-leverans{#creating-a-sms-delivery}
 
