@@ -1,21 +1,23 @@
 ---
 title: Introduktion till mallar för e-postinnehåll
-description: Adobe Campaign Standard erbjuder 18 fullt anpassningsbara mallar för responsiv e-post direkt.  Mallarna har skapats specifikt för Adobe Campaign Standard och är enkla att ändra. De är en bra startpunkt för att skapa e-postmeddelanden.
-feature: Email Designer
+description: Lär dig hur du skapar en mall för e-postinnehåll.
+feature: E-postdesign
 topics: null
 kt: 1442
 thumbnail: 23106.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: fc01caf7-959a-4f2d-af81-4f695ae45bb8
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '99'
-ht-degree: 10%
+source-wordcount: '71'
+ht-degree: 14%
 
 ---
-
 
 # Introduktion till mallar för e-postinnehåll {#introduction-to-the-email-content-templates}
 
