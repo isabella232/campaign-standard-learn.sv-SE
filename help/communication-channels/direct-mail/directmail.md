@@ -1,27 +1,29 @@
 ---
 title: Skapa ett direktmeddelande
-description: Direktreklam är fortfarande en viktig kanal för marknadsförare runt om i världen och de kan nu samordna dessa offlineinteraktioner med sina onlinebaserade interaktioner. Samma motor som driver digital kommunikation, som e-post och mobil, kan nu även personalisera direktutskick.
-feature: direct mail
+description: Lär dig hur du skapar direktreklam.
+feature: Direktreklam
 topics: null
 kt: 1430
 thumbnail: 23417.jpg
 doc-type: feature video
 activity: using
 team: TM
+exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '144'
+source-wordcount: '110'
 ht-degree: 1%
 
 ---
-
 
 # Skapa en [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
 Med kanalen [!UICONTROL Direct Mail] kan du extrahera en segmenterad lista med mottagare som ska skickas till en byrå eller överföras till en SFTP-server.
 
-I den här videon förklaras hur du konfigurerar en [!UICONTROL Direct Mail]-leverans och vilka inställningar som krävs för att kunna lägga till en profil till en [!UICONTROL Direct Mail]-leverans.
+I den här videon förklaras hur du konfigurerar en [!UICONTROL Direct Mail]-leverans och vilka inställningar som krävs för att kunna lägga till en profil i en [!UICONTROL Direct Mail]-leverans.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
