@@ -1,15 +1,18 @@
 ---
 title: Rapportera om leveransen i appen
-description: Med meddelanden i appen kan du presentera kontextuellt relevanta meddelanden i appen som svar på en kunds realtidsbeteende i mobilappen.
-feature: In-App
+description: '"Lär dig hur du kan ge användaren sammanhangsberoende meddelanden i appen som svar på en kunds realtidsbeteende i mobilappen."'
+feature: I appen
 topics: Mobile
 kt: 2558
 thumbnail: 26412.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 10%
