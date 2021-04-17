@@ -1,21 +1,23 @@
 ---
-title: 'Skicka ett meddelande i appen '
-description: Med sändningsmallen och meddelandemallen i appen kan du rikta in dig på alla användare i din mobilapp med Adobe Campaign Standard (ACS)
-feature: In-App
+title: '"Skicka ett meddelande i appen "'
+description: Lär dig hur sändningsmallen gör att du kan rikta dig till alla användare i din mobilapp.
+feature: I appen
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '132'
+source-wordcount: '128'
 ht-degree: 7%
 
 ---
-
 
 # Skicka ett meddelande i appen
 
