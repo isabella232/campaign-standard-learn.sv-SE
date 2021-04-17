@@ -1,20 +1,22 @@
 ---
 title: Skapa innehåll med Adobe Dreamweaver
-description: I videon förklaras vad som krävs för att aktivera integrering med Dreamweaver och hur du skapar och redigerar innehåll för Adobe Campaign Standard med Dreamweaver.
-feature: Email Designer
+description: Förstå vad som krävs för att möjliggöra Dreamweaver-integrering och hur man skapar och redigerar innehåll för Adobe Campaign Standard med Dreamweaver.
+feature: E-postdesign
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
 source-wordcount: '176'
-ht-degree: 100%
+ht-degree: 86%
 
 ---
-
 
 # Skapa innehåll med Adobe Dreamweaver
 
