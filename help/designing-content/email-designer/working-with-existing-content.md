@@ -1,21 +1,23 @@
 ---
 title: Arbeta med befintligt innehåll
 description: I den här videon förklaras hur du snabbt hämtar ditt kreativa innehåll från en webbplats och läser in det i e-postdesignern.
-feature: Email Designer
+feature: E-postdesign
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
+role: Business Practitioner, Developer
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '113'
 ht-degree: 7%
 
 ---
-
 
 # Arbeta med befintligt innehåll{#working-with-existing-content}
 
