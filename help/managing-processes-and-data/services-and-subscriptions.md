@@ -1,21 +1,23 @@
 ---
 title: Hantera tjänster och prenumerationer
-description: Med Adobe Campaign kan ni skapa och hantera nyhetsbrev och kommunikation över flera kanaler via en uppsättning tjänster. I den här videon visas hur du skapar en tjänst och hanterar dess prenumerationer i Adobe Campaign Standard (ACS).
-feature: Subscriptions and Services
+description: Lär dig hur du skapar en tjänst och hanterar prenumerationer.
+feature: Prenumerationer
 topics: null
 kt: 1815
 thumbnail: 24673.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 31%
+source-wordcount: '155'
+ht-degree: 36%
 
 ---
-
 
 # Hantera tjänster och prenumerationer{#managing-services-and-subscriptions}
 
