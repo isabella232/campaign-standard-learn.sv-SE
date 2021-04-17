@@ -1,21 +1,23 @@
 ---
 title: Konfigurera och köra ett arbetsflöde med aktiviteten Externt API
-description: Aktiviteten Externt API är en datahanteringsaktivitet. Med den kan du anropa en extern REST API-slutpunkt. Syftet med den här aktiviteten är att få personaliseringsdata från ett tredjepartssystem till kampanjen.
-feature: External API activity
+description: Lär dig att anropa en extern REST API-slutpunkt för att hämta personaliseringsdata från ett tredjepartssystem till kampanjen.
+feature: Datahanteringsaktivitet
 topics: null
 kt: 2764
 thumbnail: 28200.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 100%
+source-wordcount: '188'
+ht-degree: 87%
 
 ---
-
 
 # Konfigurera och köra ett arbetsflöde med [!UICONTROL External API activity]
 
@@ -32,7 +34,7 @@ I den här videon visas hur du använder [!UICONTROL External API activity].
 
 >[!VIDEO](https://video.tv.adobe.com/v/28200/?quality=12)
 
-*[!UICONTROL External API activity] (06:48 min)*
+*[!UICONTROL External API activity](06:48 min)*
 
 >[!NOTE]
 >
@@ -41,4 +43,3 @@ I den här videon visas hur du använder [!UICONTROL External API activity].
 ## Ytterligare resurser
 
 * [Externt API (dokumentation)](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
-
