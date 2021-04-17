@@ -1,20 +1,22 @@
 ---
 title: Introduktion till meddelanden i appen
-description: Med Adobe Campaign Standard (ACS) In-App Messaging-kanal kan du presentera kontextuellt relevanta meddelanden i appen som svar på en kunds realtidsbeteende i mobilappen.
-feature: In-App
+description: '"Lär dig hur du kan ge användaren sammanhangsberoende meddelanden i appen som svar på en kunds realtidsbeteende i mobilappen."'
+feature: I appen
 topics: Mobile
 kt: 1911
 doc-type: feature video
 activity: use
 team: TM
+exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 82fb2d39dc61a55c0aa20ca1fa215f35a7dd9088
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '753'
+source-wordcount: '747'
 ht-degree: 21%
 
 ---
-
 
 # Introduktion till [!UICONTROL In-App] meddelanden {#introduction}
 
