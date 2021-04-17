@@ -1,6 +1,6 @@
 ---
 title: Skapa en e-postleverans
-description: 'Du kan skapa ett e-postmeddelande från en kampanj, från Adobe Campaign hemsida eller i listan över marknadsföringsaktiviteter. Du kan också skapa e-postmeddelanden som skickas en gång eller som upprepas i ett arbetsflöde. I den här videon förklaras hur du skapar en e-postleverans från hemsidan. '
+description: 'Lär dig hur du skapar en e-postleverans från hemsidan. '
 landing-page-description: I den här videon förklaras hur du skapar en e-postleverans från hemsidan.
 feature: E-post
 topics: null
@@ -9,14 +9,16 @@ thumbnail: 23721.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: 9daf4e3d-3c96-443d-85d6-99f7a0377cd8
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 8b968e15b78655ff9ae49f812f10683201559722
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 20%
+source-wordcount: '114'
+ht-degree: 26%
 
 ---
-
 
 # Skapa en e-postleverans {#create-an-email-delivery}
 
