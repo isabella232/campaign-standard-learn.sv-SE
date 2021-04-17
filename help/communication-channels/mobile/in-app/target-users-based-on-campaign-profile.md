@@ -1,21 +1,23 @@
 ---
 title: Målinrikta användare baserat på deras profil i Campaign
-description: Med den här mallen kan du rikta dig till kända mobilappsanvändare med meddelanden som är anpassade med CRM-profilattribut som finns i Adobe Campaign Standard (ACS).
-feature: In-App
+description: Lär dig att rikta sig till kända mobilappsanvändare med meddelanden som är anpassade med CRM-profilattribut.
+feature: I appen
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '141'
+source-wordcount: '135'
 ht-degree: 6%
 
 ---
-
 
 # Målanvändare baserat på deras [!DNL Campaign]-profil
 
