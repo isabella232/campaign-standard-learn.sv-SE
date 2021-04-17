@@ -1,21 +1,22 @@
 ---
 title: 'Skapa en profil '
-description: I den här videon förklaras hur du skapar en profil och hur du lägger till den till en målgrupp i Adobe Campaign Standard (ACS)
-feature: Profiles and Audiences
-topic: null
+description: Lär dig hur du skapar en profil och hur du lägger till den till en publik.
+feature: Profiler, målgrupper
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: a2a816e2-9e6d-4f67-9d4e-c6413eaa81f4
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 6%
+source-wordcount: '38'
+ht-degree: 7%
 
 ---
-
 
 # Skapa en profil
 
