@@ -1,21 +1,23 @@
 ---
 title: Ändra storleken på målinriktningen
 description: I den här videon förklaras hur du ändrar målinriktningsdimensionen för en leverans för en Platform Audience utanför den primära profiltabellen i Adobe Campaign Standard.
-feature: Audience Destinations
+feature: Integrering av tjänsten People Core
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
 activity: using
 team: TM
+exl-id: ad19a131-00c9-4063-a4ea-f1d6261ad409
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '165'
-ht-degree: 15%
+source-wordcount: '169'
+ht-degree: 14%
 
 ---
-
 
 # Ändra storleken på målinriktningen [!UICONTROL Platform Audience]
 
