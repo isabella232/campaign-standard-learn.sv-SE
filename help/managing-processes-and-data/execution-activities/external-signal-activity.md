@@ -1,21 +1,23 @@
 ---
 title: Extern signalaktivitet - Anropa ett arbetsflöde med parametrar
-description: Den externa signalaktiviteten används för att organisera och samordna olika processer som ingår i samma kundresa till olika arbetsflöden. Det gör att man kan starta ett arbetsflöde från ett annat, vilket ger stöd för mer komplexa kundresor samtidigt som man bättre kan övervaka och reagera vid problem.
-feature: Extern signalaktivitet
+description: '"Lär dig hur du startar ett arbetsflöde från ett annat för att stödja mer komplexa kundresor, samtidigt som du bättre kan övervaka och reagera på problem."'
+feature: Körningsaktivitet
 topics: Workflows
 kt: 2750
 thumbnail: 27249
 doc-type: feature video
 activity: use
 team: TM
+exl-id: d3996185-681c-4906-85f0-0543ab767519
+role: Business Practitioner, Developer
+level: Experienced
 translation-type: tm+mt
-source-git-commit: 2237e6a7d6a8c202ea87aeeb4b1e6fa83e1c677c
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '333'
-ht-degree: 17%
+source-wordcount: '306'
+ht-degree: 9%
 
 ---
-
 
 # [!UICONTROL External Signal activity ]- Anropa ett arbetsflöde med parametrar
 
