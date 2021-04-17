@@ -1,21 +1,23 @@
 ---
 title: Aktivera målgrupper i Adobe Experience Platform i ett arbetsflöde
 description: I den här videon förklaras hur du aktiverar Data Services Query Audience i ett arbetsflöde genom att använda aktiviteten Läs målgrupp.
-feature: Audience Destinations
+feature: Integrering av tjänsten People Core
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: 955d063f-4709-4f56-8f39-f1b838354300
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '147'
+source-wordcount: '151'
 ht-degree: 7%
 
 ---
-
 
 # Aktivera Adobe Experience Platform-målgrupper i ett arbetsflöde [!UICONTROL Adobe Experience Platform Audiences] i ett marknadsföringsarbetsflöde
 
@@ -39,6 +41,5 @@ Dokumentation:
 
 Videoresurs:
 
-* [Skapa en ny målgrupp i Adobe Campaign Standard med verktyget för enhetlig segmentering](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Skapa en ny målgrupp i Adobe Campaign Standard med verktyget Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Ändra målinriktningsdimensionen för en leverans för en plattformspublik](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
-
