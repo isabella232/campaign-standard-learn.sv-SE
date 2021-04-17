@@ -2,20 +2,19 @@
 title: Skapa namnrymder för förfrågningar om användarens information i Adobe Campaign Standard (ACS)
 description: En förutsättning för att kunna skapa förfrågningar om åtkomst till och radering av användarens information, enligt kraven i GDPR eller CCPA, är definitionen av den namnrymd som ska användas för att identifiera den registrerade i databasen i Adobe Campaign. Den här videon förklarar hur du skapar namnrymder för förfrågningar om användarens information.
 feature: GDPR, CCPA
-topic: null
 kt: 1460
 thumbnail: 22600.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
-workflow-type: ht
+exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
+translation-type: tm+mt
+source-git-commit: 569c196b0d94a9bee5010da46003ed7b2a8afefd
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
 ---
-
 
 # Skapa namnrymder för förfrågningar om användarens information
 
