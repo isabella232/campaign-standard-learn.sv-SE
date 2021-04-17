@@ -1,23 +1,25 @@
 ---
 title: Skapa en leverans i appen inom ett arbetsflöde
 seo-title: Skapa N-leverans i appen i ett arbetsflöde
-description: Leveransaktiviteten i appen används vanligtvis för att automatisera sändning av ett meddelande i appen till en målgrupp som beräknas i samma arbetsflöde.
+description: '"Lär dig hur du använder leveransaktiviteten i appen för att automatiskt skicka ett meddelande i appen till en målgrupp som beräknas i ett arbetsflöde."'
 seo-description: Leveransaktiviteten i appen används vanligtvis för att automatisera sändning av ett meddelande i appen till en målgrupp som beräknas i samma arbetsflöde.
-feature: In-App
+feature: I appen
 topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 18%
+source-wordcount: '206'
+ht-degree: 17%
 
 ---
-
 
 # Skapa en [!UICONTROL In-App]-leverans i ett arbetsflöde
 
