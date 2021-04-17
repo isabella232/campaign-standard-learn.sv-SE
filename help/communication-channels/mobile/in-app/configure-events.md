@@ -1,21 +1,23 @@
 ---
 title: Konfigurera händelser
-description: 'När du konfigurerar ett meddelande i appen i Adobe Campaign Standard-händelser (ACS) definierar du vilken användarinitierad åtgärd som ska utlösa meddelandet som ska visas. '
-feature: In-App
+description: '"Förstå hur händelser definierar vilken användarinitierad åtgärd som utlöser ett meddelande i appen som ska visas. "'
+feature: I appen
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
+role: Business Practitioner, Developer
+level: Beginner, Intermediate
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '215'
 ht-degree: 3%
 
 ---
-
 
 # Konfigurera [!UICONTROL Events] {#configuring-events}
 
