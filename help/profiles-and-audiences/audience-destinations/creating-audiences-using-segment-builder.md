@@ -1,21 +1,23 @@
 ---
 title: Skapa en ny målgrupp med Unified Segment Builder
-description: null
-feature: Audience Destinations
+feature: Integrering av tjänsten People Core
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
 activity: using
 team: PM
+exl-id: ce52a988-5072-401b-9a8b-112e42504022
+description: Lär dig hur du skapar en ny publik med verktyget Unified Segment Builder.
+role: Business Practitioner, Developer
+level: Beginner, Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
 workflow-type: tm+mt
-source-wordcount: '225'
-ht-degree: 9%
+source-wordcount: '241'
+ht-degree: 8%
 
 ---
-
 
 # Skapa en ny målgrupp med Unified Segment Builder
 
