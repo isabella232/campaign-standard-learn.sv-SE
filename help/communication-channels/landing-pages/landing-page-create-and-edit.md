@@ -1,21 +1,23 @@
 ---
 title: Skapa och redigera en landningssida
-description: Adobe Campaign levereras med landningssidor som är onlineformulär som kan användas för att samla in information om era målgrupper, erbjuda prenumerationer på en tjänst, visa data och utöka er databas. Landningssidor kan också användas för att hämta eller uppdatera befintliga profiler. I dessa videofilmer förklaras hur du kan skapa, redigera och testa landningssidor i Adobe Campaign Standard.
-feature: Landing Pages
+description: '"Lär dig hur du skapar, redigerar och testar landningssidor i Adobe Campaign Standard."'
+feature: Landningssidor
 topics: null
 kt: 1808
 thumbnail: 24093.jpg
 doc-type: feature video
 activity: use
 team: DOC
+exl-id: e93d59fc-0ad5-4fa2-a744-0f723e99eae4
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '132'
-ht-degree: 10%
+source-wordcount: '89'
+ht-degree: 17%
 
 ---
-
 
 # Skapa och redigera en landningssida {#create-and-edit-a-landing-page}
 
