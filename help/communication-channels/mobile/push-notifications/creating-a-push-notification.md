@@ -1,21 +1,23 @@
 ---
 title: Skapa ett push-meddelande
-description: 'Lär dig hur du skapar ett push-meddelande i Adobe Campaign Standard (ACS). '
-feature: Push
+description: 'Lär dig hur du skapar ett push-meddelande. '
+feature: Tryck
 topics: Mobile
 kt: 1401
 thumbnail: 31499.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 11%
+source-wordcount: '158'
+ht-degree: 12%
 
 ---
-
 
 # Skapa en [!UICONTROL push notification]
 
