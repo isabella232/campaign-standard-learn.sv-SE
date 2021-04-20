@@ -1,7 +1,7 @@
 ---
 title: 'Skapa en profil '
 description: Lär dig hur du skapar en profil och hur du lägger till den till en publik.
-feature: Profiler, målgrupper
+feature: Profiles, Audiences
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video

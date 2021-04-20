@@ -1,7 +1,7 @@
 ---
 title: Skapa anpassade resurser – introduktion
 description: Adobe Campaign Standard erbjuder möjligheten att utöka resurserna eller skapa helt nya resurser. I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser.
-feature: Anpassade resurser
+feature: Custom Resources
 topics: null
 kt: 2999
 thumbnail: 27715.jpg

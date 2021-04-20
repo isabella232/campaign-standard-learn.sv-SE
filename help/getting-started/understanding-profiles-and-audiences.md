@@ -1,7 +1,7 @@
 ---
 title: Förstå profiler och målgrupper i Adobe Campaign Standard
 description: Förstå begreppet profiler och målgrupper och lär dig hur du skapar profiler och målgrupper.
-feature: Profiler, målgrupper
+feature: Profiles, Audiences
 topics: null
 kt: 3893
 thumbnail: 18464.jpg

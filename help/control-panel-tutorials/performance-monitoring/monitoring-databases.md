@@ -1,7 +1,7 @@
 ---
 title: Övervaka databaser
 description: Läs om hur du övervakar databasanvändningen på dina instanser.
-feature: Övervaka databaser
+feature: Database Monitoring
 topics: Control Panel
 kt: 6433
 thumbnail: 327175.jpg

@@ -1,7 +1,7 @@
 ---
 title: Prediktiv optimering av sändningstid
 description: Förstå vilka arbetsflöden som krävs för att synkronisera data mellan Adobe Campaign och Journey AI-modellen. Lär dig hur du ser en tidspoäng för sändning på individuell profilnivå och hur du kör e-postleveranser med en tidsformel för sändning.
-feature: Tidsoptimering för sändning
+feature: Send Time Optimization
 topics: null
 kt: 6274
 thumbnail: 40469.jpg

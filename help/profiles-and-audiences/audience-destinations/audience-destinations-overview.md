@@ -1,7 +1,7 @@
 ---
 title: Målgrupper - översikt
 description: Lär dig utnyttja Adobe Experience Platform-målgrupper (AEP) i Adobe Campaign Standard (ACS)
-feature: Integrering av tjänsten People Core
+feature: People Core Service Integration
 topics: ACOP
 kt: 2755
 thumbnail: null

@@ -1,7 +1,7 @@
 ---
 title: Prediktiv poängsättning för engagemang
 description: Lär dig hur du ser poängsättning för engagemang på individuell profilnivå, använder poäng för att målinrikta engagerade användare och undertrycker trötta användare samt hur du skapar typologiregler för att hantera kundtrötthet.
-feature: Poängberäkning för prediktiv engagemang
+feature: Predictive Engagement Scoring
 topics: null
 kt: 6275
 thumbnail: 40470.jpg

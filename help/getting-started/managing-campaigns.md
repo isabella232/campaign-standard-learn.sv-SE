@@ -1,7 +1,7 @@
 ---
 title: Hantera kampanjer
 description: Lär dig hur du skapar och hanterar kampanjer.
-feature: 'Kampanjer '
+feature: Campaigns 
 topics: Getting Started
 kt: 1816
 thumbnail: 24672.jpg

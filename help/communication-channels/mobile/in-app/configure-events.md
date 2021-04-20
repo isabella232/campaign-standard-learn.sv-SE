@@ -1,7 +1,7 @@
 ---
 title: Konfigurera händelser
 description: '"Förstå hur händelser definierar vilken användarinitierad åtgärd som utlöser ett meddelande i appen som ska visas. "'
-feature: I appen
+feature: In App
 topics: Mobile
 kt: 2548
 thumbnail: 26245.jpg

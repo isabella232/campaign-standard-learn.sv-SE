@@ -2,7 +2,7 @@
 title: Förfrågningar om användarens information med Adobe Campaign Standard (ACS) – översikt
 description: Självstudiekursen beskriver hur du skapar förfrågningar om användarens information via Adobe Campaign Standard-gränssnittet (ACS).
 feature: GDPR, CCAP
-topic: Sekretess
+topic: Privacy
 kt: 1480
 doc-type: feature video
 activity: use

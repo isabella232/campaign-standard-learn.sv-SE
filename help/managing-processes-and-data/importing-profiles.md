@@ -1,7 +1,7 @@
 ---
 title: Importera profiler med ett arbetsflöde
 description: Lär dig hur du importerar profildata med hjälp av ett arbetsflöde.
-feature: Datahantering
+feature: Data Management
 topics: null
 kt: 1818
 thumbnail: 24993.jpg

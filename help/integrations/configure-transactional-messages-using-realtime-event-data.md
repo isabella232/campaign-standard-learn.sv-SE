@@ -1,7 +1,7 @@
 ---
 title: Konfigurera transaktionsmeddelanden med realtidshändelsedata
 description: 'Lär dig hur du konfigurerar transaktionsmeddelanden med realtidshändelsedata som kommer från utlösare. '
-feature: Utlösare
+feature: Triggers
 topics: Integrations
 kt: 7471
 thumbnail: 332602.jpg

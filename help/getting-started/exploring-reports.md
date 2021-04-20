@@ -1,7 +1,7 @@
 ---
 title: Utforska rapporter
 description: Förstå de olika rapporter som finns tillgängliga direkt vid leverans via e-post.
-feature: Rapportering
+feature: Reporting
 topics: Getting Started
 kt: 3906
 thumbnail: 23021.jpg

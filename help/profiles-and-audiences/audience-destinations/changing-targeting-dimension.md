@@ -1,7 +1,7 @@
 ---
 title: Ändra storleken på målinriktningen
 description: I den här videon förklaras hur du ändrar målinriktningsdimensionen för en leverans för en Platform Audience utanför den primära profiltabellen i Adobe Campaign Standard.
-feature: Integrering av tjänsten People Core
+feature: People Core Service Integration
 topics: ACOP
 kt: 3739
 thumbnail: 30151.jpg

@@ -1,7 +1,7 @@
 ---
 title: Komma igång med Email Designer
 description: Förstå de allmänna funktionerna i e-postdesignern och hur du utformar ett e-postmeddelande från grunden.
-feature: E-postdesign
+feature: Email Design
 topics: Content Creation
 kt: 2391
 thumbnail: 25912.jpg

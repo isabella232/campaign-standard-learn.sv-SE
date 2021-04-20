@@ -1,7 +1,7 @@
 ---
 title: Konfigurera mobilvyn i e-postdesignern
 description: '"Lär dig finjustera e-postens responsiva design genom att redigera alla stilalternativ separat för mobildisplayer."'
-feature: E-postdesign
+feature: Email Design
 topics: null
 kt: 2423
 thumbnail: 25919.jpg

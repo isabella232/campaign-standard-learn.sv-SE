@@ -1,7 +1,7 @@
 ---
 title: Skapa flerspråkig e-post eller SMS-leverans
 description: 'Lär dig hur ni kan förenkla de komplexa operationer som skickas med flerspråkiga kampanjer. '
-feature: E-post, SMS
+feature: Email, SMS
 topics: Mobile Channel, Email Channel
 kt: 1277
 thumbnail: 23252

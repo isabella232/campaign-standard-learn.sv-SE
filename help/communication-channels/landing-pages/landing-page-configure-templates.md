@@ -1,7 +1,7 @@
 ---
 title: Konfigurera en mall för landningssidor
 Description: This video explains how to configure Landing Page templates in Adobe Campaign Standard.
-feature: Landningssidor
+feature: Landing Pages
 topics: null
 kt: 1817
 thumbnail: 25200.jpg

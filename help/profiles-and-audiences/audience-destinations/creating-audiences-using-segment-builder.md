@@ -1,6 +1,6 @@
 ---
 title: Skapa en ny målgrupp med Unified Segment Builder
-feature: Integrering av tjänsten People Core
+feature: People Core Service Integration
 topics: ACOP
 kt: 2754
 thumbnail: 27638.jpg

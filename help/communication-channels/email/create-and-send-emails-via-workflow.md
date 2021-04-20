@@ -1,7 +1,7 @@
 ---
 title: Skapa och skicka e-postmeddelanden via ett arbetsflöde
 description: 'Lär dig hur du skapar en e-postleverans en gång från hemsidan. '
-feature: E-post
+feature: Email
 topics: null
 kt: 4319
 thumbnail: 31465.jpg

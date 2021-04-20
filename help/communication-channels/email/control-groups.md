@@ -1,7 +1,7 @@
 ---
 title: Lägga till en kontrollgrupp i en leverans
 description: Lär dig hur du definierar en kontrollgrupp för leveransen och hur du extraherar profilerna som har tilldelats kontrollgruppen när leveransen har skickats.
-feature: Kontrollgrupper
+feature: Control Groups
 topics: null
 kt: 5060
 thumbnail: 40684.jpg

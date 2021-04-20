@@ -1,7 +1,7 @@
 ---
 title: Hantera tjänster och prenumerationer
 description: Lär dig hur du skapar en tjänst och hanterar prenumerationer.
-feature: Prenumerationer
+feature: Subscriptions
 topics: null
 kt: 1815
 thumbnail: 24673.jpg

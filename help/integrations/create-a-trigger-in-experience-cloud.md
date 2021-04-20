@@ -1,7 +1,7 @@
 ---
 title: Skapa en utlösare i Experience Cloud
 description: Lär dig hur du konfigurerar utlösare i Experience Cloud.
-feature: Utlösare
+feature: Triggers
 topics: Integrations
 kt: 6524
 thumbnail: 332624.jpg

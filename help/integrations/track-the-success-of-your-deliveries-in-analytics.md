@@ -2,7 +2,7 @@
 title: Spåra framgångarna i Adobe Analytics
 description: Lär dig hur du konfigurerar integreringen mellan Campaign Standard och analys. Lär dig hur du skapar en rapport i Analytics med data som tagits emot från Campaign Standarden och vilka nyckeltal som är tillgängliga.
 product: adobe analytics, campaign
-feature: Programinställningar
+feature: Application Settings
 topics: Integrations
 role: Administrator
 level: Intermediate

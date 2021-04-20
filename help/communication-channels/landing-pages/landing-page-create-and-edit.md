@@ -1,7 +1,7 @@
 ---
 title: Skapa och redigera en landningssida
 description: '"Lär dig hur du skapar, redigerar och testar landningssidor i Adobe Campaign Standard."'
-feature: Landningssidor
+feature: Landing Pages
 topics: null
 kt: 1808
 thumbnail: 24093.jpg

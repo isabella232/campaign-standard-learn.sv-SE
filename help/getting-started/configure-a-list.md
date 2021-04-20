@@ -1,7 +1,7 @@
 ---
 title: Konfigurera en lista
 description: '"Lär dig hur du kan ändra de visade kolumnerna, ordningen och sorteringsordningen för en listvy i Adobe Campaign Standard.  "'
-feature: Översikt
+feature: Overview
 topics: null
 kt: 1821
 thumbnail: 25288.jpg

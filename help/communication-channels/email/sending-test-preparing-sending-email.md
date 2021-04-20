@@ -1,7 +1,7 @@
 ---
 title: Skicka ett test samt förbered och skicka ett e-postmeddelande
 description: '"Lär dig hur du skickar ett test-e-postmeddelande, förbereder och sedan skickar e-postmeddelandet. "'
-feature: 'E-post  '
+feature: Email  
 topics: null
 kt: 1812
 thumbnail: 24013.jpg

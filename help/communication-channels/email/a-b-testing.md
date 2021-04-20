@@ -1,7 +1,7 @@
 ---
 title: A/B-test
 description: '"Lär dig konfigurera och skicka ett A/B-test som testar ämnesraden. "'
-feature: 'A/B-tester  '
+feature: A/B Testing  
 topics: null
 kt: 3907
 thumbnail: 18480.jpg

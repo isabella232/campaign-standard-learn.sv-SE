@@ -1,7 +1,7 @@
 ---
 title: Testa och publicera en landningssida
 description: Lär dig hur du testar en landningssida som har byggts i Adobe Campaign Standard och hur du publicerar den.
-feature: Landningssidor
+feature: Landing Pages
 topics: null
 kt: 1813
 thumbnail: 24992.jpg

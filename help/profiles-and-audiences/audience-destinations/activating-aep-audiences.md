@@ -1,7 +1,7 @@
 ---
 title: Aktivera målgrupper i Adobe Experience Platform i ett arbetsflöde
 description: I den här videon förklaras hur du aktiverar Data Services Query Audience i ett arbetsflöde genom att använda aktiviteten Läs målgrupp.
-feature: Integrering av tjänsten People Core
+feature: People Core Service Integration
 topics: ACOP
 kt: 2760
 thumbnail: 27647.jpg

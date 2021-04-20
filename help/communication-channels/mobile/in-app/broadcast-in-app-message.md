@@ -1,7 +1,7 @@
 ---
 title: '"Skicka ett meddelande i appen "'
 description: Lär dig hur sändningsmallen gör att du kan rikta dig till alla användare i din mobilapp.
-feature: I appen
+feature: In App
 topics: Mobile
 kt: 2497
 thumbnail: 26199.jpg

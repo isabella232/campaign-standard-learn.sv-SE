@@ -1,7 +1,7 @@
 ---
 title: Extern signalaktivitet - Anropa ett arbetsflöde med parametrar
 description: '"Lär dig hur du startar ett arbetsflöde från ett annat för att stödja mer komplexa kundresor, samtidigt som du bättre kan övervaka och reagera på problem."'
-feature: Körningsaktivitet
+feature: Execution Activity
 topics: Workflows
 kt: 2750
 thumbnail: 27249

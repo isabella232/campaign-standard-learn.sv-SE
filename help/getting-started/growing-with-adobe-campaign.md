@@ -1,7 +1,7 @@
 ---
 title: Växa med Adobe Campaign
 description: Förstå de potentiella nästa stegen till äkta flerkanalsmarknadsföring.
-feature: Kanalövergripande orkestrering
+feature: Cross Channel Orchestration
 topics: null
 kt: 3973
 thumbnail: 29460.jpg

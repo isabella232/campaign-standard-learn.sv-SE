@@ -1,7 +1,7 @@
 ---
 title: Konvertera ett befintligt e-postmeddelande, en SMS-leverans eller en mall till flerspråkiga versioner
 description: '"Lär dig hur du konverterar befintlig e-post, SMS-leverans eller en leveransmall till flerspråkiga dokument."'
-feature: E-post, SMS
+feature: Email, SMS
 topics: Mobile
 kt: 1703
 thumbnail: 23251.jpg

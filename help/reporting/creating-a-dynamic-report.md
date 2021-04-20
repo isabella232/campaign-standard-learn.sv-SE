@@ -1,7 +1,7 @@
 ---
 title: Skapa en dynamisk rapport
 description: Lär dig hur du skapar en rapport.
-feature: Rapportering
+feature: Reporting
 kt: 2037
 thumbnail: 25264.jpg
 doc-type: feature video

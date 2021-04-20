@@ -1,7 +1,7 @@
 ---
 title: Skapa ett flerspråkigt push-meddelande
 description: 'Lär dig hur du skapar ett flerspråkigt push-meddelande. '
-feature: Tryck
+feature: Push
 topics: Mobile
 kt: 1375
 thumbnail: 23304.jpg

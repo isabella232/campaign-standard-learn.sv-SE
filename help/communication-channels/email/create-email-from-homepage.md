@@ -2,7 +2,7 @@
 title: Skapa en e-postleverans
 description: 'Lär dig hur du skapar en e-postleverans från hemsidan. '
 landing-page-description: I den här videon förklaras hur du skapar en e-postleverans från hemsidan.
-feature: E-post
+feature: Email
 topics: null
 kt: 1807
 thumbnail: 23721.jpg

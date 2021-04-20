@@ -1,7 +1,7 @@
 ---
 title: Skapa en rapport baserad på arbetsflödessegment
 description: Rapportering om arbetsflödessegment ger möjlighet att lägga till kod för arbetsflödessegment i dynamisk rapportering.
-feature: Rapportering
+feature: Reporting
 topics: Reporting
 kt: 3252
 thumbnail: 28262.jpg

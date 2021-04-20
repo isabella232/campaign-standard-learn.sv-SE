@@ -1,7 +1,7 @@
 ---
 title: Använda utlösare för transaktionsmeddelanden - översikt
 description: Lär dig hur du konfigurerar och använder utlösare för transaktionsmeddelanden.
-feature: Utlösare
+feature: Triggers
 topics: Integrations
 kt: 6525
 doc-type: article

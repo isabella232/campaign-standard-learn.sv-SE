@@ -1,7 +1,7 @@
 ---
 title: Granska en e-postleverans och -rapporter
 description: Lär dig hur du granskar en skräddarsydd mejlleverans och utforskar olika rapporter som finns i Adobe Campaign Standard.
-feature: Rapportering
+feature: Reporting
 topics: null
 kt: 3904
 thumbnail: 21389.jpg

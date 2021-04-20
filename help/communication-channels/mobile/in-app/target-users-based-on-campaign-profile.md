@@ -1,7 +1,7 @@
 ---
 title: Målinrikta användare baserat på deras profil i Campaign
 description: Lär dig att rikta sig till kända mobilappsanvändare med meddelanden som är anpassade med CRM-profilattribut.
-feature: I appen
+feature: In App
 topics: Channels
 kt: 1796
 thumbnail: 26200.jpg

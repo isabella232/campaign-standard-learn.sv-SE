@@ -1,7 +1,7 @@
 ---
 title: Konfigurera och köra ett arbetsflöde med aktiviteten Externt API
 description: Lär dig att anropa en extern REST API-slutpunkt för att hämta personaliseringsdata från ett tredjepartssystem till kampanjen.
-feature: Datahanteringsaktivitet
+feature: Data Management Activity
 topics: null
 kt: 2764
 thumbnail: 28200.jpg

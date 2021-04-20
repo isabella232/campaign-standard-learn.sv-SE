@@ -1,7 +1,7 @@
 ---
 title: Skapa ett push-meddelande
 description: 'Lär dig hur du skapar ett push-meddelande. '
-feature: Tryck
+feature: Push
 topics: Mobile
 kt: 1401
 thumbnail: 31499.jpg

@@ -1,7 +1,7 @@
 ---
 title: Skapa en utlösare i Campaign Standard
 description: Lär dig hur du skapar en utlösarhändelse i Campaign Standard.
-feature: Utlösare
+feature: Triggers
 topics: Integrations
 kt: 7470
 thumbnail: 332625.jpg

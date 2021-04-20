@@ -1,7 +1,7 @@
 ---
 title: Introduktion till meddelanden i appen
 description: '"Lär dig hur du kan ge användaren sammanhangsberoende meddelanden i appen som svar på en kunds realtidsbeteende i mobilappen."'
-feature: I appen
+feature: In App
 topics: Mobile
 kt: 1911
 doc-type: feature video

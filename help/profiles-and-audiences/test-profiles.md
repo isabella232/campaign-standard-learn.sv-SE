@@ -1,7 +1,7 @@
 ---
 title: Skapa en testprofil
 description: Lär dig att rikta in dig på mottagare som inte uppfyller de definierade målinriktningskriterierna för att upptäcka bedräglig användning av mottagardatabasen eller för att se till att e-postmeddelandena kommer fram i inkorgen.
-feature: Testprofiler
+feature: Test Profiles
 kt: 1810
 thumbnail: 24094.jpg
 doc-type: feature video

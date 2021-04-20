@@ -3,7 +3,7 @@ title: Skapa en leverans i appen inom ett arbetsflöde
 seo-title: Skapa N-leverans i appen i ett arbetsflöde
 description: '"Lär dig hur du använder leveransaktiviteten i appen för att automatiskt skicka ett meddelande i appen till en målgrupp som beräknas i ett arbetsflöde."'
 seo-description: Leveransaktiviteten i appen används vanligtvis för att automatisera sändning av ett meddelande i appen till en målgrupp som beräknas i samma arbetsflöde.
-feature: I appen
+feature: In App
 topics: Mobile
 kt: 2500
 thumbnail: 26226.jpg

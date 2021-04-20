@@ -1,7 +1,7 @@
 ---
 title: Introduktion till mallar för e-postinnehåll
 description: Lär dig hur du skapar en mall för e-postinnehåll.
-feature: E-postdesign
+feature: Email Design
 topics: null
 kt: 1442
 thumbnail: 23106.jpg

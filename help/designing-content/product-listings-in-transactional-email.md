@@ -1,7 +1,7 @@
 ---
 title: Konfigurera produktlistor i transaktionsmeddelanden
 description: Lär dig vilka steg som krävs för att konfigurera produktlistor i transaktionsmeddelanden.
-feature: Transactional Messaging, e-mail
+feature: Transactional Messaging, Emails
 topics: Content Creation
 kt: 1728
 thumbnail: 25915

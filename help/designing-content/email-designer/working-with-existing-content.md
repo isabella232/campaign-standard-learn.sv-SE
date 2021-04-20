@@ -1,7 +1,7 @@
 ---
 title: Arbeta med befintligt innehåll
 description: I den här videon förklaras hur du snabbt hämtar ditt kreativa innehåll från en webbplats och läser in det i e-postdesignern.
-feature: E-postdesign
+feature: Email Design
 topics: Content Creation
 kt: 6295
 thumbnail: 25926.jpg

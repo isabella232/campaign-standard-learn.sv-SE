@@ -1,7 +1,7 @@
 ---
 title: Skapa rapportbaserade anpassade profilattribut
 description: Lär dig hur du skapar en rapport baserad på anpassade profilattribut.
-feature: Rapportering
+feature: Reporting
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video

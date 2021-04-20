@@ -1,7 +1,7 @@
 ---
 title: Skapa profiler och målgrupper – översikt
 description: Lär dig navigera till befintliga profiler och hur du skapar profiler och målgrupper.
-feature: Profiler, målgrupper
+feature: Profiles, Audiences
 topics: null
 kt: 3899
 thumbnail: 18463.jpg

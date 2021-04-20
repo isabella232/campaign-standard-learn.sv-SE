@@ -1,7 +1,7 @@
 ---
 title: Skapa ett arbetsflöde
 description: Lär dig hur du skapar och redigerar ett arbetsflöde.
-feature: Arbetsflöden
+feature: Workflows
 topics: null
 kt: 1809
 thumbnail: 23937.jpg

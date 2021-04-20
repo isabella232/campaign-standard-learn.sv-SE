@@ -1,7 +1,7 @@
 ---
 title: Utforska hierarki och marknadsföringsaktiviteter
 description: '"Förstå hierarkin av program och kampanjer, hur man skapar ett marknadsföringsprogram och hur man skapar en marknadsföringskampanj inom ett program."'
-feature: Kampanjer, program
+feature: Campaigns, Programs
 topics: null
 kt: 3892
 thumbnail: 18465.jpg

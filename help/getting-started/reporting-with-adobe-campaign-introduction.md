@@ -1,7 +1,7 @@
 ---
 title: Introduktion till rapportering
 description: Förstå rapportfunktionerna i Adobe Campaign Standard
-feature: Rapportering
+feature: Reporting
 topics: null
 kt: 3974
 thumbnail: 29461.jpg

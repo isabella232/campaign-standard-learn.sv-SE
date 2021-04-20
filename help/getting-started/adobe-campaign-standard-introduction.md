@@ -1,7 +1,7 @@
 ---
 title: Introduktion till Adobe Campaign Standard
 description: I den här videon får du en introduktion till Adobe Campaign Standard på avancerad nivå.
-feature: Översikt
+feature: Overview
 topics: null
 kt: 3971
 thumbnail: 29430.jpg

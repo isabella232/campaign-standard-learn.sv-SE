@@ -1,7 +1,7 @@
 ---
 title: Delegera underdomäner med CNAME
 description: Läs om hur du fullständigt delegerar en underdomän till Adobe Campaign.
-feature: Delegera underdomäner
+feature: Subdomain Delegation
 topics: Control Panel
 kt: 6014
 thumbnail: 326612.jpg

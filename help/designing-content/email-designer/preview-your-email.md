@@ -1,7 +1,7 @@
 ---
 title: Förhandsgranska analyser av e-postmeddelanden och skräppost
 description: '"Lär dig hur du förhandsgranskar din e-post och skräppostanalysen."'
-feature: E-postdesign
+feature: Email Design
 topics: null
 kt: 2393
 thumbnail: 25921.jpg

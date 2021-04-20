@@ -1,7 +1,7 @@
 ---
 title: Skapa ett direktmeddelande
 description: Lär dig hur du skapar direktreklam.
-feature: Direktreklam
+feature: Direct Mail
 topics: null
 kt: 1430
 thumbnail: 23417.jpg
