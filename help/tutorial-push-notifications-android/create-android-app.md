@@ -1,20 +1,19 @@
 ---
 title: Steg 1 - Skapa Android-app och konfigurera för att använda Firebase Cloud Messaging
 description: I den här delen skapar vi [!DNL Android] App to receive [!UICONTROL Push notifications] skickade från Adobe Campaign Standard. Appen måste vara registrerad med Googles [!DNL Firebase Cloud Service] för att kunna ta emot push-meddelanden.
-feature: Push
-topics: Mobile
+feature: Tryck
 kt: 4825
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: f087d9f2-cce9-4903-977f-3c5b47522c06
 translation-type: tm+mt
-source-git-commit: cdd78e97f2769503d3d4f26933ccc7f35e9b20b9
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 2%
+source-wordcount: '317'
+ht-degree: 3%
 
 ---
-
 
 # Steg 1 - Skapa [!DNL Android]-appen och konfigurera för att använda [!DNL Firebase Cloud Messaging]
 
