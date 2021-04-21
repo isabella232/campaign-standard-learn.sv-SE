@@ -1,21 +1,20 @@
 ---
 title: Hantera Google TXT-poster
 description: Du kan lägga till Google TXT-poster för webbplatsverifiering i alla underdomäner som används för att skicka e-postmeddelanden till GMAIL-adresser via kontrollpanelen i Campaign.
-feature: Google TXT record management
-topics: Control Panel
+feature: 'Kontrollpanelen  '
 audience: administrator
 kt: 4744
 doc-type: feature video
 activity: use
 team: PM
+exl-id: 51f3d728-d547-41c8-bf53-bca49d5427fe
 translation-type: tm+mt
-source-git-commit: 05550c50713e65793309e51355a8e31683f81e0b
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '122'
 ht-degree: 100%
 
 ---
-
 
 # Hantera [!DNL Google] TXT-poster
 
