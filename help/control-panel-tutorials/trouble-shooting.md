@@ -1,20 +1,19 @@
 ---
 title: Felsöka kontrollpanelen
 description: Med kontrollpanelen kan du övervaka och hantera SFTP-lagringen per instans och tillåtslista IP-adresser.
-feature: Control Panel
-topics: null
+feature: 'Kontrollpanelen  '
 kt: 2938
 doc-type: article
 activity: use
 team: PM
+exl-id: f546f791-a69b-4586-abfa-3e626b8feb17
 translation-type: tm+mt
-source-git-commit: f120eaf237378db3ddd5833930c0222ee028941d
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '327'
+source-wordcount: '329'
 ht-degree: 100%
 
 ---
-
 
 # Felsöka [!UICONTROL Control Panel]
 
@@ -71,4 +70,3 @@ För anslutning till SFTP-servrar krävs:
 ### Användbar dokumentation {#helpful-docs}
 
 * [Logga in på SFTP-servern](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html#LoggingintoyourSFTPserver)
-
