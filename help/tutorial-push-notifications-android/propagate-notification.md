@@ -1,17 +1,17 @@
 ---
 title: Steg 5 – sprida meddelanden
 description: I den här delen kommer vi att sprida meddelandet som vi fått från Adobe Campaign med Android Notification Manager.Firebase
-feature: Push
-topics: Mobile
+feature: Tryck
 kt: 4829
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 1%
+source-wordcount: '155'
+ht-degree: 2%
 
 ---
 
