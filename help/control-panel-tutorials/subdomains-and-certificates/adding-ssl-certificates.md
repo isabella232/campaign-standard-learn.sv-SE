@@ -1,22 +1,21 @@
 ---
 title: Lägga till SSL-certifikat
 description: Med kontrollpanelen i Adobe Campaign kan du lägga till SSL-certifikat för att skydda underdomänerna.
-feature: Control Panel
-topics: null
+feature: 'Kontrollpanelen  '
 audience: administrator
 kt: 4219
 thumbnail: 31317.jpg
 doc-type: feature video
 activity: use
 team: PM
+exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
 translation-type: tm+mt
-source-git-commit: 98b300b507f4e315e7904f82b004cdc1302b445f
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '194'
-ht-degree: 52%
+source-wordcount: '196'
+ht-degree: 55%
 
 ---
-
 
 # Lägga till SSL-certifikat
 
@@ -61,5 +60,5 @@ I videon nedan förklaras hur du installerar SSL-certifikat i [!UICONTROL Contro
 
 ## Ytterligare resurser
 
-* [Full underdomänsdelegering (video)](./subdomain-delegation.md)
+* [Fullständig underdomändelegering (beta)](./subdomain-delegation.md)
 * [Underdomäner och certifikat – dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
