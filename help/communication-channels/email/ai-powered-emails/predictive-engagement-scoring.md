@@ -1,8 +1,7 @@
 ---
 title: Prediktiv poängsättning för engagemang
 description: Lär dig hur du ser poängsättning för engagemang på individuell profilnivå, använder poäng för att målinrikta engagerade användare och undertrycker trötta användare samt hur du skapar typologiregler för att hantera kundtrötthet.
-feature: Predictive Engagement Scoring
-topics: null
+feature: Poängberäkning för prediktiv engagemang
 kt: 6275
 thumbnail: 40470.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: Business Practitoner, Developer, Administrator
 level: Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '218'
 ht-degree: 98%
