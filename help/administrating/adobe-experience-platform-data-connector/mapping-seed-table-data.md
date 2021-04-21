@@ -2,20 +2,19 @@
 title: Kartlägga data i frötabeller
 description: Lär dig att mappa dina dirigerade data och testa profiler med Adobe Experience Platform (AEP)
 feature: Adobe Experience Platform Data Connector
-topics: ACoP
 kt: 2900
 thumbnail: 27264.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: a6b8ec23-01a2-4333-9918-9ea13aac4068
 translation-type: tm+mt
-source-git-commit: 11263e247184ddc6a8e3df6a8ed0899907fbb366
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 15%
+source-wordcount: '97'
+ht-degree: 19%
 
 ---
-
 
 # Kartlägga data i frötabeller
 
@@ -33,4 +32,3 @@ Lär dig hur du mappar startdata och testprofiler med Adobe Experience Platform.
 
 * [Mappningsdefinition](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-definition.html)
 * [Aktivera mappning](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/mapping-campaign-and-aep-data/aep-mapping-activation.html)
-
