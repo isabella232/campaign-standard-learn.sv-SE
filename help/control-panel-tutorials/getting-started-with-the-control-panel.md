@@ -1,22 +1,21 @@
 ---
 title: Komma igång med kontrollpanelen
 description: I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
-feature: Control Panel
-topics: Control Panel
+feature: 'Kontrollpanelen  '
 audience: administrator
 kt: 6385
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
+exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
 translation-type: tm+mt
-source-git-commit: fcb815eba6f704ae948d98acc0c3fbf9ef778264
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '215'
+source-wordcount: '217'
 ht-degree: 65%
 
 ---
-
 
 # Komma igång med [!UICONTROL Control Panel] {#control-panel}
 
@@ -61,4 +60,3 @@ I följande video förklaras hur du lägger till en administratör i en instans 
 ## Ytterligare resurser
 
 * [Hjälpcenter för kontrollpanelen](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html)
-
