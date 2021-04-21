@@ -1,8 +1,7 @@
 ---
 title: Profilersättning – testa e-postmeddelanden med målinriktade profiler
 description: Lär dig hur du kan testa dina e-postmeddelanden med hjälp av funktionen för profilösersättning.
-feature: Email  
-topics: Channels
+feature: 'E-post  '
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -12,7 +11,7 @@ exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: Business Practitioner
 level: Intermediate, Experienced
 translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
 source-wordcount: '177'
 ht-degree: 92%
