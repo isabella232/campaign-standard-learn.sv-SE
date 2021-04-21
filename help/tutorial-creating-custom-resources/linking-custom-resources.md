@@ -1,21 +1,20 @@
 ---
 title: Länka anpassade resurser
 description: Lär dig länka två anpassade resurser.
-feature: custom resources
-topics: null
+feature: anpassade resurser
 kt: 3002
 thumbnail: 27712.jpg
 doc-type: feature video
 activity: use
 team: TM
+exl-id: 32100e9e-a38e-40bd-b2ee-5816b496f118
 translation-type: tm+mt
-source-git-commit: 763c7f51e28d025438f873314cc4fd60b96648ca
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '27'
+source-wordcount: '29'
 ht-degree: 0%
 
 ---
-
 
 # Länka anpassade resurser
 
