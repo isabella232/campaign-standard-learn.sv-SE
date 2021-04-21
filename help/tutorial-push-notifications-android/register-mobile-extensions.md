@@ -1,22 +1,21 @@
 ---
-title: Steg 3 - Registrera tillägg i din mobilapp
+title: Steg 3 – registrera tillägg i din mobilapp
 description: I den här delen ska vi lägga till koden för att registrera tilläggen UserProfile, Identity, Lifecycle och Signal.
-feature: Push
-topics: Mobile
+feature: Tryck
 kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
+exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
 translation-type: tm+mt
-source-git-commit: 13b4f1d395dfe53f9fc5263e7b06be700e30b986
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '122'
-ht-degree: 0%
+source-wordcount: '123'
+ht-degree: 12%
 
 ---
 
-
-# Steg 3 - Registrera tillägg i din mobilapp
+# Steg 3 – registrera tillägg i din mobilapp
 
 I den här delen ska vi lägga till koden för att registrera tilläggen Användarprofil, Identitet, Livscykel och Signal. Dessa tillägg ingår i [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Vi måste också registrera Adobe Campaign Standard-tillägget enligt koden nedan.
 
