@@ -1,22 +1,21 @@
 ---
 title: Generera en SSH-nyckel
 description: Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen.
-feature: Control Panel
-topics: null
+feature: 'Kontrollpanelen  '
 kt: 2923
 thumbnail: 27259.jpg
 doc-type: feature video
 audience: administrator
 activity: use
 team: PM
+exl-id: e0b4804c-d0ea-4f4b-a6fd-f9363b264111
 translation-type: tm+mt
-source-git-commit: 0e18e57b68ab324af15cb2ec14f3e2f35f972be2
+source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '110'
-ht-degree: 35%
+source-wordcount: '112'
+ht-degree: 36%
 
 ---
-
 
 # Generera en SSH-nyckel
 
