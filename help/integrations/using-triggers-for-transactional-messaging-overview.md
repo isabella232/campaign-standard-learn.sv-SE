@@ -10,7 +10,7 @@ level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
 translation-type: tm+mt
-source-git-commit: ddbb0843ea45a83d9ab5bfa0877287f6ba7d6210
+source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
 workflow-type: tm+mt
 source-wordcount: '105'
 ht-degree: 1%
@@ -23,7 +23,7 @@ I följande självstudier får du lära dig hur du konfigurerar och använder ut
 
 Innan du kan använda en utlösare i ett transaktionsmeddelande måste du:
 
-1. Konfigurera Launch för utlösare
+1. [Konfigurera Launch för utlösare](/help/integrations/configure-launch-for-triggers.md)
 2. [Skapa en utlösare i Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
 3. [Skapa en utlösarhändelse i Campaign Standard](/help/integrations/create-a-trigger-event.md)
 
