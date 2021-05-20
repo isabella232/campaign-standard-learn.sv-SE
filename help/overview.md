@@ -3,14 +3,13 @@ title: Självstudiekurser om Adobe Campaign Standard – översikt
 description: Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och levererar en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 products: SG_CAMPAIGN/STANDARD
 exl-id: b97710d1-3e93-41f6-a51e-9bf4c519fec3
-feature: Overview
+feature: Översikt
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: tm+mt
 source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '297'
-ht-degree: 82%
+ht-degree: 100%
 
 ---
 
@@ -20,13 +19,13 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* **[Spåra framgångarna i Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
+* **[Spåra hur framgångsrika din leveranser är med Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)**
 
-   *Lär dig hur du konfigurerar integreringen mellan Campaign Standard och analys. Lär dig hur du skapar en rapport i Analytics med data som tagits emot från Campaign Standarden och vilka nyckeltal som är tillgängliga.*
+   *Läs om hur du konfigurerar integreringen mellan Campaign Standard och Analytics. Förstå hur du skapar en rapport i Analytics med data som tagits emot från Campaign Standard och vilka nyckeltal som är tillgängliga.*
 
 * **[Använda utlösare för transaktionsmeddelanden](/help/integrations/using-triggers-for-transactional-messaging-overview.md)**
 
-   *Lär dig hur du konfigurerar och använder utlösare för transaktionsmeddelanden.*
+   *Läs om hur du konfigurerar och använder utlösare för transaktionsmeddelanden.*
 
 ## Personalens val
 
@@ -63,7 +62,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
       <img alt="Självstudiekurs: komma igång med push-meddelanden för Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://docs.adobe.com/content/help/en/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
+      <a href="https://docs.adobe.com/content/help/sv-SE/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html">
     <strong>Självstudiekurs: komma igång med push-meddelanden för Android</strong>
     </a>
     </div>
