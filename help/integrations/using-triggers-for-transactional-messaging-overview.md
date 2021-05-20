@@ -1,6 +1,6 @@
 ---
-title: Använda utlösare för transaktionsmeddelanden - översikt
-description: Lär dig hur du konfigurerar och använder utlösare för transaktionsmeddelanden.
+title: Använda utlösare för transaktionsmeddelanden – översikt
+description: Läs om hur du konfigurerar och använder utlösare för transaktionsmeddelanden.
 feature: Utlösare
 topic: Integreringar
 kt: 6525
@@ -9,15 +9,14 @@ role: Administrator
 level: Experienced
 team: TM
 exl-id: 9bc5e4e6-c943-40ca-9d99-a3fa802775f4
-translation-type: tm+mt
 source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '105'
-ht-degree: 1%
+ht-degree: 100%
 
 ---
 
-# Använda utlösare för transaktionsmeddelanden - översikt
+# Använda utlösare för transaktionsmeddelanden – översikt
 
 I följande självstudier får du lära dig hur du konfigurerar och använder utlösare för transaktionsmeddelanden.
 
@@ -31,4 +30,4 @@ När utlösaren har konfigurerats kan du [konfigurera transaktionsmeddelanden me
 
 ## Ytterligare resurser
 
-* [Om Adobe Experience Cloud Trigger](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=en#integrating-with-adobe-cloud)
+* [Om utlösare i Adobe Experience Cloud](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/working-with-campaign-and-triggers/about-adobe-experience-cloud-triggers.html?lang=sv#integrating-with-adobe-cloud)
