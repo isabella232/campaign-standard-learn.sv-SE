@@ -8,11 +8,10 @@ tutorials-title: Självstudiekurser
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=sv
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv
-translation-type: tm+mt
 source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '549'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -42,7 +41,7 @@ ht-degree: 93%
       + [Översikt](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
       + [Skapa en ny målgrupp med Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Aktivera målgrupper i Adobe Experience Platform i ett arbetsflöde](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-      + [Ändra storleken på målinriktningen](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+      + [Ändra målet för målinriktningen](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Kommunikationskanaler {#communication-channels}
    + E-post {#email}
       + [Skapa ett e-postmeddelande](/help/communication-channels/email/create-email-from-homepage.md)
@@ -73,7 +72,7 @@ ht-degree: 93%
          + [Skapa en leverans i appen inom ett arbetsflöde](/help/communication-channels/mobile/in-app/in-app-activity.md)
          + [Rapportera om leveransen i appen](/help/communication-channels/mobile/in-app/in-app-reporting.md)
       + [Konfigurera en mobil applikation med SDK i Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md)
-   + [Direktutskick](/help/communication-channels/direct-mail/directmail.md)
+   + [Direktmeddelande](/help/communication-channels/direct-mail/directmail.md)
    + Landningssidor {#landing-pages}
       + [Skapa och redigera en landningssida](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Testa och publicera en landningssida](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
@@ -100,7 +99,7 @@ ht-degree: 93%
    + [Skapa en rapport baserad på anpassade profilattribut](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Skapa en rapport baserad på arbetsflödessegment](/help/reporting/report-on-workflow-segments.md)
 + Integrera med andra lösningar {#integrations}
-   + [Spåra framgångarna i Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
+   + [Spåra hur framgångsrika dina leveranser är i Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Använda utlösare för transaktionsmeddelanden {#triggers}
       + [Översikt](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Konfigurera Launch för utlösare](/help/integrations/configure-launch-for-triggers.md)
@@ -111,19 +110,19 @@ ht-degree: 93%
    + [Hantera användares åtkomsträttigheter](/help/administrating/managing-user-access-rights.md)
    + [Skapa anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=sv)
    + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=sv)
-   + Adobe Experience Platform Data Connector {adobe-experience-platform-data-connector}
-      + [Förstå Adobe Experience Platform Data Connector](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
+   + Datakoppling till Adobe Experience Platform {adobe-experience-platform-data-connector}
+      + [Förstå datakoppling till Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Kartlägga anpassade resurser](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Kartlägga upplevelsehändelser](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
       + [Kartlägga data i frötabeller](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Modifiera kartläggningen av data](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Kontrollera status för datainsamlingsjobb](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Kontrollera statusen för datainsamlingsjobb](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologiregler{#typology-rules}
       + Trötthetshantering{#fatigue-management}
          + [Skapa trötthetsregler](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Integritet {#privacy}
    + [Översikt](/help/privacy/privacy-overview.md)
-   + [Skapa namnrymder för förfrågningar om användaruppgifter](/help/privacy/namespaces-for-privacy-requests.md)
-   + [Modifiera anpassade resurser för förfrågningar om användaruppgifter](/help/privacy/custom-resources-for-privacy-requests.md)
-   + [Skapa och spåra förfrågningar om användaruppgifter manuellt](/help/privacy/create-and-track-privacy-requests.md)
-   + [Utföra förfrågningar om användaruppgifter](/help/privacy/execute-privacy-requests.md)
+   + [Skapa namnrymder för förfrågningar om användarens information](/help/privacy/namespaces-for-privacy-requests.md)
+   + [Modifiera anpassade resurser för förfrågningar om användarens information](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [Skapa och spåra förfrågningar om användarens information manuellt](/help/privacy/create-and-track-privacy-requests.md)
+   + [Utföra förfrågningar om användarens information](/help/privacy/execute-privacy-requests.md)
