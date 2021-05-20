@@ -1,7 +1,7 @@
 ---
 title: Utforska hierarki och marknadsföringsaktiviteter
-description: '"Förstå hierarkin av program och kampanjer, hur man skapar ett marknadsföringsprogram och hur man skapar en marknadsföringskampanj inom ett program."'
-feature: Kampanjer, program
+description: ”Förstå hierarkin hos program och kampanjer, hur du skapar ett marknadsföringsprogram och hur du skapar en marknadsföringskampanj inom ett program.”
+feature: Kampanjer och program
 kt: 3892
 thumbnail: 18465.jpg
 doc-type: feature video
@@ -10,11 +10,10 @@ team: WWFRE
 exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: Business Practitioner
 level: Beginner
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '73'
-ht-degree: 65%
+ht-degree: 100%
 
 ---
 
