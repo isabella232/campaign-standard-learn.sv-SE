@@ -3,11 +3,10 @@ user-guide-title: Självstudiekurser om Kontrollpanelen i Adobe Campaign
 user-guide-description: Läs om hur du övervakar nyckelresurser för dina Adobe Campaign-instanser och utför administrativa uppgifter på Kontrollpanelen.
 breadcrumb-title: Självstudiekurser om kontrollpanelen
 index: true
-translation-type: tm+mt
 source-git-commit: 0125d22122128037759c65f94e5e90ab4740173f
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '114'
+ht-degree: 100%
 
 ---
 
