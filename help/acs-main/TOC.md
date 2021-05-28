@@ -8,10 +8,10 @@ tutorials-title: Självstudiekurser
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=sv
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv
-source-git-commit: af394b33cac0952beea2b3b6aefcfee3934a9a1c
+source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
 workflow-type: tm+mt
 source-wordcount: '558'
-ht-degree: 98%
+ht-degree: 94%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 98%
       + [Skapa och redigera en landningssida](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Testa och publicera en landningssida](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Konfigurera en mall för landningssidor](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ Utforma och personalisera innehåll {#designing-content}
++ Designa och personalisera innehåll {#designing-content}
    + Email Designer{#email-designer}
       + [Översikt](/help/designing-content/email-designer/email-designer-overview.md)
       + [Komma igång med Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
@@ -87,20 +87,20 @@ ht-degree: 98%
       + [Arbeta med befintligt innehåll](/help/designing-content/email-designer/working-with-existing-content.md)
       + [Skapa innehåll med Adobe Dreamweaver](/help/designing-content/email-designer/dreamweaver-integration.md)
    + [Konfigurera produktlistor i transaktionsmeddelanden](/help/designing-content/product-listings-in-transactional-email.md)
-+ Hantera processer och data {#managing-processes-and-data}
++ Process- och datahantering {#managing-processes-and-data}
    + [Skapa ett arbetsflöde](/help/managing-processes-and-data/creating-a-workflow.md)
    + Körningsaktiviteter {#execution-activities}
       + [Extern signalaktivitet](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Datahanteringsaktiviteter {#data-management-activities}
       + [Aktiviteten Externt API](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Rapportering {#reporting}
++ Rapport {#reporting}
    + [Utforska rapporter](/help/getting-started/exploring-reports.md)
    + [Skapa en dynamisk rapport](/help/reporting/creating-a-dynamic-report.md)
    + [Skapa en rapport baserad på anpassade profilattribut](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Skapa en rapport baserad på arbetsflödessegment](/help/reporting/report-on-workflow-segments.md)
 + Integrera med andra lösningar {#integrations}
    + [Spåra hur framgångsrika dina leveranser är i Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Använda utlösare för transaktionsmeddelanden {#triggers}
+   + Använd utlösare för transaktionsmeddelanden {#triggers}
       + [Översikt](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Konfigurera Launch för utlösare](/help/integrations/configure-launch-for-triggers.md)
       + [Skapa en utlösare i Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
