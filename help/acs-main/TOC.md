@@ -8,10 +8,10 @@ tutorials-title: Självstudiekurser
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=sv
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv
-source-git-commit: 433357e28b44e96ddb443f6359d12a6a106a3246
-workflow-type: ht
-source-wordcount: '549'
-ht-degree: 100%
+source-git-commit: af394b33cac0952beea2b3b6aefcfee3934a9a1c
+workflow-type: tm+mt
+source-wordcount: '558'
+ht-degree: 98%
 
 ---
 
@@ -106,6 +106,7 @@ ht-degree: 100%
       + [Skapa en utlösare i Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Skapa en utlösarhändelse i Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Konfigurera transaktionsmeddelanden med realtidshändelsedata](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+   + [Konfigurera Microsoft® Dynamics 365 för integrering med Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administrera {#administrating}
    + [Hantera användares åtkomsträttigheter](/help/administrating/managing-user-access-rights.md)
    + [Skapa anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=sv)
