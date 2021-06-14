@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv
 source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '558'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 94%
 # Självstudiekurser om Adobe Campaign Standard {#tutorials}
 
 + [Översikt](/help/overview.md)
-+ Komma igång {#getting-started}
++ Kom igång {#getting-started}
    + [Introduktion till Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Komma igång med användargränssnittet](/help/getting-started/getting-started-with-the-ui.md)
    + [Konfigurera en lista](/help/getting-started/configure-a-list.md)
@@ -77,8 +77,8 @@ ht-degree: 94%
       + [Skapa och redigera en landningssida](/help/communication-channels/landing-pages/landing-page-create-and-edit.md)
       + [Testa och publicera en landningssida](/help/communication-channels/landing-pages/landing-page-test-and-publish.md)
       + [Konfigurera en mall för landningssidor](/help/communication-channels/landing-pages/landing-page-configure-templates.md)
-+ Designa och personalisera innehåll {#designing-content}
-   + Email Designer{#email-designer}
++ Designa och anpassa innehåll {#designing-content}
+   + E-post-designer{#email-designer}
       + [Översikt](/help/designing-content/email-designer/email-designer-overview.md)
       + [Komma igång med Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introduktion till mallar för e-postinnehåll](/help/designing-content/email-designer/email-content-templates.md)
@@ -93,14 +93,14 @@ ht-degree: 94%
       + [Extern signalaktivitet](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Datahanteringsaktiviteter {#data-management-activities}
       + [Aktiviteten Externt API](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Rapport {#reporting}
++ Rapportera {#reporting}
    + [Utforska rapporter](/help/getting-started/exploring-reports.md)
    + [Skapa en dynamisk rapport](/help/reporting/creating-a-dynamic-report.md)
    + [Skapa en rapport baserad på anpassade profilattribut](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Skapa en rapport baserad på arbetsflödessegment](/help/reporting/report-on-workflow-segments.md)
-+ Integrera med andra lösningar {#integrations}
++ Integrera med andra lösningar{#integrations}
    + [Spåra hur framgångsrika dina leveranser är i Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
-   + Använd utlösare för transaktionsmeddelanden {#triggers}
+   + Använd aviseringar för transaktionsmeddelanden {#triggers}
       + [Översikt](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
       + [Konfigurera Launch för utlösare](/help/integrations/configure-launch-for-triggers.md)
       + [Skapa en utlösare i Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
