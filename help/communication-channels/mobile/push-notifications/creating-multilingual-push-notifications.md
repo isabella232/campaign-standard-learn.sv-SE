@@ -1,17 +1,16 @@
 ---
 title: Skapa ett flerspråkigt push-meddelande
 description: 'Lär dig hur du skapar ett flerspråkigt push-meddelande. '
-feature: Tryck
+feature: Push
 kt: 1375
 thumbnail: 23304.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: d2d50689-9153-4074-a046-0701bb6017cf
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '66'
 ht-degree: 37%
