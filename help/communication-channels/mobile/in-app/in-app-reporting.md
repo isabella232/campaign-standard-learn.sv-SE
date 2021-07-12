@@ -8,17 +8,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
-role: Business Practitioner, Developer
+role: User, Developer
 level: Beginner, Intermediate
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 10%
 
 ---
 
-# Rapport om din [!UICONTROL In-App]-leverans {#in-app-message-reporting}
+# Rapportera om din [!UICONTROL In-App]-leverans {#in-app-message-reporting}
 
 Du kan granska dina [!UICONTROL In-App] leveransrelaterade data antingen i leveranssammanfattningen genom att lägga till [!UICONTROL In-App] specifika mått. Du kan också använda den färdiga [rapporten i appen](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/list-of-reports/in-app-report.html).
 
