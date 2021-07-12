@@ -1,20 +1,19 @@
 ---
 title: 'Skapa en profil '
 description: Lär dig hur du skapar en profil och hur du lägger till den till en publik.
-feature: Profiles, Audiences
+feature: Profiler och målgrupper
 kt: 1820
 thumbnail: 25277.jpg
 doc-type: feature video
 activity: use
 team: DOC
 exl-id: a2a816e2-9e6d-4f67-9d4e-c6413eaa81f4
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: 5d2bc8bd3a3a0fdb5e2f1ef75af2ab60b8f6abc8
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 7%
+ht-degree: 13%
 
 ---
 
