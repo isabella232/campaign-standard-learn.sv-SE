@@ -8,10 +8,9 @@ doc-type: tutorial
 activity: understand
 team: WWFRE
 exl-id: 629ba991-4e5c-419f-a32c-c632445afaf1
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '81'
 ht-degree: 33%
@@ -27,6 +26,6 @@ I den här videon förklaras hur du granskar en anpassad e-postleverans och unde
 ## Ytterligare resurser
 
 * [Skapa ett e-postmeddelande från hemsidan](/help/communication-channels/email/create-email-from-homepage.md)
-* [Skicka ett test, förbereda och skicka en e-post](/help/communication-channels/email/sending-test-preparing-sending-email.md)-
+* [Skicka ett test, förbereda och skicka en e-post-](/help/communication-channels/email/sending-test-preparing-sending-email.md)
 * [Skapa en dynamisk rapport](/help/reporting/creating-a-dynamic-report.md)
 * [Skapa en dynamisk rapport med anpassade profilattribut](/help/reporting/custom-profile-attributes-dynamic-reports.md)
