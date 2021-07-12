@@ -1,17 +1,16 @@
 ---
 title: Skapa rapportbaserade anpassade profilattribut
 description: Lär dig hur du skapar en rapport baserad på anpassade profilattribut.
-feature: Reporting
+feature: Rapportering
 kt: 1444
 thumbnail: 28204.jpg
 doc-type: feature video
 activity: use
 team: DOC
 exl-id: 28889ce5-7f25-41f4-8ecd-47c77b0e3c00
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: 07c2696cbdc72e24563c5d1442bf5c39b22d5a22
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 14%
