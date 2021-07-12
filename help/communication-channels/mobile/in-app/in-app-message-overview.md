@@ -7,23 +7,22 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
-role: Business Practitioner
+role: User
 level: Beginner
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
 source-wordcount: '747'
 ht-degree: 21%
 
 ---
 
-# Introduktion till [!UICONTROL In-App] meddelanden {#introduction}
+# Introduktion till [!UICONTROL In-App]-meddelanden {#introduction}
 
 Med kanalen [!UICONTROL In-App Messaging] kan du visa ett meddelande när användaren är aktiv i mobilprogrammet. Den här kanalen kräver att mobilprogram integreras med [!UICONTROL Adobe Experience Platform SDK].
 
 I den här självstudiekursen beskrivs de steg som krävs för att ställa in mobila egenskaper, [!UICONTROL Launch]-tillägget för [!UICONTROL In-App Messaging]-kanalen samt hur du förbereder, anpassar och skickar [!UICONTROL In-App]-meddelanden i Adobe Campaign Standard. Länkarna leder dig till videokurserna om de markerade ämnena.
 
-## Förutsättningar {#prerequisites}
+## Förhandskrav {#prerequisites}
 
 1. Kontrollera att du har åtkomst till **[!UICONTROL In-App]**-kanalen. Om du inte har tillgång till de här kanalerna kontaktar du kontoteamet.
 1. Kontrollera att din **användare** har de nödvändiga **behörigheterna** i Adobe Campaign Standard och [!UICONTROL Launch].
@@ -40,13 +39,13 @@ I den här självstudiekursen beskrivs de steg som krävs för att ställa in mo
 
 Mer information om tillägg finns i [Konfigurera Campaign Standard-tillägget i Adobe Launch](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-campaign-standard) i [!UICONTROL Adobe Launch ]dokumentationen.
 
-## Steg för att konfigurera [!UICONTROL In-App] meddelanden {#steps-to-set-up}
+## Steg för att konfigurera [!UICONTROL In-App]-meddelanden {#steps-to-set-up}
 
 1. [Konfigurera en mobil applikation med SDK i Adobe Experience Platform](/help/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.md).
 
 1. [Konfigurera händelser](/help/communication-channels/mobile/in-app/configure-events.md).
 
-## Skapa, hantera och publicera [!UICONTROL In-App] leveranser {#create-manage-publish}
+## Skapa, hantera och publicera [!UICONTROL In-App]-leveranser {#create-manage-publish}
 
 Du kan antingen skapa engångsleveranser i appen genom att klicka på **[!UICONTROL Create an In-App Message]**-kortet från startsidan, från [!UICONTROL Marketing Activities] eller [Skapa en leverans i appen i ett arbetsflöde](/help/communication-channels/mobile/in-app/in-app-activity.md).
 
@@ -66,7 +65,7 @@ När du ställer in leveransen har du tre alternativ för att rikta in dig till 
 
 Den här mallen är användbar för att stödja flerkanalsanvändning, där du redan har riktat in användare på andra kanaler som e-post eller push och baserat på deras svar, vill du engagera dem med ett meddelande i appen.
 
-## Rapportera om dina leveranser i appen {#report}
+## Rapportera om leveranser i appen {#report}
 
 När leveransen har publicerats kan du [rapportera leveransen i appen](/help/communication-channels/mobile/in-app/in-app-reporting.md).
 
