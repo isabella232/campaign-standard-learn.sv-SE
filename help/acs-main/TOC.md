@@ -8,9 +8,9 @@ tutorials-title: Självstudiekurser
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=sv
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv
-source-git-commit: df4f635fc2760edc7c10a97da554a0d7704747c1
-workflow-type: ht
-source-wordcount: '558'
+source-git-commit: 0dd34fe4027d2c7512a7fc6ec7258cf7a41efa65
+workflow-type: tm+mt
+source-wordcount: '557'
 ht-degree: 100%
 
 ---
@@ -111,7 +111,7 @@ ht-degree: 100%
    + [Hantera användares åtkomsträttigheter](/help/administrating/managing-user-access-rights.md)
    + [Skapa anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=sv)
    + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=sv)
-   + Datakoppling till Adobe Experience Platform {adobe-experience-platform-data-connector}
+   + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Förstå datakoppling till Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Kartlägga anpassade resurser](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
       + [Kartlägga upplevelsehändelser](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
