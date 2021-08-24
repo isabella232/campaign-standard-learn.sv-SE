@@ -1,5 +1,5 @@
 ---
-title: Kryptera data med en GPG-nyckel
+title: Använd en GPG-nyckel för att kryptera data
 description: Läs mer om hur du exporterar data med en GPG-nyckel som installeras på kontrollpanelen.
 feature: 'Kontrollpanelen  '
 audience: administrator
@@ -9,15 +9,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 849f2da2-aced-45ff-8b4b-554add5a5474
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
 source-wordcount: '61'
-ht-degree: 100%
+ht-degree: 62%
 
 ---
 
-# Kryptera data med en GPG-nyckel
+# Använd en GPG-nyckel för att kryptera data
 
 Läs mer om hur du exporterar data med en GPG-nyckel som installeras på kontrollpanelen.
 
@@ -26,4 +25,4 @@ Läs mer om hur du exporterar data med en GPG-nyckel som installeras på kontrol
 ## Ytterligare resurser
 
 * [Hantera GPG-nycklar (videor)](./gpg-key-management-overview.md)
-* [Hantera GPG-nycklar (dokumentation)](https://docs.adobe.com/content/help/sv-SE/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Hantera GPG-nycklar (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=en)
