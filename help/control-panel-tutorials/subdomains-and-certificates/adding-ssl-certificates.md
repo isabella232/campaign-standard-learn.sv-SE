@@ -1,6 +1,6 @@
 ---
 title: Lägga till SSL-certifikat
-description: Med kontrollpanelen i Adobe Campaign kan du lägga till SSL-certifikat för att skydda underdomänerna.
+description: Lär dig hur du lägger till SSL-certifikat för att skydda dina underdomäner.
 feature: 'Kontrollpanelen  '
 audience: administrator
 kt: 4219
@@ -9,19 +9,18 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: b46d9186-07db-4225-8dd7-3f3452aa7a1b
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 55%
+source-wordcount: '191'
+ht-degree: 36%
 
 ---
 
-# Lägga till SSL-certifikat
+# Lägg till SSL-certifikat
 
-Med [!UICONTROL Adobe Campaign Control Panel] i kan du lägga till SSL-certifikat för att skydda underdomänerna.
+Lär dig hur du lägger till SSL-certifikat för att skydda dina underdomäner.
 
-## Åtkomst till [!UICONTROL Control Panel] för att hantera underdomäner
+## Åtkomst till underdomänshantering för [!UICONTROL Control Panel]
 
 För att få åtkomst till hantering av underdomäner i [!UICONTROL Control Panel] ska du gå till:
 
@@ -36,7 +35,7 @@ Att lägga till SSL-certifikat kräver tre steg:
 
 ### Steg 1: Generera [!UICONTROL Certificate Signing Requests]
 
-[!UICONTROL Certificate Signing Request] (CSR) krävs för köp av ett SSL-certifikat. Den måste genereras för instansen och de underdomäner som du planerar att skydda.
+En [!UICONTROL Certificate Signing Request] (CSR) krävs för köp av ett SSL-certifikat. Den måste genereras för instansen och de underdomäner som du vill skydda.
 
 I videon nedan beskrivs hur du skapar en [!UICONTROL Certificate Signing Request] i [!UICONTROL Control Panel].
 
@@ -60,5 +59,5 @@ I videon nedan förklaras hur du installerar SSL-certifikat i [!UICONTROL Contro
 
 ## Ytterligare resurser
 
-* [Fullständig underdomändelegering (beta)](./subdomain-delegation.md)
-* [Underdomäner och certifikat – dokumentation](https://docs.adobe.com/content/help/sv-SE/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
+* [Fullständig underdomändelegering (video)](./subdomain-delegation.md)
+* [Underdomäner och certifikat – dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html?lang=en)
