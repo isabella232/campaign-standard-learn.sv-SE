@@ -10,16 +10,16 @@ team: TM
 exl-id: bb587ee7-9587-44d3-8bb4-3d4e64f66749
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
+source-git-commit: 63d07d2922310ac779c486383b83d708beeba627
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '83'
 ht-degree: 10%
 
 ---
 
 # Rapportera om din [!UICONTROL In-App]-leverans {#in-app-message-reporting}
 
-Du kan granska dina [!UICONTROL In-App] leveransrelaterade data antingen i leveranssammanfattningen genom att lägga till [!UICONTROL In-App-specifika mått. Du kan också använda den färdiga [rapporten i appen](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
+Du kan granska dina [!UICONTROL In-App] leveransrelaterade data antingen i leveranssammanfattningen genom att lägga till [!UICONTROL In-App]-specifika mått. Du kan också använda den färdiga [rapporten i appen](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en).
 
 >[!VIDEO](https://video.tv.adobe.com/v/26412?quality=12)
 
