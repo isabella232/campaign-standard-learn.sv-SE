@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '151'
-ht-degree: 7%
+source-wordcount: '148'
+ht-degree: 12%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 >[!NOTE]
 >
->Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] är baserat på Adobe Experience Platform och kräver en specifik konfiguration.
+>Funktionen är i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] är baserat på Adobe Experience Platform och kräver en specifik konfiguration.
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
@@ -35,9 +35,9 @@ I den här videon förklaras hur du aktiverar [!UICONTROL Data Services Query Au
 
 Dokumentation:
 
-* [Aktivera Experience Platform-målgrupper i Campaign - dokumentation](https://docs.adobe.com/content/help/en/campaign-standard/using/profiles-and-audiences/working-with-adobe-experience-platform/aep-about-audience-destinations-service.html)
+* [Mata in målgrupper från Adobe Experience Platform i Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
 
-Videoresurs:
+Videoresurser:
 
-* [Skapa en ny målgrupp i Adobe Campaign Standard med verktyget Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Skapa en målgrupp i Adobe Campaign Standard med Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Ändra målinriktningsdimensionen för en leverans för en plattformspublik](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
