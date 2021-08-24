@@ -1,7 +1,6 @@
 ---
 title: Kontrollera status för ett datainmatningsjobb
 description: Lär dig hur du kontrollerar status och ändrar datamappningen.
-feature: Adobe Experience Platform Data Connector
 audience: administrator
 kt: 2831
 thumbnail: 27268.jpg
@@ -9,11 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 12%
+source-wordcount: '120'
+ht-degree: 9%
 
 ---
 
