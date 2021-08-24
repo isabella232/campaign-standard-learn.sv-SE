@@ -1,6 +1,6 @@
 ---
-title: Komma igång med kontrollpanelen
-description: I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
+title: Kom igång med Kontrollpanelen
+description: Lär dig hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
 feature: 'Kontrollpanelen  '
 audience: administrator
 kt: 6385
@@ -9,27 +9,26 @@ doc-type: feature video
 activity: setup
 team: TM
 exl-id: 3626c012-e2f7-4480-aca0-97d7c7ce9a95
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 65%
+source-wordcount: '208'
+ht-degree: 41%
 
 ---
 
-# Komma igång med [!UICONTROL Control Panel] {#control-panel}
+# Kom igång med [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
->Termerna &quot;[!UICONTROL whitelist]&quot; och &quot;[!UICONTROL blacklist]&quot; har ersatts med &quot;[!UICONTROL allowlist]&quot; och &quot;[!UICONTROL denylist]&quot; i dokumentationen för Adobe Campaign. Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, namn på alternativ, intern kod samt självstudievideor. De ersätts i kommande versioner av kontrollpanelen.
+>Termerna &quot;[!UICONTROL whitelist]&quot; och &quot;[!UICONTROL blacklist]&quot; har ersatts med &quot;[!UICONTROL allowlist]&quot; och &quot;[!UICONTROL denylist]&quot; i dokumentationen för Adobe Campaign. Vissa förekomster av dessa termer kan fortfarande finnas i produktgränssnittet, alternativnamn, intern kod och självstudievideor. De ersätts i kommande versioner av kontrollpanelen.
 
 Med [!UICONTROL Control Panel] kan Adobe Campaign-administratörer övervaka nyckelresurser och utföra administrativa åtgärder, som att hantera [!DNL SFTP]-lagring efter instans, hantera [!DNL GPG]-nycklar eller [!UICONTROL subdomains] och [!UICONTROL certificates].
 
-I den här artikeln beskrivs hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
+Lär dig hur du kommer åt kontrollpanelen och vilka krav som ställs för att kunna arbeta med kontrollpanelen.
 
-## Komma åt [!UICONTROL Control Panel]
+## Åtkomst till [!UICONTROL Control Panel]
 
-Gå till Experience Cloud Home på: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com) för att komma åt kontrollpanelen:
+Gå till startsidan för Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -46,7 +45,7 @@ Slutför följande förhandskrav innan du börjar:
 
 ### Bekräfta [!DNL IMS Org ID]
 
-Du måste känna till ditt [!DNL IMS org ID]. I följande video beskrivs var du kan hitta instansens [!DNL IMS org ID].
+I följande video beskrivs var du kan slå upp instansens [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
@@ -59,4 +58,4 @@ I följande video förklaras hur du lägger till en administratör i en instans 
 
 ## Ytterligare resurser
 
-* [Hjälpcenter för kontrollpanelen](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html)
+* [Hjälpcenter för kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv)
