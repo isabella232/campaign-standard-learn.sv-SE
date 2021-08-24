@@ -10,16 +10,16 @@ team: DOC
 exl-id: 28889ce5-7f25-41f4-8ecd-47c77b0e3c00
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '92'
+source-wordcount: '88'
 ht-degree: 14%
 
 ---
 
 # Skapa en rapport baserad på anpassade profilattribut
 
-Adobe Campaign [!UICONTROL Dynamic Reports] är utformat för att vara en flexibel frihandsmiljö där du kan utforska data genom att inkludera anpassade profilattribut. Det gör att du kan kombinera mått, mätvärden och tidsintervall i vilken kombination som helst, med obegränsade uppdelningar och jämförelser.
+Adobe Campaign [!UICONTROL Dynamic Reports] är en flexibel frihandsmiljö där du kan utforska data genom att ta med anpassade profilattribut. Det gör att du kan kombinera mått, mätvärden och tidsintervall i vilken kombination som helst, med obegränsade uppdelningar och jämförelser.
 
 I den här videon förklaras hur du skapar en rapport baserad på anpassade profilattribut.
 
@@ -27,4 +27,4 @@ I den här videon förklaras hur du skapar en rapport baserad på anpassade prof
 
 ## Ytterligare resurser
 
-* [Om rapportering](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html)
+* [Om rapportering](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/about-reporting/about-dynamic-reports.html?lang=en)
