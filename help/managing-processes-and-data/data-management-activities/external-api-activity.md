@@ -1,6 +1,6 @@
 ---
 title: Konfigurera och köra ett arbetsflöde med aktiviteten Externt API
-description: Lär dig att anropa en extern REST API-slutpunkt för att hämta personaliseringsdata från ett tredjepartssystem till kampanjen.
+description: Lär dig hur du anropar en extern REST API-slutpunkt för att hämta personaliseringsdata från ett tredjepartssystem till kampanjen.
 feature: Datahanteringsaktivitet
 kt: 2764
 thumbnail: 28200.jpg
@@ -10,10 +10,10 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 87%
+source-wordcount: '177'
+ht-degree: 46%
 
 ---
 
@@ -36,8 +36,8 @@ I den här videon visas hur du använder [!UICONTROL External API activity].
 
 >[!NOTE]
 >
->Observera att aktiviteten är avsedd för att hämta kampanjomfattande data (senaste erbjudanden, senaste poängen osv.) och inte för att hämta specifik information för varje profil eftersom det kan leda till att stora mängder data överförs. Om användningsfallet kräver detta bör du använda aktiviteten Överför fil.
+>Aktiviteten är avsedd för att hämta data för hela kampanjen, inte för att hämta specifik information för varje profil eftersom det kan leda till att stora mängder data överförs. Om ett användningsfall kräver profilspecifik information bör du använda aktiviteten Överför fil.
 
 ## Ytterligare resurser
 
-* [Externt API (dokumentation)](https://docs.adobe.com/content/help/sv-SE/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html)
+* [Externt API (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)
