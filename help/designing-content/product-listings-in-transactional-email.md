@@ -10,22 +10,22 @@ team: TM
 exl-id: 62d0d756-e9b9-4656-94ba-bfc113a7b5c9
 role: User, Developer
 level: Experienced
-source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
+source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '170'
+source-wordcount: '169'
 ht-degree: 4%
 
 ---
 
 # Konfigurera [!UICONTROL product listings] i transaktionsmeddelanden
 
-Du kan konfigurera ett omdirigerat e-postmeddelande med en lista över produkter som är okända när du utformar e-postmeddelandet. Dessa produkter kan läggas till från nyttolasten vid körning. Du kan till exempel automatiskt skicka ett e-postmeddelande med en lista över alla produkter som fanns i användarens kundvagn innan de övergav den, med en bild, ett pris och en länk till varje produkt.
+Du kan konfigurera ett återmarknadsföringsmeddelande som innehåller en lista över produkter som är okända när du utformar e-postmeddelandet. Dessa produkter kan läggas till från nyttolasten vid körning. Du kan till exempel automatiskt skicka ett e-postmeddelande med en lista över alla produkter som fanns i användarens kundvagn innan de övergav den, med en bild, ett pris och en länk till varje produkt.
 
 I följande videofilmer beskrivs de steg som krävs för att konfigurera [!UICONTROL product listings] i [!UICONTROL transactional emails].
 
 >[!NOTE]
 >
->Den här funktionen kallas för närvarande för Slinga i videoklippen.
+>Den här funktionen kallas för Slinga i videoklippen.
 
 ## Steg 1 - Skapa en händelse och publicera den
 
@@ -41,5 +41,5 @@ I följande videofilmer beskrivs de steg som krävs för att konfigurera [!UICON
 
 ## Ytterligare resurser
 
-* [Använda produktlistor i ett transaktionsmeddelande (dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/communication-channels/transactional-messaging/event-transactional-messages.html#using-product-listings-in-a-transactional-message)
-* [Definiera datainsamlingar (dokumentation)](https://docs.adobe.com/content/help/en/campaign-standard/using/administrating/configuring-channels/configuring-transactional-messaging.html#defining-data-collections)
+* [Använda produktlistor i ett transaktionsmeddelande (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/transactional-message-edition/editing-transactional-message.html?lang=en)
+* [Definiera datainsamlingar (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/transactional-messaging/event-configuration/configuring-transactional-event.html?lang=en)
