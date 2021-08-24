@@ -1,6 +1,6 @@
 ---
 title: Arbeta med befintligt innehåll
-description: I den här videon förklaras hur du snabbt hämtar ditt kreativa innehåll från en webbplats och läser in det i e-postdesignern.
+description: Lär dig hur du hämtar ditt kreativa innehåll från en webbplats och läser in det i e-postdesignern.
 feature: E-postdesign
 kt: 6295
 thumbnail: 25926.jpg
@@ -10,9 +10,9 @@ team: TM
 exl-id: f25dd9a4-5d97-4f95-b21d-6a9eafc9e5ae
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '113'
+source-wordcount: '105'
 ht-degree: 7%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 7%
 
 ## Importera innehåll från en URL
 
-I den här videon förklaras hur du snabbt hämtar ditt kreativa innehåll från en webbplats och läser in det i e-postdesignern.
+Lär dig hur du hämtar ditt kreativa innehåll från en webbplats och läser in det i e-postdesignern.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25926?quality=12)
 
@@ -31,4 +31,4 @@ E-postdesignern kräver specifik taggning, som måste användas för att HTML-st
 
 Du hittar detaljerad dokumentation under följande länk:
 
-[Konvertera HTML-innehåll till en e-postdesignermall](https://docs.adobe.com/content/help/en/campaign-standard/using/designing-content/building-email-content/using-existing-content.html#converting-an-html-content)
+[Konvertera HTML-innehåll till en e-postdesignermall](https://experienceleague.adobe.com/docs/campaign-standard/using/designing-content/building-email-content/using-existing-content.html?lang=en)
