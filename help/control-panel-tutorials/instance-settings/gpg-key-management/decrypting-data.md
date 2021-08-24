@@ -9,11 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
-translation-type: tm+mt
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
+source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '91'
-ht-degree: 100%
+source-wordcount: '89'
+ht-degree: 92%
 
 ---
 
@@ -27,4 +26,4 @@ Läs mer om hur du skapar en offentlig nyckel samt importerar och installerar de
 ## Ytterligare resurser
 
 * [Hantera GPG-nycklar (videor)](./gpg-key-management-overview.md)
-* [Hantera GPG-nycklar (dokumentation)](https://docs.adobe.com/content/help/sv-SE/control-panel/using/instances-settings/gpg-keys-management.html)
+* [Hantera GPG-nycklar (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
