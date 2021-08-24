@@ -8,10 +8,10 @@ tutorials-title: Självstudiekurser
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=sv
 getting-started-title: Dokumentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv
-source-git-commit: 0dd34fe4027d2c7512a7fc6ec7258cf7a41efa65
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
 source-wordcount: '557'
-ht-degree: 100%
+ht-degree: 89%
 
 ---
 
@@ -80,7 +80,7 @@ ht-degree: 100%
 + Designa och anpassa innehåll {#designing-content}
    + E-post-designer{#email-designer}
       + [Översikt](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Komma igång med Email Designer](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Kom igång med e-postdesignern](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introduktion till mallar för e-postinnehåll](/help/designing-content/email-designer/email-content-templates.md)
       + [Konfigurera den mobila vyn](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Förhandsgranska analyser av e-postmeddelanden och skräppost](/help/designing-content/email-designer/preview-your-email.md)
@@ -113,17 +113,17 @@ ht-degree: 100%
    + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=sv)
    + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
       + [Förstå datakoppling till Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
-      + [Kartlägga anpassade resurser](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [Kartlägga upplevelsehändelser](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [Kartlägga data i frötabeller](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
-      + [Modifiera kartläggningen av data](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Kontrollera statusen för datainsamlingsjobb](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Mappa anpassade resurser](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
+      + [Kartupplevelsehändelser](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [Mappa startregisterdata](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [Ändra datamappningen](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
+      + [Kontrollera status för datainmatningsjobb](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologiregler{#typology-rules}
       + Trötthetshantering{#fatigue-management}
          + [Skapa trötthetsregler](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Integritet {#privacy}
    + [Översikt](/help/privacy/privacy-overview.md)
-   + [Skapa namnrymder för förfrågningar om användarens information](/help/privacy/namespaces-for-privacy-requests.md)
-   + [Modifiera anpassade resurser för förfrågningar om användarens information](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [Skapa namnutrymmen för sekretessförfrågningar](/help/privacy/namespaces-for-privacy-requests.md)
+   + [Ändra anpassade resurser för sekretessförfrågningar](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Skapa och spåra förfrågningar om användarens information manuellt](/help/privacy/create-and-track-privacy-requests.md)
-   + [Utföra förfrågningar om användarens information](/help/privacy/execute-privacy-requests.md)
+   + [Köra förfrågningar om användarens information](/help/privacy/execute-privacy-requests.md)
