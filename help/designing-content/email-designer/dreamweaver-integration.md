@@ -10,10 +10,10 @@ team: TM
 exl-id: 478462d8-aa25-457d-ba7b-64ffcf1b81fb
 role: User, Developer
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 86%
+source-wordcount: '175'
+ht-degree: 76%
 
 ---
 
@@ -21,13 +21,13 @@ ht-degree: 86%
 
 Med integreringen mellan Adobe Campaign Standard och Adobe Dreamweaver kan du redigera ett e-postmeddelandes innehåll direkt i gränssnittet i Dreamweaver:
 
-* Dubbelriktad synkronisering av innehållet i realtid
+* Dubbelriktad realtidssynkronisering av innehållet
 * Ladda upp lokala bilder till Adobe Campaign via Dreamweaver
 * Har stöd för Campaign-personalisering i Dreamweaver
 
 >[!NOTE]
 >
->Den här funktionen kräver tillägget **[!UICONTROL Adobe Campaign Integration]** för Dreamweaver. Du kan ladda ned tillägget från [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). Se [Campaign-tillägg för Dreamweaver](https://helpx.adobe.com/se/dreamweaver/using/working-with-dreamweaver-and-campaign.html) för mer information om installationen.
+>Den här funktionen kräver tillägget **[!UICONTROL Adobe Campaign Integration]** för Dreamweaver. Du kan ladda ned tillägget från [Adobe Exchange](https://exchange.adobe.com/creativecloud.html#search). Mer information om installationen finns i [Kampanjtillägg för Dreamweaver](https://helpx.adobe.com/se/dreamweaver/using/working-with-dreamweaver-and-campaign.html).
 
 I videon förklaras vad som krävs för att aktivera integrering med Dreamweaver och hur du skapar och redigerar innehåll för Adobe Campaign Standard med Dreamweaver.
 
