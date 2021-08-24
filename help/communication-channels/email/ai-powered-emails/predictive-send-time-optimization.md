@@ -8,12 +8,12 @@ doc-type: feature video
 activity: use
 team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
-role: Business Practitoner, Developer, Admin
+role: Business Practitioner, Developer, Admin
 level: Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 98%
+source-wordcount: '204'
+ht-degree: 88%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 98%
 [!DNL Adobe Campaign] kan med hjälp av [!UICONTROL Journey AI] analysera och förutsäga öppningsfrekvenser, optimala sändningstider och sannolika bortfall baserat på historiska interaktionsvärden.
 
 >[!CAUTION]
->Den här funktionen är inte tillgänglig som en del av produkten vid köp. För implementering krävs att Adobe Consulting används. Kontakta din Adobe-representant för att få mer information.
+>Den här funktionen är inte tillgänglig som en del av produkten vid köp. För implementering krävs att Adobe Consulting används. Om du vill ha mer information kan du kontakta din Adobe-representant.
 
 Med [!UICONTROL Predictive send time optimization] förutsägs vilken som är den bästa sändningstiden för varje mottagarprofil för att e-postmeddelanden ska öppnas eller klickas på. För varje mottagarprofil anger poängen den bästa sändningstiden för varje veckodag och vilken veckodag som är bäst för sändning för att uppnå bästa resultat.
 
@@ -38,4 +38,4 @@ Självstudiekurser:
 
 Dokumentation:
 
-* [Optimera design och leverans med AI-baserade e-postmeddelanden](https://docs.adobe.com/help/sv-SE/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html)
+* [Optimera design och leverans med AI-baserade e-postmeddelanden](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
