@@ -1,6 +1,6 @@
 ---
 title: Målgrupper - översikt
-description: Lär dig utnyttja Adobe Experience Platform-målgrupper (AEP) i Adobe Campaign Standard (ACS)
+description: Lär dig hur du använder Adobe Experience Platform-målgrupper i Adobe Campaign Standard
 feature: Integrering av tjänsten People Core
 kt: 2755
 thumbnail: null
@@ -10,32 +10,32 @@ team: TM
 exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '181'
-ht-degree: 9%
+source-wordcount: '178'
+ht-degree: 5%
 
 ---
 
 # [!UICONTROL Audience Destinations] (BETA) - Översikt
 
-## Utnyttja Adobe Experience Platform målgrupper i Adobe Campaign Standard
+## Använda Adobe Experience Platform-målgrupper i Adobe Campaign Standard
 
 >[!NOTE]
 >
->Funktionen är för närvarande i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] är baserat på Adobe Experience Platform och kräver en specifik konfiguration.
+>Funktionen är i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] är baserat på Adobe Experience Platform och kräver en specifik konfiguration.
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
 
-Den här självstudiekursen förklarar hur ni kan utnyttja centraliserade och konsoliderade profildata från Adobe Experience Platform för marknadsföringskampanjer i Adobe Campaign Standard.
+I den här självstudiekursen beskrivs hur du använder centraliserade och konsoliderade profildata från Adobe Experience Platform för marknadsföringskampanjer i Adobe Campaign Standard.
 
-Med modulen [!UICONTROL Audiences] i Adobe Campaign Standard kan du skapa segment med hjälp av data från [Adobe Experience Platform - datatjänster](https://www.adobe.io/apis/experienceplatform/home/services.html) som finns i [kundprofilen i realtid](https://docs.adobe.com/content/help/en/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html).
+Med modulen [!UICONTROL Audiences] i Adobe Campaign Standard kan du skapa segment med hjälp av data från [Adobe Experience Platform - datatjänster](https://www.adobe.io/apis/experienceplatform/home/services.html) som finns i [kundprofilen i realtid](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
-I följande videofilmer lär du dig mer om de olika stegen:
+I följande videofilmer får du hjälp med de olika stegen:
 
-1. [Skapa en ny målgrupp med Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-2. [Aktivera AEP-målgrupper i ett marknadsföringsarbetsflöde](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
+1. [Skapa en målgrupp med verktyget Enhetligt segment](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+2. [Aktivera målgrupper i Experience Platform i ett marknadsföringsarbetsflöde](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
 3. [Ändra målinriktningsdimensionen för en leverans för en plattformspublik](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 
 ## Ytterligare resurser
