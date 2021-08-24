@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
-source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
-workflow-type: ht
+source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+workflow-type: tm+mt
 source-wordcount: '232'
-ht-degree: 100%
+ht-degree: 94%
 
 ---
 
@@ -66,8 +66,8 @@ Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign över
     </a>
     <div>
       <a href="./sftp-management/connect-to-sftp-server.md">
-    <strong>Ansluta till en SFTP-server</strong>
-    </a>
+    <strong>Ansluta till en SFTP-server</strong>
+    </a>
     </div>
     <p>
     <em>Läs mer om hur du ansluter till en SFTP-server med en SFTP-klientprogramvara med hjälp av nycklarna som du har sparat i kontrollpanelen. </em>
@@ -78,4 +78,4 @@ Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign över
 
 ## Ytterligare resurser
 
-* [Hjälpcenter för kontrollpanelen](https://docs.adobe.com/content/help/sv-SE/control-panel/using/control-panel-home.html)
+* [Hjälpcenter för kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=sv)
