@@ -1,6 +1,6 @@
 ---
-title: Konvertera ett befintligt e-postmeddelande, en SMS-leverans eller en mall till flerspråkiga versioner
-description: '"Lär dig hur du konverterar befintlig e-post, SMS-leverans eller en leveransmall till flerspråkiga dokument."'
+title: Konvertera en befintlig e-post, SMS-leverans eller leveransmall till flerspråkig
+description: Lär dig hur du konverterar ett befintligt e-postmeddelande, SMS-leverans eller en leveransmall till flerspråkiga dokument.
 feature: E-post, SMS
 kt: 1703
 thumbnail: 23251.jpg
@@ -10,14 +10,14 @@ team: TM
 exl-id: f069fe5c-654c-4be3-818d-b34741e4681e
 role: User
 level: Intermediate, Experienced
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 31%
+source-wordcount: '75'
+ht-degree: 2%
 
 ---
 
-# Konvertera ett befintligt e-postmeddelande, en SMS-leverans eller en mall till flerspråkiga versioner
+# Konvertera en befintlig e-post, SMS-leverans eller leveransmall till flerspråkig
 
 I den här videon visas hur ett befintligt e-postmeddelande, en SMS-leverans eller en leveransmall enkelt kan konverteras till flerspråkiga dokument.
 
@@ -25,4 +25,4 @@ I den här videon visas hur ett befintligt e-postmeddelande, en SMS-leverans ell
 
 ## Ytterligare resurser
 
-* [Skapa ett flerspråkigt e-postmeddelande (dokumentation)](https://helpx.adobe.com/campaign/standard/channels/using/creating-a-multilingual-email.html)
+* [Skapa ett flerspråkigt e-postmeddelande (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/email-messages/creating-a-multilingual-email.html?lang=en)
