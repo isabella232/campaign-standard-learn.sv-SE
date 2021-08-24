@@ -1,6 +1,6 @@
 ---
 title: Skapa en rapport baserad på arbetsflödessegment
-description: Rapportering om arbetsflödessegment ger möjlighet att lägga till kod för arbetsflödessegment i dynamisk rapportering.
+description: Lär dig hur du definierar segment i ditt arbetsflöde och hur du använder dem i dynamiska rapporter.
 feature: Rapportering
 kt: 3252
 thumbnail: 28262.jpg
@@ -10,10 +10,10 @@ team: TM
 exl-id: 2ee84302-69c3-4011-af7a-5541ca070cd8
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 16%
+source-wordcount: '86'
+ht-degree: 17%
 
 ---
 
@@ -21,8 +21,8 @@ ht-degree: 16%
 
 När ni har skapat ett arbetsflöde och filtrerat er population till olika målgrupper kan ni mäta effektiviteten hos era marknadsföringskampanjer baserat på segment som definieras i det här arbetsflödet för målinriktning.
 
-I videon nedan förklaras de tre steg som krävs för att inrikta sig på dessa segment i din rapport:
+Lär dig hur du definierar segment i ditt arbetsflöde och hur du använder dem i dynamiska rapporter.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-Mer information finns i [dokumentationen](https://docs.adobe.com/content/help/en/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html)
+Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
