@@ -3,15 +3,15 @@ user-guide-title: Självstudiekurser om Adobe Campaign Standard
 user-guide-description: Designa kundupplevelser över flera kanaler och skapa en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och marknadsföring över flera kanaler.
 breadcrumb-title: Självstudiekurser om Campaign Standard
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?lang=sv&tag=Campaign+Standard#recommended/solutions/campaign
-tutorials-title: Självstudiekurser
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=sv
-getting-started-title: Dokumentation
-getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Standard#recommended/solutions/campaign
+tutorials-title: Tutorials
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html
+getting-started-title: Documentation
+getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
+source-git-commit: fe27dd3f40204d3eede1a7ccdc5ddf33a8745072
 workflow-type: tm+mt
-source-wordcount: '557'
-ht-degree: 83%
+source-wordcount: '536'
+ht-degree: 81%
 
 ---
 
@@ -127,3 +127,4 @@ ht-degree: 83%
    + [Ändra anpassade resurser för sekretessförfrågningar](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Skapa och spåra förfrågningar om användarens information manuellt](/help/privacy/create-and-track-privacy-requests.md)
    + [Köra förfrågningar om användarens information](/help/privacy/execute-privacy-requests.md)
++ [Felsökning - Campaign Standard](/https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
