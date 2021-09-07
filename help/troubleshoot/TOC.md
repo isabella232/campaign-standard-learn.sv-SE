@@ -7,9 +7,9 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 908c997c130cf0fbb6699b4b5d824e6996e59cc3
+source-git-commit: 9eecc356e0ef4595874894294a71f797f3d105ac
 workflow-type: tm+mt
-source-wordcount: '58'
+source-wordcount: '51'
 ht-degree: 1%
 
 ---
@@ -18,8 +18,8 @@ ht-degree: 1%
 # Felsöka Adobe Campaign Standard {#troubleshooting}
 
 + [Översikt](/help/troubleshoot/overview.md)
-+ [Felsöka ett tekniskt fel när du visar en profil](/help/troubleshoot/technical-error-while-viewing-profile.md)
++ [Tekniskt fel vid visning av en profil](/help/troubleshoot/technical-error-while-viewing-profile.md)
 + [Fel vid anslutning till Experience Manager](/help/troubleshoot/error-aem-connection.md)
-+ [Steg för att ändra URL:en för den offentliga resursen från http till https](/help/troubleshoot/change-public-resource-url.md)
++ [Ändra URL för offentlig resurs från http till https](/help/troubleshoot/change-public-resource-url.md)
 + [Hämta ett dekrypterat händelse-ID och leverans-ID](/help/troubleshoot/decrypted-eventid-and-deliveryid.md)
 
