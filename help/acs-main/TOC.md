@@ -9,9 +9,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-standard-learn/t
 getting-started-title: Documentation
 getting-started-url: https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html
 source-git-commit: a3590166597f98331e7dec905ff00b0e84902a97
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -39,18 +39,18 @@ ht-degree: 80%
    + [Hantera tjänster och prenumerationer](/help/managing-processes-and-data/services-and-subscriptions.md)
    + Målgruppers destination (BETA){#audience-destinations}
       + [Översikt](/help/profiles-and-audiences/audience-destinations/audience-destinations-overview.md)
-      + [Skapa en målgrupp med verktyget Enhetligt segment](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+      + [Skapa en målgrupp med den enhetliga segmentskaparen](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
       + [Aktivera målgrupper i Adobe Experience Platform i ett arbetsflöde](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
       + [Ändra målet för målinriktningen](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
 + Kommunikationskanaler {#communication-channels}
    + E-post {#email}
       + [Skapa ett e-postmeddelande](/help/communication-channels/email/create-email-from-homepage.md)
-      + [Skicka ett test, förbered och skicka ett e-postmeddelande](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [Skicka ett test samt förbereda och skicka ett e-postmeddelande](/help/communication-channels/email/sending-test-preparing-sending-email.md)
       + [A/B-tester](/help/communication-channels/email/a-b-testing.md)
       + [Testa e-postmeddelanden med målinriktade profiler](/help/communication-channels/email/profile-substitution.md)
       + [Lägga till en kontrollgrupp i en leverans](/help/communication-channels/email/control-groups.md)
       + [Skapa ett flerspråkigt e-postmeddelande eller en SMS-leverans](/help/communication-channels/create-multilingual-deliveries.md)
-      + [Konvertera en befintlig e-post, SMS-leverans eller leveransmall till flerspråkig](/help/communication-channels/covert-into-multilingual-deliveries.md)
+      + [Konvertera ett befintligt e-postmeddelande, en SMS-leverans eller en mall till flerspråkiga versioner](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Granska en e-postleverans och -rapporter](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Skapa och skicka e-postmeddelanden via ett arbetsflöde](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
       + [God praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
@@ -63,7 +63,7 @@ ht-degree: 80%
       + Push-meddelanden {#push}
          + [Skapa ett push-meddelande](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
          + [Skapa ett flerspråkigt push-meddelande](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
-         + [Självstudiekurs: komma igång med push-meddelanden för Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=sv)
+         + [Självstudiekurs: Komma igång med push-meddelanden för Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=sv)
       + Meddelanden i appen {#in-app}
          + [Introduktion till meddelanden i appen](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Konfigurera händelser](/help/communication-channels/mobile/in-app/configure-events.md)
@@ -80,7 +80,7 @@ ht-degree: 80%
 + Designa och anpassa innehåll {#designing-content}
    + E-post-designer{#email-designer}
       + [Översikt](/help/designing-content/email-designer/email-designer-overview.md)
-      + [Kom igång med e-postdesignern](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
+      + [Komma igång med e-postdesignern](/help/designing-content/email-designer/getting-started-with-the-email-designer.md)
       + [Introduktion till mallar för e-postinnehåll](/help/designing-content/email-designer/email-content-templates.md)
       + [Konfigurera den mobila vyn](/help/designing-content/email-designer/configure-the-mobile-view.md)
       + [Förhandsgranska analyser av e-postmeddelanden och skräppost](/help/designing-content/email-designer/preview-your-email.md)
@@ -105,26 +105,26 @@ ht-degree: 80%
       + [Konfigurera Launch för utlösare](/help/integrations/configure-launch-for-triggers.md)
       + [Skapa en utlösare i Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Skapa en utlösarhändelse i Campaign Standard](/help/integrations/create-a-trigger-event.md)
-      + [Konfigurera transaktionsmeddelanden med händelsedata i realtid](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
+      + [Konfigurera transaktionsmeddelanden med realtidshändelsedata](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
    + [Konfigurera Microsoft® Dynamics 365 för integrering med Campaign Standard](/help/integrations/configure-dynamics-365.md)
 + Administrera {#administrating}
-   + [Hantera användares åtkomsträttigheter](/help/administrating/managing-user-access-rights.md)
+   + [Hantera användarnas åtkomsträttigheter](/help/administrating/managing-user-access-rights.md)
    + [Skapa anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=sv)
    + [Kontrollpanelen](https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=sv)
-   + Adobe Experience Platform Data Connector {#adobe-experience-platform-data-connector}
+   + Datakoppling till Adobe Experience Platform {#adobe-experience-platform-data-connector}
       + [Förstå datakoppling till Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappa anpassade resurser](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
-      + [Kartupplevelsehändelser](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
-      + [Mappa startregisterdata](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
+      + [Mappa upplevelsehändelser](/help/administrating/adobe-experience-platform-data-connector/mapping-experience-events.md)
+      + [Mappa data i distributionstabeller](/help/administrating/adobe-experience-platform-data-connector/mapping-seed-table-data.md)
       + [Ändra datamappningen](/help/administrating/adobe-experience-platform-data-connector/modifying-data-mapping.md)
-      + [Kontrollera status för ett datainmatningsjobb](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
+      + [Kontrollera statusen för ett datainmatningsjobb](/help/administrating/adobe-experience-platform-data-connector/checking-status-of-data-ingestion-jobs.md)
    + Typologiregler{#typology-rules}
       + Trötthetshantering{#fatigue-management}
          + [Skapa trötthetsregler](/help/administrating/typology-rules/fatigue-management/create-fatigue-rules.md)
 + Integritet {#privacy}
    + [Översikt](/help/privacy/privacy-overview.md)
-   + [Skapa namnutrymmen för sekretessförfrågningar](/help/privacy/namespaces-for-privacy-requests.md)
-   + [Ändra anpassade resurser för sekretessförfrågningar](/help/privacy/custom-resources-for-privacy-requests.md)
+   + [Skapa namnrymder för förfrågningar om användarens information](/help/privacy/namespaces-for-privacy-requests.md)
+   + [Modifiera anpassade resurser för förfrågningar om användarens information](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Skapa och spåra förfrågningar om användarens information manuellt](/help/privacy/create-and-track-privacy-requests.md)
    + [Köra förfrågningar om användarens information](/help/privacy/execute-privacy-requests.md)
-+ [Felsök Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Felsöka Campaign Standard](https://experienceleague.corp.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=sv)
