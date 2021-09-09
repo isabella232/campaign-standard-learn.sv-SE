@@ -9,7 +9,7 @@ level: Beginner
 source-git-commit: 5f019c5a5906a8bd24ab7c0dac23045cfbc046ad
 workflow-type: tm+mt
 source-wordcount: '258'
-ht-degree: 73%
+ht-degree: 93%
 
 ---
 
@@ -37,12 +37,12 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
     </a>
     </div>
     <p>
-    <em>Lär dig hur du skickar ett korrektur för granskning med exakt återgivning av meddelandet som profilen tar emot.</em>
+    <em>Lär dig hur du skickar ett bevis för granskning med en exakt återgivning av meddelandet som profilen får.</em>
     <p>
   </td>
    <td>
     <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=sv">
-      <img alt="Kontrollpanel (videor)" src="./assets/control-panel.png" />
+      <img alt="Kontrollpanel (videofilmer)" src="./assets/control-panel.png" />
     </a>
     <div>
     <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/control-panel/control-panel-overview.html?lang=en">
@@ -55,15 +55,15 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
   </td>
   <td>
     <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
-      <img alt="Självstudiekurs: komma igång med push-meddelanden för Android" src="./assets/push-for-android.png" />
+      <img alt="Självstudiekurs: Komma igång med push-meddelanden för Android" src="./assets/push-for-android.png" />
     </a>
     <div>
       <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
-    <strong>Självstudiekurs: komma igång med push-meddelanden för Android™</strong>
+    <strong>Självstudiekurs: Komma igång med push-meddelanden för Android™</strong>
     </a>
     </div>
     <p>
-    <em>I den här självstudiekursen visas steg för steg hur du skickar push-meddelanden från Adobe Campaign och tar emot dessa meddelanden i din Android™-app. </em>
+    <em>Den här självstudiekursen visar steg för steg hur du skickar push-meddelanden från Adobe Campaign och tar emot dessa meddelanden i Android™-appen. </em>
     <p>
   </td>
 </tr>
@@ -71,4 +71,4 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Ytterligare resurser
 
-* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=en)
+* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv)
