@@ -4,17 +4,17 @@ user-guide-description: Läs om hur du övervakar nyckelresurser för dina Adobe
 breadcrumb-title: Självstudiekurser om kontrollpanelen
 index: true
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '114'
-ht-degree: 85%
+ht-degree: 100%
 
 ---
 
 
-# Självstudiekurser om Kontrollpanelen i Adobe Campaign {#control-panel}
+# Självstudiekurser om kontrollpanelen i Adobe Campaign {#control-panel}
 
 + [Översikt över kontrollpanelen](/help/control-panel-tutorials/control-panel-overview.md)
-+ [Kom igång med Kontrollpanelen](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ [Kom igång med kontrollpanelen](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + SFTP-hantering {#sftp-management}
    + [Övervaka serverkapacitet](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
    + [Lägga till ett IP-intervall i tillåtelselistan](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
