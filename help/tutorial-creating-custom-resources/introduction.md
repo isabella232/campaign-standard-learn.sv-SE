@@ -1,7 +1,7 @@
 ---
 title: Skapa anpassade resurser – introduktion
-description: I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser.
-feature: 'Datamodell '
+description: I den här självstudiekursen med flera delar får du hjälp med att skapa och länka anpassade resurser.
+feature: Data Model
 kt: 2999
 thumbnail: 27715.jpg
 doc-type: feature video
@@ -9,18 +9,18 @@ activity: use
 team: TM
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
-workflow-type: tm+mt
-source-wordcount: '189'
-ht-degree: 42%
+workflow-type: ht
+source-wordcount: '187'
+ht-degree: 100%
 
 ---
 
 # Skapa anpassade resurser – introduktion
 
-[!DNL Adobe Campaign] levereras med en fördefinierad datamodell där data definieras via olika resurser. [!DNL Campaign] låter användaren utöka befintliga eller skapa nya resurser.
+[!DNL Adobe Campaign] levereras med en fördefinierad datamodell där data definieras via olika resurser. Med [!DNL Campaign] kan användaren utöka befintliga eller skapa nya resurser.
 
-I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser.
-Lär dig mer om:
+I den här självstudiekursen med flera delar får du hjälp med att skapa och länka anpassade resurser.
+Lär dig att:
 
 * skapa en anpassad resurs,
 * lägga till fält i den anpassade resursen,
@@ -29,15 +29,15 @@ Lär dig mer om:
 
 ## Förutsättning
 
-För att kunna skapa anpassade resurser måste du ha administratörsanvändarbehörighet.
+För att kunna skapa anpassade resurser måste du ha administratörsrättigheter.
 
-## Översikt över självstudiekurser
+## Översikt över självstudiekursen
 
-Om du vill använda ytterligare information om vad en kund har beställt, så att den är tillgänglig för marknadsföring och återmarknadsföring, måste datamodellen [!DNL Campaign] utökas genom att anpassade tabeller läggs till. I det här fallet måste en kund och en ordertabell skapas.
+Om du vill använda ytterligare information om vad en kund har beställt, så att den är tillgänglig för marknadsföring och återmarknadsföring, måste du utöka datamodellen i [!DNL Campaign] genom att lägga till anpassade tabeller. I det här fallet måste en kund- och en beställningstabell skapas.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
 
-I den här självstudiekursen beskrivs hur du:
+Den här självstudiekursen beskriver hur du:
 
 Steg 1 – [skapar en anpassad resurs](./creating-a-custom-resource.md)
 Steg 2 – [konfigurerar en skärmdefinition](./configuring-a-screen-definition-for-a-custom-resource.md)
