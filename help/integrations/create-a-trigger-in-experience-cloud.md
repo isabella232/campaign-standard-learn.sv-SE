@@ -1,8 +1,8 @@
 ---
 title: Skapa en utlösare i Experience Cloud
 description: Läs om hur du konfigurerar utlösare i Experience Cloud.
-feature: Utlösare
-topic: Integreringar
+feature: Triggers
+topic: Integrations
 kt: 6524
 thumbnail: 332624.jpg
 doc-type: article
@@ -11,8 +11,8 @@ level: Experienced
 team: TM
 exl-id: e32c2f71-1715-4e96-9fe7-5ac9321a9522
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
-source-wordcount: '55'
+workflow-type: ht
+source-wordcount: '53'
 ht-degree: 100%
 
 ---
