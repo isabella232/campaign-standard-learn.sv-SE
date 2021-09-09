@@ -1,7 +1,7 @@
 ---
 title: Konfigurera en lista
 description: Den här videon förklarar hur du kan ändra de visade kolumnerna, ordningen och sorteringsordningen i en listvy i Adobe Campaign Standard.
-feature: Målgrupper
+feature: Audiences
 kt: 1821
 thumbnail: 25288.jpg
 doc-type: feature video
@@ -11,8 +11,8 @@ exl-id: c5490a49-f4e4-4fe0-8132-1893252a9a4d
 role: User, Admin, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
-source-wordcount: '53'
+workflow-type: ht
+source-wordcount: '52'
 ht-degree: 100%
 
 ---
