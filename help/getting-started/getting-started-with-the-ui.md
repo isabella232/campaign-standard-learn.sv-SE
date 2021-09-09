@@ -1,7 +1,7 @@
 ---
 title: 'Komma igång med användargränssnittet '
 description: I den här videon får du en översikt över användargränssnittet i Adobe Campaign Standard samt de viktigaste funktionerna och basfunktionaliteten.
-feature: Översikt
+feature: Overview
 kt: 3882
 thumbnail: acs-ui-get-started.png
 doc-type: feature video
@@ -11,8 +11,8 @@ exl-id: f77979f8-affb-4128-a9ec-668fa9f7911d
 role: User, Admin, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
-workflow-type: tm+mt
-source-wordcount: '78'
+workflow-type: ht
+source-wordcount: '77'
 ht-degree: 100%
 
 ---
