@@ -3,14 +3,15 @@ title: Så här får du ett dekrypterat händelse-ID och leverans-ID
 description: Lär dig hur du får ett dekrypterat händelse-ID och leverans-ID i Campaign Standard.
 role: Admin
 level: Beginner, Experienced
+type: Troubleshooting
 kt: 8432
-source-git-commit: 908c997c130cf0fbb6699b4b5d824e6996e59cc3
-workflow-type: ht
+exl-id: da53e9ce-2175-4158-a318-914e71050754
+source-git-commit: 184cd4469cd6872534d65c26fc5de08b4146c542
+workflow-type: tm+mt
 source-wordcount: '48'
 ht-degree: 100%
 
 ---
-
 
 # Så här får du ett dekrypterat händelse-ID och leverans-ID
 
