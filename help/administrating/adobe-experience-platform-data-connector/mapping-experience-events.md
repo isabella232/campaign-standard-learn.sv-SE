@@ -1,7 +1,7 @@
 ---
 title: Kartlägga upplevelsehändelser
 description: Lär dig hur du mappar upplevelsehändelser i Adobe Experience Platform (AEP)
-feature: Integrering av tjänsten People Core
+feature: People Core Service Integration
 kt: 2832
 thumbnail: 27265.jpg
 doc-type: feature video
@@ -10,12 +10,12 @@ team: TM
 exl-id: 45c4e120-99c7-495d-aa71-3b4f223cc120
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 11%
+source-wordcount: '74'
+ht-degree: 12%
 
 ---
 
-# Mappa [!UICONTROL Experience Events]
+# Mappning [!UICONTROL Experience Events]
 
 >[!NOTE]
 >
@@ -23,7 +23,7 @@ ht-degree: 11%
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
-Lär dig hur du mappar [!UICONTROL Experience Events] i Adobe Experience Platform (AEP).
+Lär dig mappa [!UICONTROL Experience Events] i Adobe Experience Platform (AEP).
 
 >[!VIDEO](https://video.tv.adobe.com/v/27265?quality=12)
 

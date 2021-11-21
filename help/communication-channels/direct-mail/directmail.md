@@ -1,7 +1,7 @@
 ---
 title: Skapa ett direktmeddelande
 description: Lär dig hur du skapar direktreklam.
-feature: Direktutskick
+feature: Direct Mail
 kt: 1430
 thumbnail: 23417.jpg
 doc-type: feature video
@@ -12,20 +12,20 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 3%
+source-wordcount: '106'
+ht-degree: 1%
 
 ---
 
 # Skapa en [!UICONTROL Direct Mail] {#create-a-direct-mail}
 
-Med kanalen [!UICONTROL Direct Mail] kan du extrahera en segmenterad lista med mottagare som ska skickas till en byrå eller överföras till en SFTP-server.
+The [!UICONTROL Direct Mail] Med kanalen kan du extrahera en segmenterad lista med mottagare som ska skickas till en byrå eller överföras till en SFTP-server.
 
-I den här videon förklaras hur du konfigurerar en [!UICONTROL Direct Mail]-leverans och vilka inställningar som krävs för att kunna lägga till en profil i en [!UICONTROL Direct Mail]-leverans.
+I den här videon förklaras hur du konfigurerar en [!UICONTROL Direct Mail] leverans och vilka inställningar som krävs för att kunna lägga till en profil i en [!UICONTROL Direct Mail] leverans.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
 
-## Skapa en [!UICONTROL Direct Mail] i ett arbetsflöde
+## Skapa en [!UICONTROL Direct Mail] inom ett arbetsflöde
 
 Kanalen är tillgänglig från startsidan och i arbetsflödesvyn för att definiera sammanhängande strategier för flerkanalsmarknadsföring. Följande exempelarbetsflöde innehåller [!UICONTROL Direct Mail activity].
 

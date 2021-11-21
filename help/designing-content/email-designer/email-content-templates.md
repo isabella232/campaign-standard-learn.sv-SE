@@ -1,7 +1,7 @@
 ---
 title: Introduktion till mallar för e-postinnehåll
 description: Lär dig hur du skapar en mall för e-postinnehåll.
-feature: E-postdesign
+feature: Email Design
 kt: 1442
 thumbnail: 23106.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '71'
+source-wordcount: '69'
 ht-degree: 14%
 
 ---

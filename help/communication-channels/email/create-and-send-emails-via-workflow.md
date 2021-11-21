@@ -1,7 +1,7 @@
 ---
 title: Skapa och skicka e-postmeddelanden via ett arbetsflöde
 description: Lär dig hur du skapar och skickar e-postmeddelanden via ett arbetsflöde.
-feature: E-post
+feature: Email
 kt: 4319
 thumbnail: 31465.jpg
 role: User
@@ -12,8 +12,8 @@ team: DOC
 exl-id: cc5d1bd2-a416-4df3-b12b-b1f9de4736fd
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 24%
+source-wordcount: '85'
+ht-degree: 23%
 
 ---
 

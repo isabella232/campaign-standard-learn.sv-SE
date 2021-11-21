@@ -1,7 +1,7 @@
 ---
 title: Generera en SSH-nyckel
 description: Lär dig hur du skapar en SSH-nyckel med hjälp av en terminal och hur du lagrar den offentliga versionen av nyckeln på Kontrollpanelen.
-feature: 'Kontrollpanelen  '
+feature: Control Panel
 kt: 2923
 thumbnail: 27259.jpg
 doc-type: feature video
@@ -9,11 +9,10 @@ audience: administrator
 activity: use
 team: PM
 exl-id: e0b4804c-d0ea-4f4b-a6fd-f9363b264111
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 36%
+source-wordcount: '110'
+ht-degree: 35%
 
 ---
 
@@ -23,7 +22,7 @@ Du måste generera en SSH-nyckel så att du kan lägga till den i [!UICONTROL Co
 
 ## Åtkomst till [!UICONTROL Control Panel] för SFTP-hantering
 
-Om du vill komma åt SFTP-hanteringen i [!UICONTROL Control Panel] går du till:
+Så här får du åtkomst till SFTP-hantering i [!UICONTROL Control Panel], gå till:
 
 * [Experience Cloud Home](https://experience.adobe.com/#/home) > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]**-kort > **SFTP**-kort
 

@@ -1,7 +1,7 @@
 ---
 title: A/B-test
 description: Lär dig hur du konfigurerar och skickar ett A/B-test som testar ämnesraden.
-feature: 'A/B-tester  '
+feature: A/B Testing
 kt: 3907
 thumbnail: 18480.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ role: User
 level: Beginner
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 51%
+source-wordcount: '105'
+ht-degree: 50%
 
 ---
 
 # A/B-test
 
-Med funktionen [!UICONTROL A/B Test] i Adobe Campaign kan du definiera två till tre e-postvarianter. Varje variant skickas till populationsprover för att fastställa vilket som ger bäst resultat. När det är fastställt skickas därefter den vinnande varianten till den återstående populationen. Du kan välja att ändra e-postmeddelandets innehåll, ämne eller avsändare.
+The [!UICONTROL A/B Test] i Adobe Campaign kan du definiera två till tre e-postvarianter. Varje variant skickas till populationsprover för att fastställa vilket som ger bäst resultat. När det är fastställt skickas därefter den vinnande varianten till den återstående populationen. Du kan välja att ändra e-postmeddelandets innehåll, ämne eller avsändare.
 
 Lär dig hur du konfigurerar och skickar ett A/B-test som testar ämnesraden.
 

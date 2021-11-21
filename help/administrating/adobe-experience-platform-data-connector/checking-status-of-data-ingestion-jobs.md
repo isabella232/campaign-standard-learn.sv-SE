@@ -1,7 +1,7 @@
 ---
-title: Kontrollera status för ett datainmatningsjobb
+title: Kontrollera statusen för ett datainmatningsjobb
 description: Lär dig hur du kontrollerar status och ändrar datamappningen.
-feature: Integrering av tjänsten People Core
+feature: People Core Service Integration
 audience: administrator
 kt: 2831
 thumbnail: 27268.jpg
@@ -11,12 +11,12 @@ team: PM
 exl-id: aa0f8abe-0b42-4957-8a82-25521751b7af
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 9%
+source-wordcount: '116'
+ht-degree: 23%
 
 ---
 
-# Kontrollera status för ett datainmatningsjobb
+# Kontrollera statusen för ett datainmatningsjobb
 
 >[!NOTE]
 >

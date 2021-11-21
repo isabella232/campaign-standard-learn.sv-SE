@@ -1,7 +1,7 @@
 ---
 title: Fullständig delegering av underdomäner
 description: 'Lär dig hur du delegerar en underdomän till Adobe Campaign. '
-feature: Underdomäner och certifikat
+feature: Subdomains and Certificates
 kt: 4115
 thumbnail: 31390.jpg
 doc-type: feature video
@@ -10,8 +10,8 @@ team: PM
 exl-id: 063e9971-2cc6-4027-80cc-d2c0fd264a51
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '89'
-ht-degree: 64%
+source-wordcount: '86'
+ht-degree: 66%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 64%
 
 Med [!UICONTROL Control Panel] i Adobe Campaign kan du fullständigt delegera en underdomän som tillhör Adobe Campaign.
 
-## Få åtkomst till [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
+## Öppna [!UICONTROL Control Panel] [!UICONTROL Subdomain Management]
 
 För att få åtkomst till [!UICONTROL Subdomain Management] i [!UICONTROL Control Panel] ska du gå till:
 

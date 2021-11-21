@@ -1,7 +1,7 @@
 ---
 title: Profilersättning - Testa e-postmeddelanden med målprofiler
 description: Lär dig hur du kan testa dina e-postmeddelanden med hjälp av funktionen för profilösersättning.
-feature: 'E-post  '
+feature: Email
 kt: 4667
 thumbnail: 32368.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 2ba22e7e7d193278fd06cb4b2dc80f650f754ec8
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 72%
+source-wordcount: '176'
+ht-degree: 76%
 
 ---
 
@@ -35,4 +35,4 @@ Se den detaljerade [produktdokumentationen](https://experienceleague.adobe.com/d
 
 * [Testa meddelanden med målprofiler (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en)
 * [Designa ett A/B-testmeddelande](/help/communication-channels/email/a-b-testing.md)
-* [Skicka ett test, förbered och skicka ett e-postmeddelande](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+* [Skicka ett test samt förbereda och skicka ett e-postmeddelande](/help/communication-channels/email/sending-test-preparing-sending-email.md)

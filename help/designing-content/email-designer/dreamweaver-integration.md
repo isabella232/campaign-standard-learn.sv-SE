@@ -1,7 +1,7 @@
 ---
 title: Skapa innehåll med Adobe Dreamweaver
 description: Förstå vad som krävs för att möjliggöra Dreamweaver-integrering och hur man skapar och redigerar innehåll för Adobe Campaign Standard med Dreamweaver.
-feature: E-postdesign
+feature: Email Design
 kt: 1420
 thumbnail: 23121.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '175'
-ht-degree: 76%
+source-wordcount: '173'
+ht-degree: 77%
 
 ---
 

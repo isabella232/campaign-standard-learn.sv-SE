@@ -1,7 +1,7 @@
 ---
-title: Konvertera en befintlig e-post, SMS-leverans eller leveransmall till flerspråkig
+title: Konvertera ett befintligt e-postmeddelande, en SMS-leverans eller en mall till flerspråkiga versioner
 description: Lär dig hur du konverterar ett befintligt e-postmeddelande, SMS-leverans eller en leveransmall till flerspråkiga dokument.
-feature: E-post, SMS
+feature: Email, SMS
 kt: 1703
 thumbnail: 23251.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ role: User
 level: Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '75'
-ht-degree: 2%
+source-wordcount: '73'
+ht-degree: 32%
 
 ---
 
-# Konvertera en befintlig e-post, SMS-leverans eller leveransmall till flerspråkig
+# Konvertera ett befintligt e-postmeddelande, en SMS-leverans eller en mall till flerspråkiga versioner
 
 I den här videon visas hur ett befintligt e-postmeddelande, en SMS-leverans eller en leveransmall enkelt kan konverteras till flerspråkiga dokument.
 

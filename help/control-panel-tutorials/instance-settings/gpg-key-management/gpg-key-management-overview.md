@@ -1,14 +1,14 @@
 ---
 title: Hantera GPG-nycklar – översikt
 description: Läs mer om hur du skapar och installerar ett offentligt/privat nyckelpar på en angiven instans i Campaign för att kryptera utgående data. Lär dig hur du importerar och installerar en offentlig nyckel på en Campaign-instans för dekryptering av inkommande data.
-feature: 'Kontrollpanelen  '
+feature: Control Panel
 audience: administrator
 team: TM
 exl-id: a9a24104-332c-483e-8a6f-6d80f90ad66f
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '160'
-ht-degree: 64%
+source-wordcount: '158'
+ht-degree: 70%
 
 ---
 

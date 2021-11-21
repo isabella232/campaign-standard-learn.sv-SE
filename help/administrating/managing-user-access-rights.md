@@ -1,7 +1,7 @@
 ---
-title: Hantera användares åtkomsträttigheter
+title: Hantera användarnas åtkomsträttigheter
 description: I den här videon förklaras hur du definierar och hanterar behörigheter som tilldelats olika användare i Adobe Campaign.
-feature: Åtkomsthantering
+feature: Access Management
 kt: 1814
 thumbnail: 24671.jpg
 doc-type: feature video
@@ -10,12 +10,12 @@ team: DOCS
 exl-id: 22c05c17-a085-4376-9d06-cbb9d5249608
 source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 21%
+source-wordcount: '59'
+ht-degree: 22%
 
 ---
 
-# Hantera användares åtkomsträttigheter
+# Hantera användarnas åtkomsträttigheter
 
 I den här videon förklaras hur du definierar och hanterar behörigheter som tilldelats olika användare i Adobe Campaign.
 

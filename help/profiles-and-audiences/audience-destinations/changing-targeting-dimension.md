@@ -1,7 +1,7 @@
 ---
 title: Ändra målet för målinriktningen
 description: I den här videon förklaras hur du ändrar målinriktningsdimensionen för en leverans för en Platform Audience utanför den primära profiltabellen i Adobe Campaign Standard.
-feature: Integrering av tjänsten People Core
+feature: People Core Service Integration
 kt: 3739
 thumbnail: 30151.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '166'
-ht-degree: 6%
+source-wordcount: '162'
+ht-degree: 11%
 
 ---
 
@@ -25,7 +25,7 @@ ht-degree: 6%
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
-I den här videon förklaras hur du ändrar måldimensionen för en leverans för en [!UICONTROL Platform Audience] utanför den primära profiltabellen i Adobe Campaign Standard.
+I den här videon förklaras hur du ändrar målinriktningsdimensionen för en leverans för en [!UICONTROL Platform Audience] utanför den primära profiltabellen i Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12)
 
@@ -39,5 +39,5 @@ Dokumentation:
 
 Videoresurser:
 
-* [Skapa en målgrupp med verktyget Enhetligt segment](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
+* [Skapa en målgrupp med den enhetliga segmentskaparen](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
 * [Aktivera Adobe Experience Platform-målgrupper i ett marknadsföringsarbetsflöde](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)

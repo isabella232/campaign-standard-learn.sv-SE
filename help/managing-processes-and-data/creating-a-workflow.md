@@ -1,7 +1,7 @@
 ---
 title: Skapa ett arbetsflöde
 description: Lär dig hur du skapar och redigerar ett arbetsflöde.
-feature: Arbetsflöden
+feature: Workflows
 kt: 1809
 thumbnail: 23937.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 10%
+source-wordcount: '82'
+ht-degree: 9%
 
 ---
 

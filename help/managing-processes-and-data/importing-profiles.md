@@ -1,7 +1,7 @@
 ---
 title: Importera profiler med ett arbetsflöde
 description: Lär dig hur du importerar profildata med hjälp av ett arbetsflöde.
-feature: Datahantering
+feature: Data Management
 kt: 1818
 thumbnail: 24993.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User, Developer, Admin
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 27%
+source-wordcount: '102'
+ht-degree: 26%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 27%
 
 Du kan samla in data från en fil för att bearbeta den och/eller importera den till Adobe Campaign-databasen.
 
-I den här videon förklaras hur du använder [!UICONTROL Data Management]-aktiviteterna i ett arbetsflöde för att importera profildata.
+I den här videon förklaras hur du använder [!UICONTROL Data Management] aktiviteter i ett arbetsflöde för att importera profildata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
 

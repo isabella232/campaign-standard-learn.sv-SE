@@ -1,7 +1,7 @@
 ---
 title: Arbeta med befintligt innehåll
 description: Lär dig hur du hämtar ditt kreativa innehåll från en webbplats och läser in det i e-postdesignern.
-feature: E-postdesign
+feature: Email Design
 kt: 6295
 thumbnail: 25926.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ role: User, Developer
 level: Beginner
 source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
 workflow-type: tm+mt
-source-wordcount: '105'
+source-wordcount: '103'
 ht-degree: 7%
 
 ---
@@ -27,7 +27,7 @@ Lär dig hur du hämtar ditt kreativa innehåll från en webbplats och läser in
 
 ## Göra befintligt HTML-innehåll kompatibelt {#making-existing-html-content-compatible}
 
-E-postdesignern kräver specifik taggning, som måste användas för att HTML-standardinnehåll som överförs till Adobe Campaign ska vara helt kompatibelt och redigerbart.
+E-postdesignern kräver specifik taggning, som måste användas för att standardinnehåll i HTML som överförs till Adobe Campaign ska vara helt kompatibelt och redigerbart.
 
 Du hittar detaljerad dokumentation under följande länk:
 

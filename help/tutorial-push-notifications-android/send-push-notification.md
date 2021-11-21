@@ -9,8 +9,8 @@ team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '139'
-ht-degree: 4%
+source-wordcount: '138'
+ht-degree: 3%
 
 ---
 
@@ -21,10 +21,10 @@ Nu måste vi skapa och skicka en [!UICONTROL Push Notification] med Adobe Campai
 * Logga in på din Adobe Campaign Standard-instans
 * Klicka på **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * Välj **[!UICONTROL Send push to app subscribers(mobileApp)]** och klicka på Nästa
-* Välj lämplig mobilapp i listrutan **[!UICONTROL Associate a Mobile App to a delivery]** och klicka på **[!UICONTROL Next]**
+* Välj lämplig mobilapp i **[!UICONTROL Associate a Mobile App to a delivery]** nedrullningsbar lista och klicka **[!UICONTROL Next]**
 * Klicka på räknetiketten och den ska returnera ett värde som är större än 0. Klicka på **[!UICONTROL Next]**
-* Ange en meningsfull [!UICONTROL Message title] och [!UICONTROL Message body] och klicka på **[!UICONTROL Create]**.
-* Klicka på **[!UICONTROL Prepare]**. Klicka **[!UICONTROL Confirm]** när du är klar med förberedelsen för att skicka meddelandet.
+* Tillhandahålla en meningsfull [!UICONTROL Message title] och [!UICONTROL Message body] och klicka **[!UICONTROL Create]**.
+* Klicka på **[!UICONTROL Prepare]**. När du är klar klickar du **[!UICONTROL Confirm]** för att skicka meddelandet.
 
 Om allt blir bra bör du se ett meddelande i din Android™-app som körs i emulatorn
 

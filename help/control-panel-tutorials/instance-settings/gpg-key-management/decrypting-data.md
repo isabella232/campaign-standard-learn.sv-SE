@@ -1,7 +1,7 @@
 ---
 title: Dekryptera data
 description: Lär dig hur du skapar en offentlig nyckel och importerar och installerar den på en Campaign-instans för dekryptering av data.
-feature: 'Kontrollpanelen  '
+feature: Control Panel
 audience: administrator
 kt: 5545
 thumbnail: 35753.jpg
@@ -11,8 +11,8 @@ team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
 source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 62%
+source-wordcount: '84'
+ht-degree: 75%
 
 ---
 
@@ -26,4 +26,4 @@ Läs mer om hur du skapar en offentlig nyckel samt importerar och installerar de
 ## Ytterligare resurser
 
 * [Hantera GPG-nycklar (videor)](./gpg-key-management-overview.md)
-* [Hantera GPG-nycklar (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html)
+* [GPG-nyckelhantering (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=sv)

@@ -1,7 +1,7 @@
 ---
 title: Skapa profiler och målgrupper – översikt
 description: Lär dig navigera till befintliga profiler och hur du skapar profiler och målgrupper.
-feature: Profiler och målgrupper
+feature: Profiles, Audiences
 kt: 3899
 thumbnail: 18463.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
 workflow-type: tm+mt
-source-wordcount: '85'
-ht-degree: 18%
+source-wordcount: '83'
+ht-degree: 16%
 
 ---
 
@@ -24,7 +24,7 @@ Adobe Campaign har två typer eller profiler:
 * Identifierade profiler
 * Testprofiler
 
-Profiler som grupperas enligt ett eller flera gemensamma kriterier kallas **målgrupper**.
+Profiler som är grupperade enligt ett eller flera gemensamma villkor anropas **målgrupper**.
 
 I den här videon förklaras hur du navigerar till befintliga profiler och hur du skapar profiler och målgrupper i Adobe Campaign Standard.
 

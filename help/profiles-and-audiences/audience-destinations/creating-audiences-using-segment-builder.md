@@ -1,7 +1,7 @@
 ---
-title: Skapa en målgrupp med verktyget Enhetligt segment
+title: Skapa en målgrupp med den enhetliga segmentskaparen
 description: Lär dig skapa en målgrupp med verktyget Unified Segment Builder
-feature: Integrering av tjänsten People Core
+feature: People Core Service Integration
 kt: 2754
 thumbnail: 27638.jpg
 doc-type: feature video
@@ -12,12 +12,12 @@ role: User, Developer
 level: Beginner, Intermediate, Experienced
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 4%
+source-wordcount: '210'
+ht-degree: 12%
 
 ---
 
-# Skapa en målgrupp med verktyget Enhetligt segment
+# Skapa en målgrupp med den enhetliga segmentskaparen
 
 >[!NOTE]
 >
@@ -25,11 +25,11 @@ ht-degree: 4%
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
-Med Adobe Campaign Standard kan du skapa målgrupper med hjälp av data från Adobe Experience Cloud [Real-Time Customer Profile](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) med Adobe Experience Platform [!UICONTROL Unified Segment Builder].
+Med Adobe Campaign Standard kan ni skapa målgrupper med hjälp av data från Adobe Experience Cloud [Kundprofil i realtid](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en) genom att använda Adobe Experience Platform [!UICONTROL Unified Segment Builder].
 
-Du kan komma åt [!UICONTROL Unified Segment Builder] direkt i Adobe Campaign Standard via modulen [!UICONTROL Audiences ]. Du kan hantera de här målgrupperna direkt i listvyn [!UICONTROL Audiences], där du kan redigera eller skapa en Adobe Experience Platform-målgrupp direkt från Adobe Campaign gränssnitt
+Du kommer åt [!UICONTROL Unified Segment Builder] direkt i Adobe Campaign Standard via [!UICONTROL Audiences ] -modul. Det gör att ni kan hantera dessa målgrupper direkt i [!UICONTROL Audiences] listvy, där du kan redigera eller skapa en Adobe Experience Platform-publik direkt från Adobe Campaign gränssnitt
 
-I videon nedan förklaras hur en ny publik skapas med [!UICONTROL Unified Segment Builder] i Adobe Campaign Standard.
+I videon nedan förklaras hur en ny publik skapas med [!UICONTROL Unified Segment Builder] inom Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 

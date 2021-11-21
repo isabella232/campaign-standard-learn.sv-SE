@@ -1,7 +1,7 @@
 ---
 title: Skapa en rapport baserad på arbetsflödessegment
 description: Lär dig hur du definierar segment i ditt arbetsflöde och hur du använder dem i dynamiska rapporter.
-feature: Rapportering
+feature: Reporting
 kt: 3252
 thumbnail: 28262.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ role: User
 level: Beginner
 source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 17%
+source-wordcount: '85'
+ht-degree: 16%
 
 ---
 
@@ -25,4 +25,4 @@ Lär dig hur du definierar segment i ditt arbetsflöde och hur du använder dem 
 
 >[!VIDEO](https://video.tv.adobe.com/v/28262?quality=12)
 
-Mer information finns i [dokumentationen](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)
+Mer information finns i [dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/customizing-reports/creating-a-report-workflow-segment.html?lang=en)

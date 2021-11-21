@@ -1,17 +1,16 @@
 ---
 title: Steg 3 – registrera tillägg i din mobilapp
 description: I den här delen ska vi lägga till koden för att registrera tilläggen UserProfile, Identity, Lifecycle och Signal.
-feature: Tryck
+feature: Push
 kt: 4827
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-translation-type: tm+mt
 source-git-commit: ada0b029245190f53d58fa93c79c161719bfe9fd
 workflow-type: tm+mt
-source-wordcount: '123'
-ht-degree: 12%
+source-wordcount: '122'
+ht-degree: 11%
 
 ---
 
@@ -19,7 +18,7 @@ ht-degree: 12%
 
 I den här delen ska vi lägga till koden för att registrera tilläggen Användarprofil, Identitet, Livscykel och Signal. Dessa tillägg ingår i [[!UICONTROL Mobile Core Extensions]](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/mobile-core). Vi måste också registrera Adobe Campaign Standard-tillägget enligt koden nedan.
 
-Öppna projektet i [!DNL Android] studio. Ta bort hela koden i MainApp **förutom den första raden som är din paketprogramsats**.
+Öppna projektet i [!DNL Android] studio. Ta bort hela koden i MainApp **förutom den första raden som är programsatsen package**.
 
 Klistra in följande kod i MainApp
 
@@ -69,6 +68,6 @@ try{
 }
 ```
 
-Rad 32 måste du ange ditt[!UICONTROL  Launch]-egenskaps miljöfil-ID. Du kommer åt detta från [!UICONTROL environment tab] för egenskapen [!UICONTROL Launch].
+Rad 32: du måste ange[!UICONTROL  Launch] Egenskapens miljöfil-ID. Du kommer åt detta via [!UICONTROL environment tab] på [!UICONTROL Launch] -egenskap.
 
 ![launch-id](assets/launch-id-property.PNG)

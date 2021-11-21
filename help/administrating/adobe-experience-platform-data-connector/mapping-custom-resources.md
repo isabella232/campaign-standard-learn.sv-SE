@@ -1,7 +1,7 @@
 ---
 title: Kartlägga anpassade resurser
 description: Lär dig hur du mappar olika datatyper mellan Adobe Campaign Standard (ACS) och Adobe Experience Platform (AEP)
-feature: Integrering av tjänsten People Core
+feature: People Core Service Integration
 kt: 2828
 thumbnail: 27231.jpg
 doc-type: feature video
@@ -10,12 +10,12 @@ team: TM
 exl-id: c0c8bcca-9b32-461a-8126-3a59106fe6ac
 source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
 workflow-type: tm+mt
-source-wordcount: '79'
-ht-degree: 8%
+source-wordcount: '75'
+ht-degree: 9%
 
 ---
 
-# Mappa [!UICONTROL custom resources]
+# Mappning [!UICONTROL custom resources]
 
 >[!NOTE]
 >
