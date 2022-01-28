@@ -10,9 +10,9 @@ team: PMM
 exl-id: 4377b2d6-e5cc-4f25-b40a-e24b7ddf74ed
 role: User, Developer
 level: Beginner
-source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
+source-git-commit: e918bcaf5e7bc735bc176d7c7638657f1c7eeab2
 workflow-type: tm+mt
-source-wordcount: '49'
+source-wordcount: '36'
 ht-degree: 100%
 
 ---
@@ -22,9 +22,3 @@ ht-degree: 100%
 I den här videon förklaras vilka funktioner i Adobe Campaign Standard som har stöd för din strategi för mobil marknadsföring.
 
 >[!VIDEO](https://video.tv.adobe.com/v/29468?quality=12)
-
-## Ytterligare resurser
-
-* [Meddelanden i appen med Adobe Campaign](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
-* [Skapa ett push-meddelande](/help/communication-channels/mobile/push-notifications/creating-a-push-notification.md)
-* [SMS-leveranser](/help/communication-channels/mobile/sms/sms-delivery.md)
