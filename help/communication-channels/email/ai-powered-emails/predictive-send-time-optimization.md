@@ -10,10 +10,10 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 64940a739897c3969574dcf1d1e36c5a986d0473
+source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
 workflow-type: tm+mt
-source-wordcount: '201'
-ht-degree: 89%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,12 +30,4 @@ Förstå vilka arbetsflöden som krävs för att synkronisera data mellan Adobe 
 
 >[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
 
-## Ytterligare resurser
-
-Självstudiekurser:
-
-* [Prediktiv poängsättning för engagemang](predictive-engagement-scoring.md)
-
-Dokumentation:
-
-* [Optimera design och leverans med AI-baserade e-postmeddelanden](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
+Läs produktdokumentationen om du vill veta mer om detta [optimera design och leverans med AI-baserade e-postmeddelanden](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)
