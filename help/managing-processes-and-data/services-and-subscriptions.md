@@ -10,10 +10,10 @@ team: DOC
 exl-id: 2970db2c-b01b-4a7c-9eec-47a530209c24
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: e8bc68272747d824e0978d603f3a5ba2fe9806cf
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 37%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -32,9 +32,3 @@ Varje tjänst levereras med:
 I den här videon visas hur du skapar en tjänst och hanterar dess prenumerationer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24673?quality=12)
-
-## Ytterligare resurser
-
-* [Prenumerationstjänster](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/subscription-services.html?lang=en)
-* [Skapa en tjänst](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-subscriptions/creating-a-service.html?lang=en)
-* [Övervaka prenumerationer](https://experienceleague.adobe.com/docs/campaign-standard/using/profiles-and-audiences/managing-subscriptions/monitoring-subscriptions.html?lang=en)
