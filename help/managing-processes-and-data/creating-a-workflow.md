@@ -10,10 +10,10 @@ team: DOC
 exl-id: da1ba3a1-c27c-458e-ba96-5bc1aef486ba
 role: User, Developer, Admin
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: d17d85030b0f6483f39dcee88dff084f31803422
 workflow-type: tm+mt
-source-wordcount: '82'
-ht-degree: 9%
+source-wordcount: '88'
+ht-degree: 6%
 
 ---
 
@@ -30,6 +30,4 @@ I den här videon visas hur du skapar och redigerar ett arbetsflöde i Adobe Cam
 
 >[!VIDEO](https://video.tv.adobe.com/v/23937?quality=12)
 
-## Ytterligare resurser
-
-* [Skapa ett arbetsflöde (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
+Mer information om [Skapa ett arbetsflöde (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/workflow-general-operation/building-a-workflow.html)
