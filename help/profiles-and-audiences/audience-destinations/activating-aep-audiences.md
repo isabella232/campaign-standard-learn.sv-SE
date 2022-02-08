@@ -10,10 +10,10 @@ team: PM
 exl-id: 955d063f-4709-4f56-8f39-f1b838354300
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c3ccbd6f1453bbc0da5f3a65b0165002707884e3
 workflow-type: tm+mt
-source-wordcount: '144'
-ht-degree: 12%
+source-wordcount: '123'
+ht-degree: 6%
 
 ---
 
@@ -31,13 +31,4 @@ I den här videon förklaras hur du aktiverar [!UICONTROL Data Services Query Au
 
 *Aktivera en Adobe Experience Platform-målgrupp i ett arbetsflöde (02:37 min)*
 
-## Ytterligare resurser
-
-Dokumentation:
-
-* [Mata in målgrupper från Adobe Experience Platform i Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
-
-Videoresurser:
-
-* [Skapa en målgrupp i Adobe Campaign Standard med Unified Segment Builder](/help/profiles-and-audiences/audience-destinations/creating-audiences-using-segment-builder.md)
-* [Ändra målinriktningsdimensionen för en leverans för en plattformspublik](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
+Läs produktdokumentationen om hur du [Engagera Adobe Experience Platform-målgrupper i Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/adobe-experience-platform/aep-sources-destinations/ingest-aep-data.html)
