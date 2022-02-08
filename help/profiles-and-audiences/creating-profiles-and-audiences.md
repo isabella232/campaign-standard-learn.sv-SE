@@ -10,10 +10,10 @@ team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 role: User
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 9333e405cd7db178cebf0281f7a34fbb2a183081
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 16%
+source-wordcount: '69'
+ht-degree: 17%
 
 ---
 
@@ -29,9 +29,3 @@ Profiler som är grupperade enligt ett eller flera gemensamma villkor anropas **
 I den här videon förklaras hur du navigerar till befintliga profiler och hur du skapar profiler och målgrupper i Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
-
-## Ytterligare resurser
-
-* [Skapa en profil](/help/profiles-and-audiences/creating-a-profile.md)
-* [Skapa en testprofil](/help/profiles-and-audiences/test-profiles.md)
-* [Importera profiler med ett arbetsflöde](/help/managing-processes-and-data/importing-profiles.md)
