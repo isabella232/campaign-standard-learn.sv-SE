@@ -10,10 +10,10 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: c249ea1f955d3e0d3f1477ee822edb6295da8de1
 workflow-type: tm+mt
-source-wordcount: '210'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -35,14 +35,9 @@ I videon nedan förklaras hur en ny publik skapas med [!UICONTROL Unified Segmen
 
 *Skapa en målgrupp i Adobe Campaign Standard med Unified Segment Builder (min 02:47)*
 
-## Ytterligare resurser
-
-Dokumentation:
+Mer information finns i produktdokumentationen:
 
 * [Kundprofilöversikt i realtid](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 * [Användarhandbok för Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
 
-Videoresurser:
 
-* [Aktivera målgrupper i Experience Platform i ett arbetsflöde](/help/profiles-and-audiences/audience-destinations/activating-aep-audiences.md)
-* [Ändra målinriktningsdimensionen för en leverans för en publik på en plattform](/help/profiles-and-audiences/audience-destinations/changing-targeting-dimension.md)
