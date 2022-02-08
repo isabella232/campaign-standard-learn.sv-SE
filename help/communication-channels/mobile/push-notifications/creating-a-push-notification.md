@@ -10,10 +10,10 @@ team: TM
 exl-id: 7520cb4a-f277-42fa-81be-afb46b21365f
 role: User
 level: Beginner
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 7777c76109ca8f40982073ec4782e82903a78095
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 12%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -30,14 +30,3 @@ Med Adobe Campaign kan ni skicka personaliserade och segmenterade [!UICONTROL pu
 I videon beskrivs hur du skickar en [!DNL push notification to app subscribers].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31499?quality=12)
-
-## Ytterligare resurser
-
-Dokumentation:
-
-* [Om push-meddelanden](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/about-push-notifications.html)
-* [Förbereda och skicka ett push-meddelande](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/push-notifications/preparing-and-sending-a-push-notification.html)
-
-Självstudiekurser:
-
-* [Skapa ett flerspråkigt push-meddelande](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
