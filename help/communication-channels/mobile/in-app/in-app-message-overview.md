@@ -9,9 +9,9 @@ team: TM
 exl-id: c51716eb-7239-4fc0-9ccf-9f5f0a5fae65
 role: User
 level: Beginner
-source-git-commit: 30e8e10575aad4dcf2b0473cdd9fd6d5fc2815f4
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '728'
+source-wordcount: '629'
 ht-degree: 21%
 
 ---
@@ -68,13 +68,3 @@ Den här mallen är användbar för att stödja flerkanalsanvändning, där du r
 ## Rapportera om leveranser i appen {#report}
 
 När leveransen har publicerats kan du [rapport om din leverans i appen](/help/communication-channels/mobile/in-app/in-app-reporting.md).
-
-## Ytterligare resurser
-
-* [Rapport i appen](https://experienceleague.adobe.com/docs/campaign-standard/using/reporting/list-of-reports/in-app-report.html?lang=en)
-* [Konfigurera en mobil egenskap](https://aep-sdks.gitbook.io/docs/getting-started/create-a-mobile-property)
-* [Konfigurera ett mobilprogram med Adobe Experience Platform SDK](https://experienceleague.adobe.com/docs/campaign-standard/using/administrating/configuring-channels/configuring-a-mobile-application.html?lang=en)
-* [Förbereda och skicka ett meddelande i appen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
-* [Anpassa ett meddelande i appen](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)
-* [Skicka ett meddelande i appen i ett arbetsflöde](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/channel-activities/in-app-delivery.html?lang=en)
-* [Aktivera livscykelvärden](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)

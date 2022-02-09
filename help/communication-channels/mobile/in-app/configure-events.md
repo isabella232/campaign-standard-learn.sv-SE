@@ -10,10 +10,10 @@ team: TM
 exl-id: 2c7937f4-b0da-46e5-934e-c660012c2c6f
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 3%
+source-wordcount: '201'
+ht-degree: 2%
 
 ---
 
@@ -61,7 +61,3 @@ Följande tre kategorier stöds beroende på vad som finns i din mobilapp:
 >[!NOTE]
 >
 >[!UICONTROL Analytics events] kräver en Adobe Analytics-licens. När du har [[!DNL Analytics] tillägg konfigurerat](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#configure-analytics-extension-in-launch) och har lagts till [Analyser för er app](https://aep-sdks.gitbook.io/docs/using-mobile-extensions/adobe-analytics#add-analytics-to-your-app), blir dessa händelser tillgängliga i [!UICONTROL In-App] konfiguration i ACS.
-
-## Ytterligare resurser
-
-* [Aktivera livscykelvärden (dokumentation)](https://aep-sdks.gitbook.io/docs/getting-started/initialize-the-sdk#enable-lifecycle-metrics)

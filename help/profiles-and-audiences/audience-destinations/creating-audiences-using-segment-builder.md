@@ -10,10 +10,10 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c249ea1f955d3e0d3f1477ee822edb6295da8de1
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 9%
 
 ---
 
@@ -34,10 +34,3 @@ I videon nedan förklaras hur en ny publik skapas med [!UICONTROL Unified Segmen
 >[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12)
 
 *Skapa en målgrupp i Adobe Campaign Standard med Unified Segment Builder (min 02:47)*
-
-Mer information finns i produktdokumentationen:
-
-* [Kundprofilöversikt i realtid](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-* [Användarhandbok för Segment Builder](https://experienceleague.adobe.com/docs/experience-platform/landing/home.html)
-
-

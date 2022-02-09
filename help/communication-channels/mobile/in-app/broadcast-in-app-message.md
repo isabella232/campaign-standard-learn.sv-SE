@@ -10,10 +10,10 @@ team: TM
 exl-id: 55cc83d2-e1ec-488d-b36a-b5f8c96dc412
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 7f70c5a02654b03f248e2ec71563473f98688b70
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '131'
-ht-degree: 7%
+source-wordcount: '97'
+ht-degree: 8%
 
 ---
 
@@ -31,8 +31,3 @@ Lär dig hur du konfigurerar och använder sändningsmallen för att nå alla an
 >[!VIDEO](https://video.tv.adobe.com/v/26199?quality=12)
 
 *Skapa ett meddelande för sändning i appen med hjälp av en SDKV5 Mobile-egenskap*
-
-## Ytterligare resurser
-
-* [Förbereda och skicka ett meddelande i appen (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/preparing-and-sending-an-in-app-message.html?lang=en)
-* [Anpassa ett meddelande i appen (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/communication-channels/in-app-messaging/customizing-an-in-app-message.html?lang=en)

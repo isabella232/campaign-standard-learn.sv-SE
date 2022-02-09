@@ -10,10 +10,10 @@ team: TM
 exl-id: bce6fa2e-a684-43af-a41e-dfec54dd453a
 role: User, Developer
 level: Experienced
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '174'
-ht-degree: 47%
+source-wordcount: '159'
+ht-degree: 49%
 
 ---
 
@@ -37,7 +37,3 @@ I den här videon visas hur du använder [!UICONTROL External API activity].
 >[!NOTE]
 >
 >Aktiviteten är avsedd för att hämta data för hela kampanjen, inte för att hämta specifik information för varje profil eftersom det kan leda till att stora mängder data överförs. Om ett användningsfall kräver profilspecifik information bör du använda aktiviteten Överför fil.
-
-## Ytterligare resurser
-
-* [Externt API (dokumentation)](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/external-api.html?lang=en)

@@ -9,10 +9,10 @@ audience: administrator
 activity: use
 team: PM
 exl-id: b93ff670-a1a7-41d2-923b-c7c09d4d7c37
-source-git-commit: 84195adf94a98bf3150a51f17aa1de1d0329da05
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '83'
-ht-degree: 3%
+source-wordcount: '71'
+ht-degree: 0%
 
 ---
 
@@ -23,7 +23,3 @@ Om du vill ansluta till en server via ett klientprogram eller ett API måste du 
 Lär dig hur du lägger till ett IP-adressintervall i tillåtelselista.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
-
-## Ytterligare resurser
-
-[Dokumentation](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=en)

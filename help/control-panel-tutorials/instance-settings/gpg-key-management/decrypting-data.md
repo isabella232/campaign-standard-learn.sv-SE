@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 3d4aaf1f-b8cf-4e22-accb-4f73aaaf21af
-source-git-commit: 344b8d8bb216489db586b030c71fd84d273968d9
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 75%
+source-wordcount: '67'
+ht-degree: 68%
 
 ---
 
@@ -22,8 +22,3 @@ Med kontrollpanelen kan du dekryptera externa data som kommer in till instansern
 Läs mer om hur du skapar en offentlig nyckel samt importerar och installerar den på en instans i Campaign för att dekryptera inkommande data.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35753?quality=12)
-
-## Ytterligare resurser
-
-* [Hantera GPG-nycklar (videor)](./gpg-key-management-overview.md)
-* [GPG-nyckelhantering (dokumentation)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=sv)

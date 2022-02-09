@@ -10,10 +10,10 @@ team: DOC
 exl-id: 4d9ce24e-cd01-4b81-8aee-58c58ef2f286
 role: User, Developer, Admin
 level: Beginner
-source-git-commit: 2be2719ddd84490b796d9abc6300376fa896ff0c
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '102'
-ht-degree: 26%
+source-wordcount: '54'
+ht-degree: 18%
 
 ---
 
@@ -24,11 +24,3 @@ Du kan samla in data från en fil för att bearbeta den och/eller importera den 
 I den här videon förklaras hur du använder [!UICONTROL Data Management] aktiviteter i ett arbetsflöde för att importera profildata.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24993?quality=12)
-
-## Ytterligare resurser
-
-**Produktdokumentation:**
-* [Överföringsfil](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/transfer-file.html)
-* [Ladda fil](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/load-file.html)
-* [Uppdatera data](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/update-data.html)
-* [Kom igång med processer och datahantering](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/get-started-workflows.html)

@@ -8,9 +8,9 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: da796c3f-ba35-4901-8021-3f497c64ba3a
-source-git-commit: 481cbdcc9ac7446cc36fbff6e3d6e43fe333d30b
+source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
 workflow-type: tm+mt
-source-wordcount: '90'
+source-wordcount: '56'
 ht-degree: 100%
 
 ---
@@ -20,8 +20,3 @@ ht-degree: 100%
 I Adobe Campaign hanteras förfrågningar om användarens information i arbetsflöden. Den här videon beskriver vilka arbetsflöden som får åtkomst till och kan radera begäranden och vad som händer när de körs.
 
 >[!VIDEO](https://video.tv.adobe.com/v/22770?quality=12)
-
-## Ytterligare resurser
-
-* [Allmänna riktlinjer för integritetsskydd i Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=sv#getting-started)
-* [CCPA för Adobe Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-requests.html?lang=sv#privacy-requests)
