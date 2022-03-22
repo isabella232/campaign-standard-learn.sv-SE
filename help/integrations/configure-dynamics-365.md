@@ -10,16 +10,16 @@ activity: setup
 team: PM
 exl-id: b1eecb0f-d51d-4671-93d1-656b507c5bb6
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '71'
-ht-degree: 77%
+ht-degree: 100%
 
 ---
 
 # Konfigurera [!DNL Microsoft® Dynamics 365] för integrering med Campaign Standard {#configure-microsoft-dynamics-365}
 
-Läs om hur du konfigurerar Microsoft® Dynamics 365 för användning i integreringen mellan Dynamics och Campaign Standard.
+Lär dig hur du konfigurerar Microsoft® Dynamics 365 för användning i integreringen mellan Dynamics och Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27637?quality=12)
 
-Mer information om hur du gör det finns i produktdokumentationen [Kom igång med Microsoft® Dynamics 365-integrering](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=sv)
+Mer information om hur du gör detta finns i produktdokumentationen [Kom igång med integrering av Microsoft® Dynamics 365](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=sv)
