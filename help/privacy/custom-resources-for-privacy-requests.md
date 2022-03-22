@@ -9,9 +9,9 @@ activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '198'
-ht-degree: 89%
+ht-degree: 100%
 
 ---
 
@@ -29,4 +29,4 @@ När du konfigurerar Adobe Campaign Standard för att hantera förfrågningar om
 >
 > Kontrollera vilken version du har genom att klicka på **?** i det övre högra hörnet av gränssnittet och välja Om.
 
-Se även [Allmänna riktlinjer för integritetsskydd för Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=sv)
+Se även [Allmänna riktlinjer för integritetsskydd i Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/privacy/privacy-management.html?lang=sv)
