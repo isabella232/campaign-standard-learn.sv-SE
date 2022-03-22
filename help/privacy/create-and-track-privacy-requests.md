@@ -9,9 +9,9 @@ activity: use
 team: TM
 exl-id: 850dbab3-10b4-4a8f-b6a8-6126bc48eee5
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '123'
-ht-degree: 87%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ Lär dig hur du manuellt skapar förfrågningar om användarens information och 
 
 >[!VIDEO](https://video.tv.adobe.com/v/29235?quality=12)
 
-Mer information om [Allmänna riktlinjer för integritetsskydd för Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=sv).
+Se produktdokumentationen för mer information om [Allmänna riktlinjer för integritetsskydd i Campaign](https://experienceleague.adobe.com/docs/campaign-standard/using/getting-started/privacy/privacy-management.html?lang=sv).
