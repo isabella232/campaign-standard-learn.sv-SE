@@ -9,7 +9,7 @@ activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
 source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '74'
 ht-degree: 100%
 
@@ -23,6 +23,6 @@ ht-degree: 100%
 
 Om du vill kunna skicka e-postmeddelanden eller publicera landningssidor med Adobe Campaign måste du konfigurera en ny underdomän.
 
-Läs om hur du konfigurerar och skickar in en underdomän med CNAME i Kontrollpanelen.
+Lär dig hur du konfigurerar och skickar in en underdomän med CNAMEs i kontrollpanelen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/326612?quality=12)
