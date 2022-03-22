@@ -3,9 +3,9 @@ user-guide-title: Självstudiekurser om Adobe Campaign Standard
 user-guide-description: Designa kundupplevelser över flera kanaler och skapa en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och marknadsföring över flera kanaler.
 breadcrumb-title: Självstudiekurser om Campaign Standard
 source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '542'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -121,4 +121,4 @@ ht-degree: 98%
    + [Modifiera anpassade resurser för förfrågningar om användarens information](/help/privacy/custom-resources-for-privacy-requests.md)
    + [Skapa och spåra förfrågningar om användarens information manuellt](/help/privacy/create-and-track-privacy-requests.md)
    + [Köra förfrågningar om användarens information](/help/privacy/execute-privacy-requests.md)
-+ [Felsöka Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html)
++ [Felsöka Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=se)
