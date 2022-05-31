@@ -2,17 +2,17 @@
 user-guide-title: Självstudiekurser om Adobe Campaign Standard
 user-guide-description: Designa kundupplevelser över flera kanaler och skapa en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och marknadsföring över flera kanaler.
 breadcrumb-title: Självstudiekurser om Campaign Standard
-source-git-commit: e38405b798f231c9f7c22ac95ea44324ce94651d
-workflow-type: ht
-source-wordcount: '542'
-ht-degree: 100%
+source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
 
 # Självstudiekurser om Adobe Campaign Standard {#tutorials}
 
-+ [Översikt](/help/overview.md)
++ [Adobe Campaign Standard](/help/overview.md)
 + Kom igång {#getting-started}
    + [Introduktion till Adobe Campaign Standard](/help/getting-started/adobe-campaign-standard-introduction.md)
    + [Komma igång med användargränssnittet](/help/getting-started/getting-started-with-the-ui.md)
