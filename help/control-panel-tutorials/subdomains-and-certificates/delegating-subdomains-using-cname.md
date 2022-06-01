@@ -8,18 +8,14 @@ doc-type: feature video
 activity: use
 team: PM
 exl-id: 63f65fa1-94c9-42ac-93a7-32d138a0a6a6
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '74'
+source-git-commit: 26dd621e1f89ed31a8656783f46b2bc388464ed1
+workflow-type: tm+mt
+source-wordcount: '54'
 ht-degree: 100%
 
 ---
 
-# Delegera underdomäner med CNAME (beta)
-
->[!IMPORTANT]
->
-> Användningen av CNAME för att delegera underdomäner är i betaversion och uppdateras och ändras ofta utan föregående meddelande.
+# Delegera underdomäner med CNAME
 
 Om du vill kunna skicka e-postmeddelanden eller publicera landningssidor med Adobe Campaign måste du konfigurera en ny underdomän.
 
