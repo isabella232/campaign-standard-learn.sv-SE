@@ -2,10 +2,10 @@
 user-guide-title: Självstudiekurser om Adobe Campaign Standard
 user-guide-description: Designa kundupplevelser över flera kanaler och skapa en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och marknadsföring över flera kanaler.
 breadcrumb-title: Självstudiekurser om Campaign Standard
-source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '565'
+ht-degree: 96%
 
 ---
 
@@ -47,7 +47,6 @@ ht-degree: 0%
       + [Konvertera ett befintligt e-postmeddelande, en SMS-leverans eller en mall till flerspråkiga versioner](/help/communication-channels/covert-into-multilingual-deliveries.md)
       + [Granska en e-postleverans och -rapporter](/help/communication-channels/email/reviewing-personalized-email-delivery-and-reports.md)
       + [Skapa och skicka e-postmeddelanden via ett arbetsflöde](/help/communication-channels/email/create-and-send-emails-via-workflow.md)
-      + [God praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
       + AI-baserade e-postmeddelanden {#journey-ai}
          + [Prediktiv optimering av sändningstid](/help/communication-channels/email/ai-powered-emails/predictive-send-time-optimization.md)
          + [Prediktiv poängsättning för engagemang](/help/communication-channels/email/ai-powered-emails/predictive-engagement-scoring.md)
@@ -122,3 +121,6 @@ ht-degree: 0%
    + [Skapa och spåra förfrågningar om användarens information manuellt](/help/privacy/create-and-track-privacy-requests.md)
    + [Köra förfrågningar om användarens information](/help/privacy/execute-privacy-requests.md)
 + [Felsöka Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=se)
++ Strategi och tankeledarskap{#strategy}
+   + [Maximera avkastningen på e-postmarknadsföringen och hitta de bästa sätten att återengagera prenumeranter](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)

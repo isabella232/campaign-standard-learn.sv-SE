@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
-workflow-type: ht
-source-wordcount: '258'
-ht-degree: 100%
+source-git-commit: 4fe27ac1cb9f00ee512a8554cc8e0fd2acb54a4b
+workflow-type: tm+mt
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 100%
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 
 ## Nyheter
+
+* **[Maximera avkastningen på e-postmarknadsföringen och lär dig de bästa sätten att återengagera prenumeranter](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *Lär dig hur du maximerar avkastningen på e-postmarknadsföring och lär dig de bästa sätten att återengagera prenumeranter. Upptäck strategierna för att förbättra era abonnenters engagemang och förstå hur väl era e-postkampanjer fungerar i stort.*
 
 * **[Felsök](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=sv)**
 
@@ -59,7 +63,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
       <img alt="Självstudiekurs: Komma igång med push-meddelanden för Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=sv">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>Självstudiekurs: Komma igång med push-meddelanden för Android™</strong>
     </a>
     </div>
