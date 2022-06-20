@@ -11,9 +11,9 @@ team: PM
 recommendations: noDisplay
 exl-id: 6c236625-1a7a-4009-898b-b4bd82fa1efa
 source-git-commit: 6c546fa15406b8cdb06790339f5f15b470415a37
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '248'
-ht-degree: 95%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Via kontrollpanelen i Adobe Campaign kan administratörer i Adobe Campaign över
 
    *Lär dig hur du konfigurerar och lämnar in en underdomän med CNAME:er i kontrollpanelen.*
 
-Se [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=sv) för mer information om de senaste produktreleaserna.
+Se [Versionsinformation](https://experienceleague.adobe.com/docs/control-panel/using/release-notes.html?lang=sv) för mer information om de senaste produktversionerna.
 
 ## Personalens val
 
