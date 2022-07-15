@@ -4,8 +4,8 @@ user-guide-description: Designa kundupplevelser över flera kanaler och skapa en
 breadcrumb-title: Självstudiekurser om Campaign Standard
 source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
 workflow-type: tm+mt
-source-wordcount: '567'
-ht-degree: 98%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -103,7 +103,7 @@ ht-degree: 98%
 + Administrera {#administrating}
    + [Hantera användarnas åtkomsträttigheter](/help/administrating/managing-user-access-rights.md)
    + [Skapa anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=sv)
-   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html){target=&quot;_blank&quot;}
+   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=sv){target=&quot;_blank&quot;}
    + Datakoppling till Adobe Experience Platform {#adobe-experience-platform-data-connector}
       + [Förstå datakoppling till Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappa anpassade resurser](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
