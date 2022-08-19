@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 8a5fe85be0d3dc2f104bb7d4f367ec373ad6f937
-workflow-type: ht
+source-git-commit: f06fd60880e5a32326287fa1782404d3909cf3a5
+workflow-type: tm+mt
 source-wordcount: '0'
-ht-degree: 100%
+ht-degree: 0%
 
 ---
 
@@ -19,6 +19,10 @@ ht-degree: 100%
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
 
 ## Nyheter
+
+* **[SMPP-protokollets djupdykning och felsökning](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+
+   *Lär dig hur SMPP-anslutningar upprättas och hur SMPP utbyter data via PDU:er. Lär dig hur du felsöker anslutningar.*
 
 * **[Kontrollpanelen – övervaka arbetsflöden](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/performance-monitoring/monitor-workflows.html?lang=sv){target=&quot;_blank&quot;}**
 
@@ -63,7 +67,7 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
       <img alt="Självstudiekurs: Komma igång med push-meddelanden för Android" src="./assets/push-for-android.png" />
     </a>
     <div>
-      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=sv">
+      <a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=en">
     <strong>Självstudiekurs: Komma igång med push-meddelanden för Android™</strong>
     </a>
     </div>
