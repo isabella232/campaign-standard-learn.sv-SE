@@ -5,9 +5,9 @@ doc-type: article
 role: User
 level: Beginner
 kt: 11772
-source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
+source-git-commit: 8fa4a3e70ab815af801aaf96596fcc466b879086
 workflow-type: tm+mt
-source-wordcount: '1311'
+source-wordcount: '1274'
 ht-degree: 0%
 
 ---
@@ -71,6 +71,4 @@ När du provar nya saker blir det inte alltid rätt första gången. Därför ä
 
 ## 10. Håll dig så smidig som möjligt
 
-Marknaden fortsätter att förändras och förändras i en allt högre takt. Att uppmuntra era kampanjteam att hålla sig så lätta och flexibla som möjligt är avgörande för att kunna konkurrera och fortsätta uppfylla växande kundförväntningar. [35 % av ledarna inom digital marknadsföring anser att de största utmaningarna kommer från deras organisation](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges).
-
-Att utbilda sig på tre plattformar och öka er förståelse för dataflöden och datastruktur eller andra Adobe-lösningar kan hjälpa er att uppnå detta eller ha beredskapsplaner för kampanjer. Låt ämnesexperter arbeta med ett primärt verktyg. Titta sedan på olika kanaler med sekundära och eftergymnasiala verktyg. Detta skapar flexibilitet i er marknadsföringsmodell. Genom att utnyttja över tre verktyg kan du minska din expertis och dina utdata drastiskt. Detta kan uppnås på många sätt, men ett övergripande engagemang för rörlighet och planering är avgörande för att lyckas på kort och lång sikt.
+Marknaden fortsätter att förändras och förändras i en allt högre takt. Att uppmuntra era kampanjteam att hålla sig så lätta och flexibla som möjligt är avgörande för att kunna konkurrera och fortsätta uppfylla växande kundförväntningar. [35 % av ledarna inom digital marknadsföring anser att de största utmaningarna kommer från deras organisation](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). För att uppnå detta måste ni träna över flera plattformar, öka er förståelse för dataflöden och struktur eller andra Adobe-lösningar och skapa beredskapsplaner för kampanjer. Detta kan uppnås på många sätt, men ett övergripande engagemang för rörlighet och planering är avgörande för att lyckas på kort och lång sikt.
