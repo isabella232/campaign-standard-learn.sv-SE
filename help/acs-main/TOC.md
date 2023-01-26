@@ -2,10 +2,10 @@
 user-guide-title: Självstudiekurser om Adobe Campaign Standard
 user-guide-description: Designa kundupplevelser över flera kanaler och skapa en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och marknadsföring över flera kanaler.
 breadcrumb-title: Självstudiekurser om Campaign Standard
-source-git-commit: 4c256d4622e2acc2ec08e76aa4e6180ddb5184a0
-workflow-type: ht
-source-wordcount: '567'
-ht-degree: 100%
+source-git-commit: 41cc794dbdc295d76bba63cba2ef145eb50df540
+workflow-type: tm+mt
+source-wordcount: '566'
+ht-degree: 98%
 
 ---
 
@@ -99,11 +99,11 @@ ht-degree: 100%
       + [Skapa en utlösare i Experience Cloud](/help/integrations/create-a-trigger-in-experience-cloud.md)
       + [Skapa en utlösarhändelse i Campaign Standard](/help/integrations/create-a-trigger-event.md)
       + [Konfigurera transaktionsmeddelanden med realtidshändelsedata](/help/integrations/configure-transactional-messages-using-realtime-event-data.md)
-   + [Konfigurera Microsoft® Dynamics 365 för integrering med Campaign Standard](/help/integrations/configure-dynamics-365.md)
+   + [Konfigurera Microsoft](/help/integrations/configure-dynamics-365.md)
 + Administrera {#administrating}
    + [Hantera användarnas åtkomsträttigheter](/help/administrating/managing-user-access-rights.md)
    + [Skapa anpassade resurser](https://experienceleague.adobe.com/docs/campaign-standard-learn/creating-custom-resources/introduction.html?lang=sv)
-   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=sv){target=&quot;_blank&quot;}
+   + [Kontrollpanelen](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=sv){target="_blank"}
    + Datakoppling till Adobe Experience Platform {#adobe-experience-platform-data-connector}
       + [Förstå datakoppling till Adobe Experience Platform](/help/administrating/adobe-experience-platform-data-connector/understanding-the-adobe-experience-platform-data-connector.md)
       + [Mappa anpassade resurser](/help/administrating/adobe-experience-platform-data-connector/mapping-custom-resources.md)
@@ -122,5 +122,6 @@ ht-degree: 100%
    + [Köra förfrågningar om användarens information](/help/privacy/execute-privacy-requests.md)
 + [Felsöka Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=se)
 + Strategi och tankeledarskap{#strategy}
+   + [10 Best Practices to Adobe Campaign Success for Marketers](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
    + [Maximera e-postavkastningen och bästa praxis för att återengagera prenumeranter](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=sv)
    + [Användarhandbok om god praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
