@@ -2,9 +2,9 @@
 user-guide-title: Självstudiekurser om Adobe Campaign Standard
 user-guide-description: Designa kundupplevelser över flera kanaler och skapa en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och marknadsföring över flera kanaler.
 breadcrumb-title: Självstudiekurser om Campaign Standard
-source-git-commit: 22048e99a99cb0796fc62054c9202603ce57d250
+source-git-commit: b2bd6a29c54c505359eb3bc908ccf950db07da3a
 workflow-type: tm+mt
-source-wordcount: '570'
+source-wordcount: '572'
 ht-degree: 99%
 
 ---
@@ -40,6 +40,7 @@ ht-degree: 99%
    + E-post {#email}
       + [Skapa ett e-postmeddelande](/help/communication-channels/email/create-email-from-homepage.md)
       + [Skicka ett test samt förbereda och skicka ett e-postmeddelande](/help/communication-channels/email/sending-test-preparing-sending-email.md)
+      + [Schemalägg meddelanden](/help/communication-channels/email/schedule-messages.md)
       + [Skicka ett bevis](/help/communication-channels/email/send-a-proof.md)
       + [A/B-tester](/help/communication-channels/email/a-b-testing.md)
       + [Testa e-postmeddelanden med målinriktade profiler](/help/communication-channels/email/profile-substitution.md)
