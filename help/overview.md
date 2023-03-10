@@ -7,10 +7,10 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: 6a8b4679212207d6cce5c1dba317d3349d319baa
-workflow-type: ht
-source-wordcount: '308'
-ht-degree: 100%
+source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+workflow-type: tm+mt
+source-wordcount: '297'
+ht-degree: 84%
 
 ---
 
@@ -20,13 +20,17 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 ## Nyheter
 
-* **[Kontrollpanelen – övervaka arbetsflöden](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=sv){target=&quot;_blank&quot;}**
+* **[Schemalägg meddelanden](/help/communication-channels/email/schedule-messages.md)**
 
-   *Läs mer om hur du övervakar arbetsflödenas tillfälliga lagringsanvändning och hur du konfigurerar arbetsflödesinställningar för att undvika problem med databaser eller arbetsflöden i instansen.*
+   *Lär dig schemalägga e-postleveranser.*
 
-* **[Kontrollpanelen – övervaka genomflöden och fördröjning](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=sv){target=&quot;_blank&quot;}**
+* **[Skicka ett bevis](/help/communication-channels/email/send-a-proof.md)**
 
-   *Läs mer om hur du övervakar genomflöden för leveranser och fördröjningar för transaktionsmeddelanden i kampanjinstansen.*
+   *Lär dig hur du testar ett e-postmeddelande innan du skickar det till de slutliga mottagarna.*
+
+* **[De tio bästa metoderna för att marknadsförare ska lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)**
+
+   *Tio bästa metoder för att hjälpa Adobe Campaign yrkesverksamma att låsa upp och snabba upp den digitala omvandlingen till konsumenter och få en bättre upplevelse för sina kunder.*
 
 ## Personalens val
 
