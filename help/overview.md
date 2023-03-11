@@ -7,16 +7,18 @@ feature: Overview
 role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
-source-git-commit: ee19698fdf2e7f126d6ce73dc5a372f8729c3e83
+source-git-commit: 9ff98f4144284db542d6bb561bc9c21b052e02ed
 workflow-type: tm+mt
-source-wordcount: '297'
-ht-degree: 84%
+source-wordcount: '286'
+ht-degree: 83%
 
 ---
 
 # Adobe Campaign Standard – översikt
 
 Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över flera kanaler och tillhandahåller en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och körning över flera kanaler. Den här användarhandboken innehåller videor och självstudiekurser om de många funktioner och möjligheter som finns i Adobe Campaign Standard.
+
+<div id="whats-new-section">
 
 ## Nyheter
 
@@ -31,6 +33,11 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 * **[De tio bästa metoderna för att marknadsförare ska lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)**
 
    *Tio bästa metoder för att hjälpa Adobe Campaign yrkesverksamma att låsa upp och snabba upp den digitala omvandlingen till konsumenter och få en bättre upplevelse för sina kunder.*
+
+</div>
+
+
+<div id="events-section">
 
 ## Personalens val
 
@@ -78,6 +85,4 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 </tr>
 </table>
 
-## Ytterligare resurser
-
-* [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard/using/campaign-standard-home.html?lang=sv)
+</div>
