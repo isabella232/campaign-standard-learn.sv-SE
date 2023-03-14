@@ -2,7 +2,7 @@
 title: Maximera e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter
 description: Lär dig hur du maximerar e-postavkastningen och lär dig bästa praxis för att återengagera prenumeranter. Upptäck strategierna för att förbättra dina prenumeranters engagemang och förstå den övergripande framgången för dina e-postkampanjer.
 solution: Campaign
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
+source-git-commit: fda23ddb8a9b31dd637e42a31836214ad14f494c
 workflow-type: tm+mt
 source-wordcount: '1471'
 ht-degree: 2%
@@ -104,7 +104,7 @@ Abonnenternas status (aktiv, annullerad eller inaktiv) beror på hur ofta du ski
 
 Här följer en enkel tabell som hjälper dig under granskningen:
 
-![prenumerantstatus](assets/subscriber-status.png)
+![prenumerantstatus](/help/assets/subscriber-status.png)
 
 Om du till exempel skickar e-post till kunder varje dag, bör de ha interagerat med ett av dessa e-postmeddelanden under den senaste månaden för att betraktas som aktivt och engagerat. Omvänt gäller att om du skickar e-post till kunder en gång i månaden och de inte har interagerat inom 9-14 månader kan de betraktas som inaktiva.
 
