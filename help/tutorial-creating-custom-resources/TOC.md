@@ -1,6 +1,6 @@
 ---
 user-guide-title: Adobe Campaign Standard – självstudiekurs om hur du skapar anpassade resurser
-user-guide-description: 'I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser. '
+user-guide-description: I den här självstudiekursen får du hjälp med att skapa och länka anpassade resurser.
 source-git-commit: 1b2e9a48c4e48fe07c3114976dc8c3a57ed8a1c4
 workflow-type: tm+mt
 source-wordcount: '48'
