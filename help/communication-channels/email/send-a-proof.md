@@ -1,5 +1,5 @@
 ---
-title: Skicka ett korrektur för en e-postleverans
+title: Skicka en korrektur för en e-postleverans
 description: Lär dig hur du testar ett e-postmeddelande innan du skickar det till de slutliga mottagarna.
 feature: Email Rendering, Proofs
 kt: 11932
@@ -9,13 +9,13 @@ role: User
 level: Beginner
 last-substantial-update: 2023-03-06T00:00:00Z
 source-git-commit: 22048e99a99cb0796fc62054c9202603ce57d250
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '42'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
-# Skicka ett korrektur för en e-postleverans
+# Skicka en korrektur för en e-postleverans
 
 Lär dig hur du testar ett e-postmeddelande innan du skickar det till de slutliga mottagarna.
 
