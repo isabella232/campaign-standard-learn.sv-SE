@@ -8,9 +8,9 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noDisplay, noCatalog
 source-git-commit: 04bc3a93595f90e8ed48fb7f3896b734256fe92d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '286'
-ht-degree: 83%
+ht-degree: 100%
 
 ---
 
@@ -24,15 +24,15 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 * **[Schemalägg meddelanden](/help/communication-channels/email/schedule-messages.md)**
 
-   *Lär dig schemalägga e-postleveranser.*
+   *Lär dig hur du schemalägger en e-postleverans.*
 
-* **[Skicka ett bevis](/help/communication-channels/email/send-a-proof.md)**
+* **[Skicka en korrektur](/help/communication-channels/email/send-a-proof.md)**
 
    *Lär dig hur du testar ett e-postmeddelande innan du skickar det till de slutliga mottagarna.*
 
 * **[De tio bästa metoderna för att marknadsförare ska lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Tio bästa metoder för att hjälpa Adobe Campaign yrkesverksamma att låsa upp och snabba upp den digitala omvandlingen till konsumenter och få en bättre upplevelse för sina kunder.*
+   *Lär dig de tio bästa metoderna för att hjälpa yrkesverksamma inom Adobe Campaign att låsa upp och påskynda den digitala konsumentomvandlingen och få en bättre upplevelse för sina kunder.*
 
 </div>
 
