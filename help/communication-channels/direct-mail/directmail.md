@@ -10,9 +10,9 @@ team: TM
 exl-id: f54acc7f-4efe-4d7f-89f1-c4ed596a5d9e
 role: User
 level: Beginner
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '111'
 ht-degree: 0%
 
 ---
@@ -23,7 +23,7 @@ The [!UICONTROL Direct Mail] Med kanalen kan du extrahera en segmenterad lista m
 
 I den här videon förklaras hur du konfigurerar en [!UICONTROL Direct Mail] leverans och vilka inställningar som krävs för att kunna lägga till en profil i en [!UICONTROL Direct Mail] leverans.
 
->[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23417?quality=12&learn=on)
 
 ## Skapa en [!UICONTROL Direct Mail] inom ett arbetsflöde
 

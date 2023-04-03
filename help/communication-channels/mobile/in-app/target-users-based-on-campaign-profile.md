@@ -10,7 +10,7 @@ team: TM
 exl-id: 72b1fe11-3c38-4f0b-8ccd-0f7b73b1083a
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
 source-wordcount: '98'
 ht-degree: 7%
@@ -21,6 +21,6 @@ ht-degree: 7%
 
 Du kan rikta in dig på användare som har loggat in i appen med PII (kända mobilappsanvändare) med personaliserade meddelanden med hjälp av CRM-profilattributen i Adobe Campaign Standard. Den här mallen har stöd för flerkanalsanvändning, där du redan har riktat in kunderna på andra kanaler, som e-post eller push, baserat på deras svar, och du vill engagera dessa kunder igen med ett meddelande i appen.
 
->[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/26200?quality=12&learn=on)
 
 *Skapa ett meddelande i appen med en[!UICONTROL Campaign profile template]*

@@ -1,6 +1,6 @@
 ---
 title: Skapa profiler och målgrupper – översikt
-description: Lär dig navigera till befintliga profiler och hur du skapar profiler och målgrupper.
+description: Lär dig att navigera till befintliga profiler och hur du skapar profiler och målgrupper.
 feature: Profiles, Audiences
 kt: 3899
 thumbnail: 18463.jpg
@@ -10,10 +10,10 @@ team: WWFRE
 exl-id: 5948ce53-0d12-4768-912a-9edb0b9b6f2b
 role: User
 level: Beginner
-source-git-commit: 9333e405cd7db178cebf0281f7a34fbb2a183081
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '69'
+ht-degree: 37%
 
 ---
 
@@ -28,4 +28,4 @@ Profiler som är grupperade enligt ett eller flera gemensamma villkor anropas **
 
 I den här videon förklaras hur du navigerar till befintliga profiler och hur du skapar profiler och målgrupper i Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/18463/?quality=12&learn=on)

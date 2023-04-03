@@ -10,10 +10,10 @@ team: ACS
 exl-id: c538b188-bf19-4e5a-bd93-a89ed716668d
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '203'
+ht-degree: 81%
 
 ---
 
@@ -28,6 +28,6 @@ Med [!UICONTROL Predictive send time optimization] förutsägs vilken som är de
 
 Förstå vilka arbetsflöden som krävs för att synkronisera data mellan Adobe Campaign och Journey AI-modellen. Lär dig hur du ser en tidspoäng för sändning på individuell profilnivå och hur du kör e-postleveranser med en tidsformel för sändning.
 
->[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/40469?quality=12&learn=on)
 
 Läs produktdokumentationen om du vill veta mer om detta [optimera design och leverans med AI-baserade e-postmeddelanden](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/predictive.html?lang=en)

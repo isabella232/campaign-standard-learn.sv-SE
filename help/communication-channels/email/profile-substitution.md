@@ -10,10 +10,10 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: cccc2cd4141d4da4d06132af8bab3f15f7ecc853
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '167'
+ht-degree: 67%
 
 ---
 
@@ -23,7 +23,7 @@ I den här videon förklaras hur du kan testa dina e-postmeddelanden med [!UICON
 
 Anta att du vill skicka ett personaliserat nyhetsbrev via e-post. Innan nyhetsbrevet skickas vill dock en kollega granska det och har bett om korrektur. Du kan använda funktionen [!UICONTROL Profile Substitution] för att skicka ett korrektur eftersom du kan skicka en exakt återgivning av meddelandet som den målinriktade profilen kommer att få.
 
->[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/32368?quality=12&learn=on)
 
 Se den detaljerade [produktdokumentationen](https://experienceleague.adobe.com/docs/campaign-standard/using/testing-and-sending/preparing-and-testing-messages/testing-messages-using-target.html?lang=en) för mer information.
 
