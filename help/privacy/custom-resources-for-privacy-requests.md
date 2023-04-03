@@ -8,7 +8,7 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 57dbf456625d22cd2e4526d92e5a8c20a048d339
+source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
 workflow-type: ht
 source-wordcount: '198'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 När du konfigurerar Adobe Campaign Standard för att hantera förfrågningar om användarens information måste du se till att alla anpassade data som är länkade till en profil tas bort när profilen tas bort. I den här videon förklaras hur du modifierar anpassade resurser för att uppfylla det här kravet.
 
->[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/23326?quality=12&learn=on)
 
 >[!NOTE]
 >
