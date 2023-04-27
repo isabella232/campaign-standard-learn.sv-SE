@@ -2,10 +2,10 @@
 user-guide-title: Självstudiekurser om Adobe Campaign Standard
 user-guide-description: Designa kundupplevelser över flera kanaler och skapa en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och marknadsföring över flera kanaler.
 breadcrumb-title: Självstudiekurser om Campaign Standard
-source-git-commit: 73b0775189f05fc2d5be85d33bc0b0ef213d68ca
-workflow-type: ht
-source-wordcount: '563'
-ht-degree: 100%
+source-git-commit: 5fd8decb13b8d7376c6899b1597eade4b3c5a83d
+workflow-type: tm+mt
+source-wordcount: '568'
+ht-degree: 99%
 
 ---
 
@@ -88,11 +88,12 @@ ht-degree: 100%
       + [Extern signalaktivitet](/help/managing-processes-and-data/execution-activities/external-signal-activity.md)
    + Datahanteringsaktiviteter {#data-management-activities}
       + [Aktiviteten Externt API](/help/managing-processes-and-data/data-management-activities/external-api-activity.md)
-+ Rapportera {#reporting}
++ Rapportera och övervaka {#reporting}
    + [Utforska rapporter](/help/getting-started/exploring-reports.md)
    + [Skapa en dynamisk rapport](/help/reporting/creating-a-dynamic-report.md)
    + [Skapa en rapport baserad på anpassade profilattribut](/help/reporting/custom-profile-attributes-dynamic-reports.md)
    + [Skapa en rapport baserad på arbetsflödessegment](/help/reporting/report-on-workflow-segments.md)
+   + [Övervaka en leverans](/help/reporting/monitor-a-delivery.md)
 + Integrera med andra lösningar{#integrations}
    + [Spåra hur framgångsrika dina leveranser är i Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Använd aviseringar för transaktionsmeddelanden {#triggers}
