@@ -2,7 +2,7 @@
 user-guide-title: Självstudiekurser om Adobe Campaign Standard
 user-guide-description: Designa kundupplevelser över flera kanaler och skapa en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och marknadsföring över flera kanaler.
 breadcrumb-title: Självstudiekurser om Campaign Standard
-source-git-commit: 19ce1d39823df5f60305445c6ad7583c23b845da
+source-git-commit: 5ac2210e2682cab45e4fe99eb41e53abf160bbe7
 workflow-type: tm+mt
 source-wordcount: '571'
 ht-degree: 98%
@@ -126,6 +126,6 @@ ht-degree: 98%
 + [Felsöka Campaign Standard](https://experienceleague.adobe.com/docs/campaign-standard-learn/troubleshooting/overview.html?lang=se)
 + Strategi och tankeledarskap{#strategy}
    + [De tio bästa metoderna för att marknadsförare ska lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)
-   + [Felsökning för marknadsförare](/help/strategy/troubleshooting-for-marketers)
+   + [Felsökning för marknadsförare](/help/strategy/troubleshooting-for-marketers.md)
    + [Maximera e-postavkastning och bästa praxis för att återengagera prenumeranter](/help/strategy/campaign-maximize-email-best-practices.md)
    + [Användarhandbok om bästa praxis för levererbarhet](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=sv)
