@@ -9,9 +9,9 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: bc9e83e1864b02208f9cd7fe591c77bf6d049a37
+source-git-commit: f7f2b6abb26075b25a3b55e4ceed744172691ce8
 workflow-type: tm+mt
-source-wordcount: '737'
+source-wordcount: '735'
 ht-degree: 0%
 
 ---
@@ -105,7 +105,7 @@ Du kan lösa det här felet på tre sätt:
 
 1. Ändra tillbaka namnet till det uttryck som ursprungligen fanns.
 
-2. Om du vill använda ett nytt namn ändrar du värdena i aktiviteterna i **anrikningsverksamhet**.
+2. Om du vill använda ett nytt namn ändrar du värdena i **anrikningsverksamhet**.
 
 3. Om du inte kommer ihåg vad som har ändrats är det bästa valet att återskapa aktiviteten.
 
