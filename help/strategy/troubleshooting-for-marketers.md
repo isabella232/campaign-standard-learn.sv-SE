@@ -9,9 +9,9 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: f7f2b6abb26075b25a3b55e4ceed744172691ce8
+source-git-commit: 3da1b695d56f9deb5747cc89de023f19a5b25bad
 workflow-type: tm+mt
-source-wordcount: '735'
+source-wordcount: '724'
 ht-degree: 0%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 Efter: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Senior Consultant, Meijer
 
-Som Senior Engineer och Customer Expert på Adobe Experience Cloud-produkter de senaste fem åren har jag gjort det möjligt för företagsanvändare på [Meijer](https://www.meijer.com/){target="_blank"}, en amerikansk supercenterkedja som grundades 1934, för att köra komplexa kampanjer och marknadsföringskampanjer och transaktionskampanjer med ACS. Några projekt som jag har arbetat med är anpassade kampanjer för att lagra erbjudanden och beställa information för personalisering, integrerade med Adobe Audience Manager, samt kundinsikter för segmentkonsumtion.
+Som Senior Engineer och Customer Expert på Adobe Experience Cloud-produkter de senaste fem åren har jag gjort det möjligt för företagsanvändare på [Meijer](https://www.meijer.com/){target="_blank"}, en amerikansk supercenterkedja som grundades 1934, för att genomföra komplexa marknadsförings- och transaktionskampanjer med ACS. Några projekt som jag har arbetat med är anpassade kampanjer för att lagra erbjudanden och beställa information för personalisering, integrerade med Adobe Audience Manager, samt kundinsikter för segmentkonsumtion.
 
 
 Under min tid med ACS har jag råkat ut för fel som kan vara tidskrävande och frustrerande att lösa. Att veta de vanligaste felen kan bidra till snabbare problemlösning och öka produktiviteten. Här nedan hittar jag felsökningstips som hjälper dig att effektivt åtgärda liknande fel som de inträffar.
@@ -50,8 +50,6 @@ Den här typen av fel visas i ett arbetsflöde när du försöker stämma av med
 **Orsak:**
 Det här felet visas när du skickar ett e-postmeddelande till en adress, men e-postmeddelandet eller någon annan identifierare inte är avstämd mot en profil. Om du vill skicka en e-postkommunikation ska e-postmeddelandet eller identifieraren alltid vara länkade till en profil.
 
-Använd avstämningsaktiviteten enligt nedan:
-
 ![arbetsflöde med avstämningsaktivitet](/help/assets/kt-13256/del-persn-error-wf.png)
 
 **Lösning:**
@@ -69,7 +67,7 @@ Läs mer om [avstämning](https://experienceleague.adobe.com/docs/campaign-stand
 `The document types of inbound events (''and'') are incompatible (step 'Exclusion'). Unable to perform the operation. `
 
 **Orsak:**
-Problemet inträffar när **exkluderingsaktivitet** i ACS-arbetsflöden. Felet inträffar när ID:t utförs och exkluderas, när den primära uppsättningen och den uteslutna uppsättningen inte har samma fältnamn.
+Problemet inträffar när **exkluderingsaktivitet** i ACS-arbetsflöden, när du utför ett undantag baserat på ID, när den primära uppsättningen och den uteslutna uppsättningen inte har samma fältnamn.
 
 
 ![Fel i datamängd för gemensamt fält](/help/assets/kt-13256/dataset-error.png)
@@ -82,7 +80,7 @@ Det finns två sätt att lösa det här felet:
 
    ELLER
 
-1. Använd exkluderingsmetoden JOINS för att välja det fält som du vill exkludera posterna från.
+2. Använd exkluderingsmetoden JOINS för att välja det fält som du vill exkludera posterna från.
 
 ![Allmänt fel i fältdatauppsättning - Lösning ](/help/assets/kt-13256/dataset-error-solution.png)
 
