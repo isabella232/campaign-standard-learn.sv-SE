@@ -2,9 +2,9 @@
 user-guide-title: Självstudiekurser om Adobe Campaign Standard
 user-guide-description: Designa kundupplevelser över flera kanaler och skapa en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och marknadsföring över flera kanaler.
 breadcrumb-title: Självstudiekurser om Campaign Standard
-source-git-commit: 6ae9e253f99947c2515031b520d5ab029e9c4b8a
+source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
 workflow-type: tm+mt
-source-wordcount: '585'
+source-wordcount: '581'
 ht-degree: 96%
 
 ---
@@ -60,7 +60,6 @@ ht-degree: 96%
          + [Skapa ett flerspråkigt push-meddelande](/help/communication-channels/mobile/push-notifications/creating-multilingual-push-notifications.md)
          + [Självstudiekurs: Komma igång med push-meddelanden för Android™](https://experienceleague.adobe.com/docs/campaign-standard-learn/getting-started-with-push-notifications-android/introduction.html?lang=sv)
       + Meddelanden i appen {#in-app}
-         + [Introduktion till meddelanden i appen](/help/communication-channels/mobile/in-app/in-app-message-overview.md)
          + [Konfigurera händelser](/help/communication-channels/mobile/in-app/configure-events.md)
          + [Skicka ett meddelande i appen](/help/communication-channels/mobile/in-app/broadcast-in-app-message.md)
          + [Målinrikta användare baserat på deras profil i Campaign](/help/communication-channels/mobile/in-app/target-users-based-on-campaign-profile.md)
