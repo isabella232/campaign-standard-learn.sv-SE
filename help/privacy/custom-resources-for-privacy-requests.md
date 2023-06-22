@@ -2,15 +2,15 @@
 title: Ändra anpassade resurser när du konfigurerar Adobe Campaign Standard för sekretessförfrågningar
 description: När du konfigurerar Adobe Campaign Standard för att hantera förfrågningar om användarens information måste du se till att alla anpassade data som är länkade till en profil tas bort när profilen tas bort. I den här videon förklaras hur du modifierar anpassade resurser för att uppfylla det här kravet.
 feature: Privacy Tools
-kt: 1243
+jira: KT-1243
 thumbnail: 23326.jpg
 doc-type: feature video
 activity: use
 team: TM
 exl-id: 79d805ed-e705-472e-b0c9-db73dfd648ed
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '198'
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
