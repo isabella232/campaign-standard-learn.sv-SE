@@ -2,7 +2,7 @@
 title: Profilersättning – testa e-postmeddelanden med målinriktade profiler
 description: Lär dig hur du kan testa dina e-postmeddelanden med funktionen profilersättning.
 feature: Personalization, Email
-kt: 4667
+jira: KT-4667
 thumbnail: 32368.jpg
 doc-type: feature video
 activity: use
@@ -10,9 +10,9 @@ team: TM
 exl-id: 7bee3ab5-0666-4ea5-a785-917f0b18ca12
 role: User
 level: Intermediate, Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
-workflow-type: tm+mt
-source-wordcount: '167'
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+workflow-type: ht
+source-wordcount: '0'
 ht-degree: 100%
 
 ---
