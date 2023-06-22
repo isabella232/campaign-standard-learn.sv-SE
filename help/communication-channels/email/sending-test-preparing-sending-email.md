@@ -2,7 +2,7 @@
 title: Skicka ett test samt förbereda och skicka ett e-postmeddelande
 description: "Lär dig hur du skickar ett test-e-postmeddelande, förbereder och sedan skickar e-postmeddelandet. "
 feature: Email, Test Profiles
-kt: 1812
+jira: KT-1812
 thumbnail: 24013.jpg
 doc-type: feature video
 activity: use
@@ -12,7 +12,7 @@ role: User
 level: Beginner
 hidefromtoc: true
 hide: true
-source-git-commit: 22048e99a99cb0796fc62054c9202603ce57d250
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '51'
 ht-degree: 31%

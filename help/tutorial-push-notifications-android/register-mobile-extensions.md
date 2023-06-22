@@ -2,12 +2,12 @@
 title: Steg 3 – registrera tillägg i din mobilapp
 description: I den här delen lägger vi till koden för att registrera tilläggen UserProfile, Identity, Lifecycle och Signal.
 feature: Push
-kt: 4827
+jira: KT-4827
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: d8c0d8c6-2e04-4c27-b27a-d0de79dd953b
-source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '107'
 ht-degree: 13%

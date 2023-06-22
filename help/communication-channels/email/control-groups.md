@@ -2,7 +2,7 @@
 title: Lägga till en kontrollgrupp i en leverans
 description: Lär dig hur du definierar en kontrollgrupp för leveransen och hur du extraherar profilerna som har tilldelats kontrollgruppen när leveransen har skickats.
 feature: Control Groups
-kt: 5060
+jira: KT-5060
 thumbnail: 40684.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: PM
 exl-id: 7d799136-a308-422d-8a97-d3ed8fed0c73
 role: User
 level: Intermediate, Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '121'
 ht-degree: 100%
@@ -19,7 +19,7 @@ ht-degree: 100%
 
 # Lägga till en [!UICONTROL control group] i en [!UICONTROL delivery]
 
-Om du arbetar med [!UICONTROL control groups] kan du mäta den effekt som [!UICONTROL delivery ] har på dina marknadsföringskampanjer och optimera dem.
+Om du arbetar med [!UICONTROL control groups] kan du mäta den effekt som [!UICONTROL delivery] har på dina marknadsföringskampanjer och optimera dem.
 
 Med [!DNL Adobe Campaign Standard] kan du skapa en [!UICONTROL control group] som kan uteslutas från målgruppen antingen slumpmässigt eller baserat på specifika kriterier. Beteendet hos [!UICONTROL control group] kan sedan fungera som riktmärke om man vill göra en jämförelse med beteendet hos målgruppen som fick marknadsföringsmeddelandet.
 

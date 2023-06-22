@@ -2,12 +2,12 @@
 title: STEG 4 - Ange identifierare
 description: '**pushIdentifier** är en sträng som innehåller enhetstoken för push-meddelanden. Det är samma token som skickas av Firebase och skickas till SDK med metoden MobileCore.setPushIdentifier.'
 feature: Push
-kt: 4828
+jira: KT-4828
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 08387b84-edaa-45ee-ae66-53bcbd5c7c39
-source-git-commit: 5a2f8c9a78bf5100b272f9b4461131545b3aeb8b
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '207'
 ht-degree: 0%
@@ -18,7 +18,7 @@ ht-degree: 0%
 
 The **[!DNL pushidentifier]** är en sträng som innehåller enhetstoken för [!DNL Push] meddelanden. Det är samma token som skickas av [!DNL Firebase] och skickas till SDK med [!DNL MobileCore.setPushIdentifier] -metod.
 
-Öppna projektet i [!DNL Android™ ]studio. Ta bort hela koden i [!DNL MainActivity] **förutom den första raden som är programsatsen package**.
+Öppna projektet i [!DNL Android™]studio. Ta bort hela koden i [!DNL MainActivity] **förutom den första raden som är programsatsen package**.
 
 Klistra in följande kod i [!DNL MainActivity]:
 
@@ -90,15 +90,15 @@ MobileCore.lifecyclePause();
 Nu är det ett bra tillfälle att testa appen innan du går vidare.
 
 * Kör appen genom att klicka på den gröna pilen eller välj **[!DNL Run->Run'app']**.
-* The [!DNL Android™] emulatorn ska börja och du bör se hur appen körs med [!DNL "Hello World" ]text.
-* Öppna [!DNL logcat] -fönstret. Sök efter &quot;[!DNL Got]&quot;. Du bör se den token som har tagits emot från [!DNL Firebase] skrivna i loggen enligt nedan. Den långa strängen efter &quot;[!DNL Got token]&quot; är [!DNL pushidentifier ]som skickas till Adobe Campaign.
+* The [!DNL Android™] emulatorn ska börja och du bör se hur appen körs med [!DNL "Hello World"]text.
+* Öppna [!DNL logcat] -fönstret. Sök efter &quot;[!DNL Got]&quot;. Du bör se den token som har tagits emot från [!DNL Firebase] skrivna i loggen enligt nedan. Den långa strängen efter &quot;[!DNL Got token]&quot; är [!DNL pushidentifier]som skickas till Adobe Campaign.
 
 ![logcat-token](assets/logcat-got-token.PNG)
 
 ### Kontrollera prenumeranter på mobilprogram
 
 Logga in på din Adobe Campaign Standard-instans.
-Navigera **[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**. Öppna rätt mobilapplikation. Fliken till [!UICONTROL Mobile Application Subscribers] -fliken. Du borde se en [!UICONTROL registration token ]listas.
+Navigera **[!UICONTROL Administration->Channels->Mobile App(Experience Platform SDK)]**. Öppna rätt mobilapplikation. Fliken till [!UICONTROL Mobile Application Subscribers] -fliken. Du borde se en [!UICONTROL registration token]listas.
 
 ![mobile-application-subscribers](assets/mobile-application-subscribers.PNG)
 

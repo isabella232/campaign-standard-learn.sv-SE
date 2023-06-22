@@ -2,7 +2,7 @@
 title: Prediktiv poängsättning för engagemang
 description: Lär dig hur du ser poängsättning för engagemang på individuell profilnivå, använder poäng för att målinrikta engagerade användare och undertrycker trötta användare samt hur du skapar typologiregler för att hantera kundtrötthet.
 feature: Predictive Engagement Scoring
-kt: 6275
+jira: KT-6275
 thumbnail: 40470.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: 89df23d00913d36b93d3be03b62c74320524f9c7
+source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
 workflow-type: tm+mt
 source-wordcount: '188'
 ht-degree: 72%
