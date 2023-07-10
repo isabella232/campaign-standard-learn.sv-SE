@@ -11,9 +11,9 @@ exl-id: e70fdef9-2907-4858-9eca-006c59695bb3
 role: User, Developer
 level: Beginner, Intermediate, Experienced
 recommendations: noDisplay
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: b7c0c39339ff89bab2c81a3d9fd31f67b8ee4d71
 workflow-type: tm+mt
-source-wordcount: '165'
+source-wordcount: '164'
 ht-degree: 4%
 
 ---
@@ -26,12 +26,12 @@ ht-degree: 4%
 >
 >Funktionen är i betaversion och kan uppdateras ofta och ändras utan föregående meddelande. [!UICONTROL Audience Destinations] är baserat på Adobe Experience Platform och kräver en specifik konfiguration.
 >
->Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
+>Nå ut till [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 >
 
 I den här självstudiekursen beskrivs hur du använder centraliserade och konsoliderade profildata från Adobe Experience Platform för marknadsföringskampanjer i Adobe Campaign Standard.
 
-The [!UICONTROL Audiences] i Adobe Campaign Standard kan du skapa segment med hjälp av data från [Adobe Experience Platform - datatjänster](https://www.adobe.io/apis/experienceplatform/home/services.html) som finns i [Kundprofil i realtid](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
+The [!UICONTROL Audiences] i Adobe Campaign Standard kan du skapa segment med hjälp av data från [Adobe Experience Platform - datatjänster](https://developer.adobe.com/apis/experienceplatform/home/services.html) som finns i [Kundprofil i realtid](https://experienceleague.adobe.com/docs/platform-learn/tutorials/profiles/understanding-the-real-time-customer-profile.html?lang=en).
 
 I följande videofilmer får du hjälp med de olika stegen:
 
