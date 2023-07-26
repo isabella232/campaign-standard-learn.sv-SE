@@ -8,18 +8,22 @@ doc-type: feature video
 role: Admin
 level: Experienced
 team: TM
-hidefromtoc: true
+hidefromtoc: false
 exl-id: 39e087af-0868-4db7-b031-1830e72f6e61
 badgeIntegration: label="Integrering" type="positive"
-source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
+source-git-commit: a16aae1f2100be43993e7a0dfbad0002a5604223
 workflow-type: tm+mt
-source-wordcount: '61'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 1%
 
 ---
 
 # Konfigurera Adobe Experience Platform Data Collection för utlösare
 
 Lär dig hur du använder Adobe Experience Platform Data Collection och lägger till de egenskaper som krävs på webbplatsen för att testa konfigurationen.
+
+>[!Note]
+>
+> Observera att Launch nu är taggfunktionen i Adobe Experience Platform. Den finns under **Adobe Experience Platform datainsamlingar**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
