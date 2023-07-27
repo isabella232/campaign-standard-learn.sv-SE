@@ -1,5 +1,5 @@
 ---
-title: Spåra hur framgångsrika dina leveranser är i Adobe Analytics
+title: Spåra framgångarna med era Campaign Standarder i Adobe Analytics
 description: Läs om hur du konfigurerar integreringen mellan Campaign Standard och Analytics. Förstå hur du skapar en rapport i Analytics med data som tagits emot från Campaign Standard och vilka nyckeltal som är tillgängliga.
 feature: Application Settings
 topic: Integrations
@@ -11,14 +11,14 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 badgeIntegration: label="Integrering" type="positive"
-source-git-commit: 4777e0a8f6424a3fb82f7ded4fe0db44875a89e3
+source-git-commit: 019060e150a00b2d615b0ad694c664475b00c302
 workflow-type: tm+mt
-source-wordcount: '104'
-ht-degree: 99%
+source-wordcount: '108'
+ht-degree: 78%
 
 ---
 
-# Spåra hur framgångsrika dina leveranser är i Adobe Analytics
+# Spåra framgångarna med era Campaign Standarder i Adobe Analytics
 
 Läs om hur du konfigurerar integreringen mellan Campaign Standard och Analytics. Förstå hur du skapar en rapport i Analytics med data som tagits emot från Campaign Standard och vilka nyckeltal som är tillgängliga.
 
