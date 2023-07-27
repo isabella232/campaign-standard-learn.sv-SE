@@ -2,9 +2,9 @@
 user-guide-title: Självstudiekurser om Adobe Campaign Standard
 user-guide-description: Designa kundupplevelser över flera kanaler och skapa en miljö för visuell kampanjorkestrering, interaktionshantering i realtid och marknadsföring över flera kanaler.
 breadcrumb-title: Självstudiekurser om Campaign Standard
-source-git-commit: a3f749219525a605a24ccb1d0394c9db3ecb9989
-workflow-type: ht
-source-wordcount: '581'
+source-git-commit: 3e8484650a941a3166063b8765f39a90fda6109f
+workflow-type: tm+mt
+source-wordcount: '567'
 ht-degree: 100%
 
 ---
@@ -94,7 +94,6 @@ ht-degree: 100%
    + [Skapa en rapport baserad på arbetsflödessegment](/help/reporting/report-on-workflow-segments.md)
    + [Övervaka en leverans](/help/reporting/monitor-a-delivery.md)
 + Integrera med andra lösningar{#integrations}
-   + [Integrera målet med Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html?lang=sv)
    + [Spåra hur framgångsrika dina leveranser är i Adobe Analytics](/help/integrations/track-the-success-of-your-deliveries-in-analytics.md)
    + Använd aviseringar för transaktionsmeddelanden {#triggers}
       + [Översikt](/help/integrations/using-triggers-for-transactional-messaging-overview.md)
