@@ -3,11 +3,13 @@ title: Del 6 - Skicka push-meddelanden för att testa ditt arbete
 description: Del 6 - Skicka push-meddelanden för att testa ditt arbete
 feature: Push
 jira: KT-4830
+user: Admin
+level: Exprienced
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: 10218e1f-6e85-490a-84d9-c5d42bd2321d
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 31aceddbd0e740f01d39f430037afa85d41a4c23
 workflow-type: tm+mt
 source-wordcount: '138'
 ht-degree: 3%
@@ -21,7 +23,7 @@ Nu måste vi skapa och skicka en [!UICONTROL Push Notification] med Adobe Campai
 * Logga in på din Adobe Campaign Standard-instans
 * Klicka på **[!UICONTROL Marketing Activities]->[!UICONTROL Create]->[!UICONTROL Push Notification]**
 * Välj **[!UICONTROL Send push to app subscribers(mobileApp)]** och klicka på Nästa
-* Välj lämplig mobilapp i **[!UICONTROL Associate a Mobile App to a delivery]** nedrullningsbar lista och klicka **[!UICONTROL Next]**
+* Välj lämplig mobilapp i **[!UICONTROL Associate a Mobile App to a delivery]** listruta och klicka **[!UICONTROL Next]**
 * Klicka på räknetiketten och den ska returnera ett värde som är större än 0. Klicka på **[!UICONTROL Next]**
 * Tillhandahålla en meningsfull [!UICONTROL Message title] och [!UICONTROL Message body] och klicka **[!UICONTROL Create]**.
 * Klicka på **[!UICONTROL Prepare]**. När du är klar klickar du **[!UICONTROL Confirm]** för att skicka meddelandet.
