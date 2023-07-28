@@ -3,11 +3,13 @@ title: Steg 5 – sprida meddelanden
 description: I den här delen kommer vi att sprida meddelandet som vi fått från Adobe Campaign med Android Notification Manager.Firebase
 feature: Push
 jira: KT-4829
+user: Admin
+level: Experienced
 doc-type: tutorial
 activity: use
 team: TM
 exl-id: b0e01224-4ddc-4999-b8c6-794e49245428
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 200dcb4d6698c174f7fde508779609b11043d031
 workflow-type: tm+mt
 source-wordcount: '154'
 ht-degree: 1%
@@ -23,7 +25,7 @@ Så här säger du till användaren att något har hänt i bakgrunden:
 * Öppna *[!DNL ACSPushTutorial]* projekt
 * Utöka projektstrukturen
 * Högerklicka på paketmappen ([!DNL com.example.acspushtutorial]) och [!DNL New ->Java Class]
-* Namnge den här klassen *[!DNL MyService]* och se till att den utökas [!DNL FirebaseMessagingService]
+* Ge klassen ett namn *[!DNL MyService]* och se till att den utökas [!DNL FirebaseMessagingService]
 * Skapa *[!DNL sendNotification]* i den här klassen. I den här metoden måste du ange meddelandets innehåll och kanal med en [!DNL NotificationCompat.Builder] -objekt. Om du vill att meddelandet ska visas ringer du [!DNL NotificationManagerCompat.notify()], skickar det ett unikt ID för meddelandet och resultatet av [!DNL NotificationCompat.Builder.build()].
 
 <!--
