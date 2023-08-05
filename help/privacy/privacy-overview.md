@@ -11,9 +11,9 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: d46e4c84a7d162085016722005cca4aadb4feb3c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '350'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ Adobe Campaign erbjuder personuppgiftsansvariga tre metoder för att utföra fö
 >
 > **ÄNDRINGAR I ACS 19.4:**
 > 
-> The [Integrering av Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html) är den metod som du bör använda för alla begäranden om åtkomst och borttagning. Från och med version 19.4 är användningen av API:et och gränssnittet i Campaign för förfrågningar om åtkomst och radering inaktuell. Mer information om inaktuella och borttagna funktioner för Campaign Standard finns på [den här sidan](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=sv).
+> [Integreringen av Privacy Service](https://developer.adobe.com/apis/experienceplatform/gdpr.html) är den metod du bör använda för alla förfrågningar om åtkomst och radering. Från och med version 19.4 är användningen av API:et och gränssnittet i Campaign för förfrågningar om åtkomst och radering inaktuell. Mer information om inaktuella och borttagna funktioner för Campaign Standard finns på [den här sidan](https://experienceleague.adobe.com/docs/campaign-standard/using/release-notes/deprecated-features.html?lang=sv).
 >
 >**Avanmälan för försäljning av personuppgifter (CCPA)**
 >
