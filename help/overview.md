@@ -24,15 +24,15 @@ Adobe Campaign erbjuder en plattform för att utforma kundupplevelser över fler
 
 * **[Schemalägg meddelanden](/help/communication-channels/email/schedule-messages.md)**
 
-   *Lär dig hur du schemalägger en e-postleverans.*
+  *Lär dig hur du schemalägger en e-postleverans.*
 
 * **[Skicka en korrektur](/help/communication-channels/email/send-a-proof.md)**
 
-   *Lär dig hur du testar ett e-postmeddelande innan du skickar det till de slutliga mottagarna.*
+  *Lär dig hur du testar ett e-postmeddelande innan du skickar det till de slutliga mottagarna.*
 
 * **[De tio bästa metoderna för att marknadsförare ska lyckas med Adobe Campaign](/help/strategy/10-best-practices-for-marketers.md)**
 
-   *Lär dig de tio bästa metoderna för att hjälpa yrkesverksamma inom Adobe Campaign att låsa upp och påskynda den digitala konsumentomvandlingen och få en bättre upplevelse för sina kunder.*
+  *Lär dig de tio bästa metoderna för att hjälpa yrkesverksamma inom Adobe Campaign att låsa upp och påskynda den digitala konsumentomvandlingen och få en bättre upplevelse för sina kunder.*
 
 </div>
 

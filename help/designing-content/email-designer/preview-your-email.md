@@ -19,6 +19,6 @@ ht-degree: 38%
 
 # Förhandsgranska analyser av e-postmeddelanden och skräppost{#preview-your-email}
 
-I den här videon förklaras hur du förhandsgranskar ditt e-postmeddelande och antispamanalysen.
+I den här videon förklaras hur du förhandsgranskar ditt e-postmeddelande och analysen av skräppostskydd.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25921?quality=12&learn=on)

@@ -19,6 +19,6 @@ ht-degree: 23%
 
 # Granska en e-postleverans och -rapporter
 
-I den här videon förklaras hur du granskar en anpassad e-postleverans och undersöker olika rapporter som finns i Adobe Campaign Standard.
+I den här videon förklaras hur du granskar en anpassad e-postleverans och utforskar olika rapporter som finns i Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21389?quality=12&learn=on)

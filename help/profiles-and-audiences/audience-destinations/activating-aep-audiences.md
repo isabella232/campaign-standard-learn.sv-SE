@@ -17,7 +17,7 @@ ht-degree: 6%
 
 ---
 
-# Aktivera Adobe Experience Platform-målgrupper i ett arbetsflöde [!UICONTROL Adobe Experience Platform Audiences] i ett marknadsföringsarbetsflöde
+# Aktivera Adobe Experience Platform-målgrupper i ett arbetsflöde [!UICONTROL Adobe Experience Platform Audiences] i ett marknadsflöde
 
 >[!NOTE]
 >

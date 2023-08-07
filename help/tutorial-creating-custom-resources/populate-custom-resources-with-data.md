@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Fylla i anpassade resurser med data
 
-Lär dig fylla i anpassade resurser med data från en [!DNL CSV] fil med hjälp av ett arbetsflöde.
+Lär dig fylla i anpassade resurser med data från en [!DNL CSV] fil med ett arbetsflöde.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27714?quality=9)
 

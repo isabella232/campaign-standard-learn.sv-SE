@@ -21,6 +21,6 @@ ht-degree: 20%
 
 Lär dig hur du skapar en SMS-leverans i Adobe Campaign Standard. Du kan också konfigurera SMS-sändning i ett arbetsflöde med SMS-leveransaktiviteten.
 
-SMS-leveransaktiviteten används för att automatisera SMS-sändning. Konfigurationen för den här aktiviteten är densamma som konfigurationen för den engångsleverans som beskrivs i videon.
+SMS-leveransaktiviteten används för att automatisera SMS-utskick. Konfigurationen för den här aktiviteten är densamma som konfigurationen för den engångsleverans som beskrivs i videon.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25265/?quality=12&learn=on)

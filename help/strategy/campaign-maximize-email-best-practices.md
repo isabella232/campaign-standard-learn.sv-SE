@@ -21,13 +21,13 @@ I den här artikeln går vi igenom fyra strategier för att förbättra era pren
 
 ## Vad är leverans?
 
-Det kan vara förvirrande mellan leveransvillkoren och leveransvillkoren. Leverans är ett mått på framgång för e-postkampanjer. om de levereras till prenumerantens inkorg, skräppostmapp eller blockeras av Internet-leverantören. Om vi tittar på det som en ekvation är det en åtgärd att skicka ett e-postmeddelande + möjligheten att landa i inkorgen + förmågan att göra det kontinuerligt.
+Det kan vara förvirrande mellan leveransvillkoren och leveransvillkoren. Leverans är ett mått på framgång för e-postkampanjer, oavsett om de levereras till prenumerantens inkorg, skräppostmapp eller blockeras av Internet-leverantören. Om vi tittar på det som en ekvation är det en åtgärd att skicka ett e-postmeddelande + möjligheten att landa i inkorgen + förmågan att göra det kontinuerligt.
 
 Hur väl håller er organisation reda på hur väl era e-postkampanjer kan levereras och vet ni var era e-postmeddelanden hamnar?
 
 ## Skräppostfiltrering
 
-Innan ni går in i en strategi är det viktigt att vara medveten om de vanligaste skräppostfilterproblemen som kan påverka kampanjresultaten. Om du fortsätter skicka e-post till inaktiva prenumeranter som inte öppnar dina e-postmeddelanden under mer än ett år kan du få följande:
+Innan ni går in i en strategi är det viktigt att ni är medvetna om de vanligaste skräppostfilterproblemen som kan påverka kampanjresultaten. Om du fortsätter skicka e-post till inaktiva prenumeranter som inte öppnar dina e-postmeddelanden under mer än ett år kan du få följande:
 
 * Blockeringslista och tillåtelselista
 * Innehållsfilter
@@ -36,7 +36,7 @@ Innan ni går in i en strategi är det viktigt att vara medveten om de vanligast
 * Klagomål
 * Användaråtgärder
 
-## Maximera avkastningen på e-postmarknadsföringen
+## Maximera avkastningen på e-post
 
 Visste du på bara en minut på Internet att det finns över en miljon videovisningar, två miljoner sökfrågor från Google, sex miljoner visningar från Facebook och 200 miljoner mejl? Med så mycket på gång är det viktigt att se till att ditt innehåll inte försvinner i bruset. Särskilt om ni skapar en kampanj under en semestersäsong är det ännu svårare att få ut era e-postmeddelanden till presumtiva och återkommande kunder.
 
@@ -73,12 +73,12 @@ Här följer fyra huvudstrategier för att maximera avkastningen:
 
 ### 4. E-posthantering
 
-* Segmentera era prenumeranter och övervaka var de befinner sig i ert varumärkes livscykel
+* Segmentera era prenumeranter och övervaka var de befinner sig i ert varumärke
 * Använd strategier för innehållspersonalisering för att förbättra relevansen i era e-postmeddelanden
 
 ## Öka e-postengagemanget och lösa e-posttrötthet
 
-E-posttrötthet inträffar när dina prenumeranter tröttnar på att ta emot dina e-postmeddelanden. E-posttrötthet kan inträffa av flera orsaker; de kanske har varit med på listan för länge och är trötta på att höra av dig, eller så är det senaste innehållet inte längre relevant. Det är upp till dig och ditt team att ta reda på vilka kunder som drabbas av e-posttrötthet och varför. Så, vilka är skyltarna att leta efter?
+E-posttrötthet inträffar när dina prenumeranter tröttnar på att ta emot dina e-postmeddelanden. Trötthet i e-postmeddelanden kan bero på flera olika orsaker. De kanske har varit med på listan för länge och är trötta på att höra från dig eller så är det senaste innehållet inte längre relevant. Det är upp till dig och ditt team att ta reda på vilka kunder som drabbas av e-posttrötthet och varför. Så, vilka är skyltarna att leta efter?
 
 De viktigaste mätvärdena som ska övervakas är:
 
@@ -102,7 +102,7 @@ Tyvärr finns det inget bra svar på hur många e-postmeddelanden som ska skicka
 * Vilken är kundens förmåga att ta emot innehåll från ert varumärke?
 * Vilka är era kunders säsongsinställningar?
 
-### 2. Identifiera prenumerantens status
+### 2. Identifiera abonnenternas status
 
 Abonnenternas status (aktiv, annullerad eller inaktiv) beror på hur ofta du skickar deras innehåll. Därifrån kan du avgöra hur förlovad de är.
 
@@ -116,7 +116,7 @@ För användare med fördröjd och inaktiv information bör du överväga vilket
 
 ### 3. Genomföra strategier för återengagemang
 
-Dela upp den här processen i två fokusområden: a) skicka e-postmönster och b) det kreativa innehållet i själva e-postmeddelandena. Här följer en mer detaljerad beskrivning av de olika områdena:
+Dela upp processen i två fokusområden: a) skicka mönster för e-post och b) det kreativa innehållet i själva e-postmeddelandena. Här följer en mer detaljerad beskrivning av de olika områdena:
 
 **Uppdatera sändningsmönster och tidsplaner**
 

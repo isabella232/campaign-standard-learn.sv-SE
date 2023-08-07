@@ -1,6 +1,6 @@
 ---
 title: Skapa ett arbetsflöde
-description: Lär dig hur du skapar och redigerar ett arbetsflöde.
+description: Lär dig skapa och redigera ett arbetsflöde.
 feature: Workflows
 jira: KT-1809
 thumbnail: 23937.jpg

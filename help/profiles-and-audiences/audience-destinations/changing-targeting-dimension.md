@@ -25,6 +25,6 @@ ht-degree: 8%
 >
 >Kontakta [!UICONTROL Adobe Customer Support] om du tänker implementera den här funktionen.
 
-I den här videon förklaras hur du ändrar målinriktningsdimensionen för en leverans för en [!UICONTROL Platform Audience] utanför den primära profiltabellen i Adobe Campaign Standard.
+I den här videon förklaras hur du ändrar målinriktningsdimensionen för en leverans för [!UICONTROL Platform Audience] utanför den primära profiltabellen i Adobe Campaign Standard.
 
 >[!VIDEO](https://video.tv.adobe.com/v/30151?quality=12&learn=on)

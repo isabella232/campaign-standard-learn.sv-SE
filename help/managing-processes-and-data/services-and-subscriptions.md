@@ -1,6 +1,6 @@
 ---
 title: Hantera tjänster och prenumerationer
-description: Lär dig hur du skapar en tjänst och hanterar prenumerationer.
+description: Lär dig skapa en tjänst och hantera prenumerationer.
 feature: Subscriptions
 jira: KT-1815
 thumbnail: 24673.jpg

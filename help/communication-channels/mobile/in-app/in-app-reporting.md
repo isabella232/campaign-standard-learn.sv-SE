@@ -17,7 +17,7 @@ ht-degree: 9%
 
 ---
 
-# Anmäl dig till [!UICONTROL In-App] leverans {#in-app-message-reporting}
+# Rapportera om dina [!UICONTROL In-App] leverans {#in-app-message-reporting}
 
 Lär dig hur du kan ge användaren sammanhangsberoende meddelanden i appen som svar på en kunds realtidsbeteende i mobilappen.
 
