@@ -10,9 +10,9 @@ team: PM
 exl-id: ce52a988-5072-401b-9a8b-112e42504022
 role: User, Developer
 level: Beginner, Intermediate, Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '167'
+source-wordcount: '169'
 ht-degree: 9%
 
 ---
@@ -31,6 +31,6 @@ Du kommer åt [!UICONTROL Unified Segment Builder] direkt i Adobe Campaign Stand
 
 I videon nedan förklaras hur en ny publik skapas med [!UICONTROL Unified Segment Builder] inom Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27638?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/27638?learn=on){trancript=true}
 
 *Skapa en målgrupp i Adobe Campaign Standard med Unified Segment Builder (min 02:47)*

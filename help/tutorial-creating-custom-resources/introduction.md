@@ -9,10 +9,10 @@ activity: use
 team: TM
 recommendations: noDisplay
 exl-id: 93af995f-6eca-4427-86f2-a8f63ae6b9c4
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '187'
-ht-degree: 100%
+source-wordcount: '189'
+ht-degree: 98%
 
 ---
 
@@ -36,7 +36,7 @@ För att kunna skapa anpassade resurser måste du ha administratörsrättigheter
 
 Om du vill använda ytterligare information om vad en kund har beställt, så att den är tillgänglig för marknadsföring och återmarknadsföring, måste du utöka datamodellen i [!DNL Campaign] genom att lägga till anpassade tabeller. I det här fallet måste en kund- och en beställningstabell skapas.
 
->[!VIDEO](https://video.tv.adobe.com/v/27715?quality=9)
+>[!VIDEO](https://video.tv.adobe.com/v/27715?learn=on){trancript=true}
 
 Den här självstudiekursen beskriver hur du:
 

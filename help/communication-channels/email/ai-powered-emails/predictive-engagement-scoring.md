@@ -10,9 +10,9 @@ team: ACS
 exl-id: 7d6634ed-f6b0-4d77-9148-3f2c0e444862
 role: User, Developer, Admin
 level: Experienced
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '188'
+source-wordcount: '190'
 ht-degree: 72%
 
 ---
@@ -28,4 +28,4 @@ ht-degree: 72%
 
 Lär dig hur du ser poängsättning för engagemang på individuell profilnivå, använder poäng för att målinrikta engagerade användare och undertrycker trötta användare samt hur du skapar typologiregler för att hantera kundtrötthet.
 
->[!VIDEO](https://video.tv.adobe.com/v/40470?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/40470?learn=on){trancript=true}

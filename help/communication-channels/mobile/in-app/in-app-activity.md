@@ -10,10 +10,10 @@ team: TM
 exl-id: 9d5b1769-9f04-45d0-bbce-38cd33c65bb0
 role: User, Developer
 level: Beginner, Intermediate
-source-git-commit: c84867ef59a10448a377a959d0b67ae71343a4aa
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '57'
-ht-degree: 12%
+source-wordcount: '59'
+ht-degree: 11%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 12%
 
 Lär dig hur du använder leveransaktiviteten i appen för att automatiskt skicka ett meddelande i appen till en målgrupp som beräknas i ett arbetsflöde.
 
->[!VIDEO](https://video.tv.adobe.com/v/26226?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/26226?learn=on){trancript=true}

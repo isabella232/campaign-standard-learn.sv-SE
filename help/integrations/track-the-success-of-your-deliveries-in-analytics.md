@@ -11,10 +11,10 @@ doc-type: feature video
 team: TM
 exl-id: babe7b9f-c198-4358-ba3a-91fabf584f9b
 badgeIntegration: label="Integrering" type="positive"
-source-git-commit: 019060e150a00b2d615b0ad694c664475b00c302
+source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
 workflow-type: tm+mt
-source-wordcount: '108'
-ht-degree: 100%
+source-wordcount: '110'
+ht-degree: 98%
 
 ---
 
@@ -22,6 +22,6 @@ ht-degree: 100%
 
 Läs om hur du konfigurerar integreringen mellan Campaign Standard och Analytics. Förstå hur du skapar en rapport i Analytics med data som tagits emot från Campaign Standard och vilka nyckeltal som är tillgängliga.
 
->[!VIDEO](https://video.tv.adobe.com/v/332576/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/332576/?learn=on){trancript=true}
 
 Mer information om produktguiden i Adobe Analytics finns i [Förstå och skapa rapportsviter](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=sv#intro-to-analytics).
