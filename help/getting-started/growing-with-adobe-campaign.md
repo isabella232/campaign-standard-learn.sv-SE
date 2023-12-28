@@ -11,9 +11,9 @@ exl-id: c6c4e1b9-9a5c-4474-84df-adcfa7b42621
 role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 93%
 
 Den här videon beskriver de möjliga nästa stegen till faktiskt orkestrering över flera kanaler.
 
->[!VIDEO](https://video.tv.adobe.com/v/29460?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29460?learn=on){transcript=true}
