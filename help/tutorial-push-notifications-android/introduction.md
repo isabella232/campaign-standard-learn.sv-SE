@@ -9,9 +9,9 @@ team: TM
 recommendations: noDisplay
 exl-id: 8dd772b2-b082-4e1e-842d-c5d6bcec564c
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '199'
-ht-degree: 98%
+workflow-type: ht
+source-wordcount: '193'
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Den här självstudiekursen visar steg för steg hur du skickar push-meddelanden
 ## Förhandskrav
 
 * Du bör ha startegenskapen konfigurerad med tillägget Adobe Campaign Standard. Följ onlinehjälpen nedan.
-   * [Videosjälvstudiekurs](https://video.tv.adobe.com/v/26224?learn=on){trancript=true}
+   * [Videosjälvstudie](https://video.tv.adobe.com/v/26224?learn=on){transcript=true}
    * [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/communication-channels/mobile/configure-mobile-apps-using-aep-sdk.html?lang=sv)
 
 * Kontrollera att motsvarande egenskaps status i Adobe Campaign Standard är inställd som konfigurerad.
