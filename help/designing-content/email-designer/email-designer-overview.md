@@ -12,9 +12,9 @@ role: User, Developer
 recommendations: noDisplay
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -24,7 +24,7 @@ Med [!UICONTROL Email Designer] kan du snabbt och enkelt att skapa individuellt 
 
 Den här videon ger dig en översikt över funktionaliteten och användningen av [!UICONTROL Email Designer] i Adobe Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/22771?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/22771?learn=on){transcript=true}
 
 ## Självstudiekurser
 
