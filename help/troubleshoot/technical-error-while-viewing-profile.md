@@ -8,9 +8,9 @@ type: Troubleshooting
 jira: KT-8385
 exl-id: 3c1901eb-8c53-4776-b79a-c76b732b905b
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '54'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -18,4 +18,4 @@ ht-degree: 96%
 
 Lär dig hur du felsöker ett tekniskt fel som inträffar när du visar en profil i Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/335890?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335890?learn=on){transcript=true}
