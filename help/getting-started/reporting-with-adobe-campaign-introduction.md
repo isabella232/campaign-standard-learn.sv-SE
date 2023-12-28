@@ -11,9 +11,9 @@ exl-id: 46978dbc-1716-4fc4-946e-56d703944d25
 role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '30'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 93%
 
 I den här videon får du en översikt över rapporteringsfunktionerna i Adobe Campaign Standard
 
->[!VIDEO](https://video.tv.adobe.com/v/29461?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29461?learn=on){transcript=true}
