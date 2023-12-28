@@ -11,9 +11,9 @@ exl-id: 61b64e5d-2751-47f9-a2b7-08835a28f763
 role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 96%
 
 Adobe Campaign låter dig planera marknadsföringskampanjer där du kan skapa och hantera olika typer av aktiviteter: e-postmeddelanden, SMS-meddelanden, [!UICONTROL push notifications], arbetsflöden och landningssidor. Dessa kampanjer och deras innehåll kan samlas i program. Den här videon visar hur du skapar och hanterar kampanjer i Adobe Campaign.
 
->[!VIDEO](https://video.tv.adobe.com/v/24672?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/24672?learn=on){transcript=true}
