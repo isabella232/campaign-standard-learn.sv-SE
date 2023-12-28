@@ -11,8 +11,8 @@ team: TM
 recommendations: noDisplay
 exl-id: fb766403-694c-4a7b-b3d1-4a418df85891
 source-git-commit: 9e584a8b5674c200632e92652c9bcc03b1ff2088
-workflow-type: tm+mt
-source-wordcount: '226'
+workflow-type: ht
+source-wordcount: '191'
 ht-degree: 100%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Adobe Campaign erbjuder personuppgiftsansvariga tre metoder för att utföra förfrågningar om tillgång till användarens information och att radera PII-data i enlighet med sekretessbestämmelser som GDPR (General Data Protection Regulation) och CCPA (California Consumer Privacy Act):
 
-* **Via integration av Privacy Core Service:** Förfrågningar om användarens information som skickas från [!UICONTROL Privacy Service] till alla Experience Cloud-lösningar hanteras automatiskt av Campaign via ett dedikerat arbetsflöde.
+* **Via integreringen av Privacy Core Service:** sekretessförfrågningar som skickas från [!UICONTROL Privacy Service] till alla Experience Cloud-lösningar hanteras automatiskt av Campaign via ett dedikerat arbetsflöde.
 
 * **Via API:** Adobe Campaign tillhandahåller ett API för automatisk bearbetning av förfrågningar om användarens information med REST
 
