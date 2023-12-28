@@ -11,9 +11,9 @@ team: PM
 exl-id: b1eecb0f-d51d-4671-93d1-656b507c5bb6
 badgeIntegration: label="Integrering" type="positive"
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '72'
+ht-degree: 100%
 
 ---
 
@@ -21,6 +21,6 @@ ht-degree: 97%
 
 Lär dig hur du konfigurerar Microsoft® Dynamics 365 för användning i integreringen mellan Dynamics och Campaign Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/27637?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/27637?learn=on){transcript=true}
 
 Mer information om hur du gör detta finns i produktdokumentationen [Kom igång med integrering av Microsoft® Dynamics 365](https://experienceleague.adobe.com/docs/campaign-standard/using/integrating-with-adobe-cloud/campaign-and-microsoft-dynamics-365/d365-acs-get-started.html?lang=sv)
