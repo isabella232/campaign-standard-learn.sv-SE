@@ -7,9 +7,9 @@ type: Troubleshooting
 jira: KT-8393
 exl-id: 85632ab3-3d07-4737-84e9-d265a769c37d
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '50'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -17,4 +17,4 @@ ht-degree: 96%
 
 Lär dig hur du löser felet ”GetAEMContentList” för tjänsten ”nms:delivery” när du ansluter från Campaign Standard till Experience Manager.
 
->[!VIDEO](https://video.tv.adobe.com/v/335897?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/335897?learn=on){transcript=true}
