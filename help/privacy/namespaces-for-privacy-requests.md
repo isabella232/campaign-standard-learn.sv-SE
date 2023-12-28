@@ -11,9 +11,9 @@ level: Experienced
 team: TM
 exl-id: b2d5362b-9b23-4f51-9802-19636457fab3
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '62'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -23,4 +23,4 @@ För att kunna skapa förfrågningar om åtkomst till och radering av användare
 
 Lär dig att skapa namnrymder för förfrågningar om användarens information.
 
->[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/22600?learn=on){transcript=true}
