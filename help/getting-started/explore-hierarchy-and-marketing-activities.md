@@ -11,9 +11,9 @@ exl-id: c5804637-804c-473f-80d8-d54263c49a5c
 role: User
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -21,5 +21,5 @@ ht-degree: 96%
 
 I den här videon förklaras hierarkin hos program och kampanjer, hur du skapar ett marknadsföringsprogram och hur du skapar en marknadsföringskampanj inom ett program.
 
->[!VIDEO](https://video.tv.adobe.com/v/18465?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/18465?learn=on){transcript=true}
 
