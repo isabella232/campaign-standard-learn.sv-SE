@@ -11,9 +11,9 @@ exl-id: 4377b2d6-e5cc-4f25-b40a-e24b7ddf74ed
 role: User, Developer
 level: Beginner
 source-git-commit: 943599bd7ce139ef846f093ebda9084a91550aca
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '38'
-ht-degree: 94%
+ht-degree: 100%
 
 ---
 
@@ -21,4 +21,4 @@ ht-degree: 94%
 
 I den här videon förklaras vilka funktioner i Adobe Campaign Standard som har stöd för din strategi för mobil marknadsföring.
 
->[!VIDEO](https://video.tv.adobe.com/v/29468?learn=on){trancript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/29468?learn=on){transcript=true}
