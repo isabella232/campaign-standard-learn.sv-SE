@@ -1,12 +1,12 @@
 ---
 user-guide-title: Självstudiekurser om Adobe Campaign Standard
-user-guide-description: Videofilmer och självstudiekurser för Adobe Campaign Standard.
+user-guide-description: Videoklipp och självstudiekurser för Adobe Campaign Standard.
 breadcrumb-title: Självstudiekurser om Campaign Standard
 auto-video-transcripts: true
 source-git-commit: dcbc833ea7dce4821b183f231775b4d4c1eaf8d3
 workflow-type: tm+mt
 source-wordcount: '516'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
